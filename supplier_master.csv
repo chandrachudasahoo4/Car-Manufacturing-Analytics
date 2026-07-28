@@ -1,201 +1,201 @@
-Supplier_Code,Supplier_Name,Country
-SUP1000,Supplier_1,China
-SUP1001,Supplier_2,India
-SUP1002,Supplier_3,India
-SUP1003,Supplier_4,China
-SUP1004,Supplier_5,Germany
-SUP1005,Supplier_6,Japan
-SUP1006,Supplier_7,Japan
-SUP1007,Supplier_8,Japan
-SUP1008,Supplier_9,China
-SUP1009,Supplier_10,India
-SUP1010,Supplier_11,China
-SUP1011,Supplier_12,China
-SUP1012,Supplier_13,Korea
-SUP1013,Supplier_14,India
-SUP1014,Supplier_15,Korea
-SUP1015,Supplier_16,USA
-SUP1016,Supplier_17,India
-SUP1017,Supplier_18,India
-SUP1018,Supplier_19,India
-SUP1019,Supplier_20,Japan
-SUP1020,Supplier_21,Japan
-SUP1021,Supplier_22,Korea
-SUP1022,Supplier_23,Korea
-SUP1023,Supplier_24,India
-SUP1024,Supplier_25,Korea
-SUP1025,Supplier_26,Japan
-SUP1026,Supplier_27,China
-SUP1027,Supplier_28,China
-SUP1028,Supplier_29,China
-SUP1029,Supplier_30,Korea
-SUP1030,Supplier_31,USA
-SUP1031,Supplier_32,Japan
-SUP1032,Supplier_33,USA
-SUP1033,Supplier_34,Korea
-SUP1034,Supplier_35,Germany
-SUP1035,Supplier_36,Thailand
-SUP1036,Supplier_37,Thailand
-SUP1037,Supplier_38,India
-SUP1038,Supplier_39,Thailand
-SUP1039,Supplier_40,Thailand
-SUP1040,Supplier_41,Japan
-SUP1041,Supplier_42,China
-SUP1042,Supplier_43,USA
-SUP1043,Supplier_44,Germany
-SUP1044,Supplier_45,Germany
-SUP1045,Supplier_46,Japan
-SUP1046,Supplier_47,Japan
-SUP1047,Supplier_48,Thailand
-SUP1048,Supplier_49,Germany
-SUP1049,Supplier_50,India
-SUP1050,Supplier_51,India
-SUP1051,Supplier_52,USA
-SUP1052,Supplier_53,India
-SUP1053,Supplier_54,Germany
-SUP1054,Supplier_55,Thailand
-SUP1055,Supplier_56,Germany
-SUP1056,Supplier_57,Korea
-SUP1057,Supplier_58,Germany
-SUP1058,Supplier_59,Thailand
-SUP1059,Supplier_60,India
-SUP1060,Supplier_61,China
-SUP1061,Supplier_62,USA
-SUP1062,Supplier_63,Korea
-SUP1063,Supplier_64,India
-SUP1064,Supplier_65,USA
-SUP1065,Supplier_66,India
-SUP1066,Supplier_67,Korea
-SUP1067,Supplier_68,Germany
-SUP1068,Supplier_69,Thailand
-SUP1069,Supplier_70,China
-SUP1070,Supplier_71,Korea
-SUP1071,Supplier_72,Thailand
-SUP1072,Supplier_73,Germany
-SUP1073,Supplier_74,Korea
-SUP1074,Supplier_75,Japan
-SUP1075,Supplier_76,China
-SUP1076,Supplier_77,India
-SUP1077,Supplier_78,India
-SUP1078,Supplier_79,China
-SUP1079,Supplier_80,Japan
-SUP1080,Supplier_81,Thailand
-SUP1081,Supplier_82,Germany
-SUP1082,Supplier_83,India
-SUP1083,Supplier_84,Thailand
-SUP1084,Supplier_85,Japan
-SUP1085,Supplier_86,Thailand
-SUP1086,Supplier_87,India
-SUP1087,Supplier_88,USA
-SUP1088,Supplier_89,Germany
-SUP1089,Supplier_90,USA
-SUP1090,Supplier_91,China
-SUP1091,Supplier_92,Thailand
-SUP1092,Supplier_93,Germany
-SUP1093,Supplier_94,Japan
-SUP1094,Supplier_95,Germany
-SUP1095,Supplier_96,Germany
-SUP1096,Supplier_97,Japan
-SUP1097,Supplier_98,China
-SUP1098,Supplier_99,Germany
-SUP1099,Supplier_100,China
-SUP1100,Supplier_101,China
-SUP1101,Supplier_102,China
-SUP1102,Supplier_103,India
-SUP1103,Supplier_104,Korea
-SUP1104,Supplier_105,China
-SUP1105,Supplier_106,Japan
-SUP1106,Supplier_107,Korea
-SUP1107,Supplier_108,China
-SUP1108,Supplier_109,Japan
-SUP1109,Supplier_110,Japan
-SUP1110,Supplier_111,USA
-SUP1111,Supplier_112,USA
-SUP1112,Supplier_113,Germany
-SUP1113,Supplier_114,China
-SUP1114,Supplier_115,China
-SUP1115,Supplier_116,Korea
-SUP1116,Supplier_117,Japan
-SUP1117,Supplier_118,China
-SUP1118,Supplier_119,Germany
-SUP1119,Supplier_120,Thailand
-SUP1120,Supplier_121,Thailand
-SUP1121,Supplier_122,Thailand
-SUP1122,Supplier_123,India
-SUP1123,Supplier_124,Japan
-SUP1124,Supplier_125,Thailand
-SUP1125,Supplier_126,India
-SUP1126,Supplier_127,Thailand
-SUP1127,Supplier_128,Germany
-SUP1128,Supplier_129,USA
-SUP1129,Supplier_130,Germany
-SUP1130,Supplier_131,India
-SUP1131,Supplier_132,Japan
-SUP1132,Supplier_133,Korea
-SUP1133,Supplier_134,China
-SUP1134,Supplier_135,Germany
-SUP1135,Supplier_136,Japan
-SUP1136,Supplier_137,China
-SUP1137,Supplier_138,USA
-SUP1138,Supplier_139,USA
-SUP1139,Supplier_140,China
-SUP1140,Supplier_141,USA
-SUP1141,Supplier_142,Japan
-SUP1142,Supplier_143,Germany
-SUP1143,Supplier_144,Japan
-SUP1144,Supplier_145,Japan
-SUP1145,Supplier_146,China
-SUP1146,Supplier_147,Korea
-SUP1147,Supplier_148,Korea
-SUP1148,Supplier_149,Germany
-SUP1149,Supplier_150,China
-SUP1150,Supplier_151,Korea
-SUP1151,Supplier_152,USA
-SUP1152,Supplier_153,Korea
-SUP1153,Supplier_154,USA
-SUP1154,Supplier_155,Germany
-SUP1155,Supplier_156,Japan
-SUP1156,Supplier_157,Japan
-SUP1157,Supplier_158,Korea
-SUP1158,Supplier_159,USA
-SUP1159,Supplier_160,India
-SUP1160,Supplier_161,Thailand
-SUP1161,Supplier_162,India
-SUP1162,Supplier_163,Thailand
-SUP1163,Supplier_164,India
-SUP1164,Supplier_165,Japan
-SUP1165,Supplier_166,China
-SUP1166,Supplier_167,Japan
-SUP1167,Supplier_168,Thailand
-SUP1168,Supplier_169,China
-SUP1169,Supplier_170,USA
-SUP1170,Supplier_171,Korea
-SUP1171,Supplier_172,India
-SUP1172,Supplier_173,USA
-SUP1173,Supplier_174,USA
-SUP1174,Supplier_175,Korea
-SUP1175,Supplier_176,USA
-SUP1176,Supplier_177,Korea
-SUP1177,Supplier_178,Germany
-SUP1178,Supplier_179,Korea
-SUP1179,Supplier_180,Thailand
-SUP1180,Supplier_181,India
-SUP1181,Supplier_182,China
-SUP1182,Supplier_183,China
-SUP1183,Supplier_184,India
-SUP1184,Supplier_185,China
-SUP1185,Supplier_186,Korea
-SUP1186,Supplier_187,Thailand
-SUP1187,Supplier_188,Germany
-SUP1188,Supplier_189,Thailand
-SUP1189,Supplier_190,China
-SUP1190,Supplier_191,Germany
-SUP1191,Supplier_192,India
-SUP1192,Supplier_193,Germany
-SUP1193,Supplier_194,USA
-SUP1194,Supplier_195,Japan
-SUP1195,Supplier_196,USA
-SUP1196,Supplier_197,India
-SUP1197,Supplier_198,China
-SUP1198,Supplier_199,China
-SUP1199,Supplier_200,Germany
+Supplier,Supplier_Name,PPM_Score,On_Time_Delivery_Pct
+SUP-01,Supplier Corp 1,112,88.03
+SUP-02,Supplier Corp 2,445,99.05
+SUP-03,Supplier Corp 3,358,93.92
+SUP-04,Supplier Corp 4,280,95.35
+SUP-05,Supplier Corp 5,116,98.12
+SUP-06,Supplier Corp 6,81,94.3
+SUP-07,Supplier Corp 7,198,89.4
+SUP-08,Supplier Corp 8,30,86.57
+SUP-09,Supplier Corp 9,112,91.8
+SUP-10,Supplier Corp 10,131,88.25
+SUP-11,Supplier Corp 11,476,91.21
+SUP-12,Supplier Corp 12,224,98.16
+SUP-13,Supplier Corp 13,340,89.83
+SUP-14,Supplier Corp 14,468,86.82
+SUP-15,Supplier Corp 15,97,90.31
+SUP-16,Supplier Corp 16,382,98.51
+SUP-17,Supplier Corp 17,109,89.05
+SUP-18,Supplier Corp 18,369,94.65
+SUP-19,Supplier Corp 19,161,85.01
+SUP-20,Supplier Corp 20,140,90.25
+SUP-21,Supplier Corp 21,159,89.54
+SUP-22,Supplier Corp 22,318,87.45
+SUP-23,Supplier Corp 23,267,92.96
+SUP-24,Supplier Corp 24,353,92.22
+SUP-25,Supplier Corp 25,423,95.32
+SUP-26,Supplier Corp 26,303,89.01
+SUP-27,Supplier Corp 27,395,88.64
+SUP-28,Supplier Corp 28,201,87.51
+SUP-29,Supplier Corp 29,453,88.26
+SUP-30,Supplier Corp 30,286,93.32
+SUP-31,Supplier Corp 31,170,91.02
+SUP-32,Supplier Corp 32,469,85.97
+SUP-33,Supplier Corp 33,323,88.78
+SUP-34,Supplier Corp 34,31,88.68
+SUP-35,Supplier Corp 35,262,95.37
+SUP-36,Supplier Corp 36,245,95.61
+SUP-37,Supplier Corp 37,354,87.21
+SUP-38,Supplier Corp 38,58,99.87
+SUP-39,Supplier Corp 39,484,88.98
+SUP-40,Supplier Corp 40,68,99.55
+SUP-41,Supplier Corp 41,179,91.12
+SUP-42,Supplier Corp 42,485,85.49
+SUP-43,Supplier Corp 43,197,90.14
+SUP-44,Supplier Corp 44,473,94.45
+SUP-45,Supplier Corp 45,280,95.14
+SUP-46,Supplier Corp 46,199,92.91
+SUP-47,Supplier Corp 47,455,91.67
+SUP-48,Supplier Corp 48,184,93.24
+SUP-49,Supplier Corp 49,455,93.83
+SUP-50,Supplier Corp 50,60,86.2
+SUP-51,Supplier Corp 51,373,90.51
+SUP-52,Supplier Corp 52,64,88.61
+SUP-53,Supplier Corp 53,253,96.97
+SUP-54,Supplier Corp 54,329,92.01
+SUP-55,Supplier Corp 55,140,99.65
+SUP-56,Supplier Corp 56,494,90.94
+SUP-57,Supplier Corp 57,316,97.16
+SUP-58,Supplier Corp 58,144,96.9
+SUP-59,Supplier Corp 59,30,87.25
+SUP-60,Supplier Corp 60,338,92.57
+SUP-61,Supplier Corp 61,176,95.37
+SUP-62,Supplier Corp 62,283,97.79
+SUP-63,Supplier Corp 63,397,89.86
+SUP-64,Supplier Corp 64,98,88.28
+SUP-65,Supplier Corp 65,325,95.6
+SUP-66,Supplier Corp 66,23,97.06
+SUP-67,Supplier Corp 67,251,90.2
+SUP-68,Supplier Corp 68,274,86.43
+SUP-69,Supplier Corp 69,355,99.01
+SUP-70,Supplier Corp 70,62,90.92
+SUP-71,Supplier Corp 71,395,92.71
+SUP-72,Supplier Corp 72,349,97.48
+SUP-73,Supplier Corp 73,101,95.07
+SUP-74,Supplier Corp 74,376,95.95
+SUP-75,Supplier Corp 75,453,88.12
+SUP-76,Supplier Corp 76,464,93.07
+SUP-77,Supplier Corp 77,437,95.37
+SUP-78,Supplier Corp 78,273,88.41
+SUP-79,Supplier Corp 79,440,87.61
+SUP-80,Supplier Corp 80,44,99.63
+SUP-81,Supplier Corp 81,215,92.7
+SUP-82,Supplier Corp 82,90,88.89
+SUP-83,Supplier Corp 83,429,99.84
+SUP-84,Supplier Corp 84,59,99.38
+SUP-85,Supplier Corp 85,369,93.32
+SUP-86,Supplier Corp 86,397,98.15
+SUP-87,Supplier Corp 87,11,87.81
+SUP-88,Supplier Corp 88,399,89.16
+SUP-89,Supplier Corp 89,63,95.44
+SUP-90,Supplier Corp 90,115,97.62
+SUP-91,Supplier Corp 91,269,97.76
+SUP-92,Supplier Corp 92,319,91.03
+SUP-93,Supplier Corp 93,486,98.23
+SUP-94,Supplier Corp 94,200,97.68
+SUP-95,Supplier Corp 95,411,98.94
+SUP-96,Supplier Corp 96,227,96.7
+SUP-97,Supplier Corp 97,53,94.97
+SUP-98,Supplier Corp 98,171,93.65
+SUP-99,Supplier Corp 99,211,90.55
+SUP-100,Supplier Corp 100,455,99.01
+SUP-101,Supplier Corp 101,493,99.51
+SUP-102,Supplier Corp 102,279,89.23
+SUP-103,Supplier Corp 103,360,89.55
+SUP-104,Supplier Corp 104,313,92.24
+SUP-105,Supplier Corp 105,280,91.68
+SUP-106,Supplier Corp 106,465,99.82
+SUP-107,Supplier Corp 107,471,87.62
+SUP-108,Supplier Corp 108,224,85.27
+SUP-109,Supplier Corp 109,261,92.36
+SUP-110,Supplier Corp 110,199,87.66
+SUP-111,Supplier Corp 111,305,90.46
+SUP-112,Supplier Corp 112,222,96.09
+SUP-113,Supplier Corp 113,217,95.74
+SUP-114,Supplier Corp 114,246,89.59
+SUP-115,Supplier Corp 115,347,93.08
+SUP-116,Supplier Corp 116,376,92.58
+SUP-117,Supplier Corp 117,62,94.48
+SUP-118,Supplier Corp 118,289,88.73
+SUP-119,Supplier Corp 119,419,93.79
+SUP-120,Supplier Corp 120,226,99.59
+SUP-121,Supplier Corp 121,261,92.25
+SUP-122,Supplier Corp 122,197,98.5
+SUP-123,Supplier Corp 123,389,91.47
+SUP-124,Supplier Corp 124,50,90.22
+SUP-125,Supplier Corp 125,166,94.61
+SUP-126,Supplier Corp 126,24,94.97
+SUP-127,Supplier Corp 127,310,97.88
+SUP-128,Supplier Corp 128,74,88.43
+SUP-129,Supplier Corp 129,354,92.44
+SUP-130,Supplier Corp 130,336,93.52
+SUP-131,Supplier Corp 131,18,96.45
+SUP-132,Supplier Corp 132,353,85.65
+SUP-133,Supplier Corp 133,138,99.82
+SUP-134,Supplier Corp 134,145,92.0
+SUP-135,Supplier Corp 135,481,89.17
+SUP-136,Supplier Corp 136,72,98.16
+SUP-137,Supplier Corp 137,148,96.14
+SUP-138,Supplier Corp 138,90,99.2
+SUP-139,Supplier Corp 139,401,89.93
+SUP-140,Supplier Corp 140,172,93.24
+SUP-141,Supplier Corp 141,428,93.53
+SUP-142,Supplier Corp 142,298,99.61
+SUP-143,Supplier Corp 143,388,86.12
+SUP-144,Supplier Corp 144,270,89.55
+SUP-145,Supplier Corp 145,499,87.84
+SUP-146,Supplier Corp 146,240,89.0
+SUP-147,Supplier Corp 147,50,92.23
+SUP-148,Supplier Corp 148,37,90.55
+SUP-149,Supplier Corp 149,144,90.88
+SUP-150,Supplier Corp 150,210,97.58
+SUP-151,Supplier Corp 151,337,98.86
+SUP-152,Supplier Corp 152,277,86.05
+SUP-153,Supplier Corp 153,427,88.11
+SUP-154,Supplier Corp 154,42,95.0
+SUP-155,Supplier Corp 155,57,90.34
+SUP-156,Supplier Corp 156,416,88.79
+SUP-157,Supplier Corp 157,71,89.4
+SUP-158,Supplier Corp 158,225,89.81
+SUP-159,Supplier Corp 159,302,97.65
+SUP-160,Supplier Corp 160,108,87.04
+SUP-161,Supplier Corp 161,181,95.56
+SUP-162,Supplier Corp 162,369,93.24
+SUP-163,Supplier Corp 163,223,89.42
+SUP-164,Supplier Corp 164,484,91.25
+SUP-165,Supplier Corp 165,44,88.82
+SUP-166,Supplier Corp 166,458,94.11
+SUP-167,Supplier Corp 167,236,86.22
+SUP-168,Supplier Corp 168,110,85.08
+SUP-169,Supplier Corp 169,440,94.36
+SUP-170,Supplier Corp 170,471,87.89
+SUP-171,Supplier Corp 171,140,86.06
+SUP-172,Supplier Corp 172,266,90.91
+SUP-173,Supplier Corp 173,14,85.76
+SUP-174,Supplier Corp 174,227,98.21
+SUP-175,Supplier Corp 175,264,85.41
+SUP-176,Supplier Corp 176,407,93.63
+SUP-177,Supplier Corp 177,368,91.53
+SUP-178,Supplier Corp 178,292,95.01
+SUP-179,Supplier Corp 179,402,89.89
+SUP-180,Supplier Corp 180,216,87.31
+SUP-181,Supplier Corp 181,24,99.63
+SUP-182,Supplier Corp 182,355,97.5
+SUP-183,Supplier Corp 183,51,97.82
+SUP-184,Supplier Corp 184,389,88.73
+SUP-185,Supplier Corp 185,470,85.58
+SUP-186,Supplier Corp 186,188,89.52
+SUP-187,Supplier Corp 187,72,93.0
+SUP-188,Supplier Corp 188,361,89.87
+SUP-189,Supplier Corp 189,240,97.34
+SUP-190,Supplier Corp 190,250,89.05
+SUP-191,Supplier Corp 191,61,99.38
+SUP-192,Supplier Corp 192,105,91.81
+SUP-193,Supplier Corp 193,397,97.55
+SUP-194,Supplier Corp 194,231,87.9
+SUP-195,Supplier Corp 195,494,91.13
+SUP-196,Supplier Corp 196,416,95.42
+SUP-197,Supplier Corp 197,240,87.06
+SUP-198,Supplier Corp 198,246,86.98
+SUP-199,Supplier Corp 199,152,99.45
+SUP-200,Supplier Corp 200,180,95.65
