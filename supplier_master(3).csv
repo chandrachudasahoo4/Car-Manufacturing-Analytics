@@ -1,0 +1,201 @@
+Supplier_Code,Supplier_Name,City,State,Country,Supplier_Type,Quality_Rating,On_Time_Delivery_%,PPM_Defects,Contact_Email
+SUP-001,Auto Supplier 1,Pune,Maharashtra,India,Tier-2,3.8,93,51,supplier1@autosupply.com
+SUP-002,Auto Supplier 2,Chennai,Tamil Nadu,India,Tier-2,3.7,87,257,supplier2@autosupply.com
+SUP-003,Auto Supplier 3,Bengaluru,Karnataka,India,Tier-1,3.2,88,499,supplier3@autosupply.com
+SUP-004,Auto Supplier 4,Gurugram,Haryana,India,Tier-2,4.7,86,470,supplier4@autosupply.com
+SUP-005,Auto Supplier 5,Mumbai,Maharashtra,India,Tier-3,3.1,93,417,supplier5@autosupply.com
+SUP-006,Auto Supplier 6,Nagoya,Aichi,Japan,Tier-3,3.3,98,48,supplier6@autosupply.com
+SUP-007,Auto Supplier 7,Seoul,Seoul,South Korea,Tier-3,3.8,86,482,supplier7@autosupply.com
+SUP-008,Auto Supplier 8,Bangkok,Bangkok,Thailand,Tier-1,3.3,93,192,supplier8@autosupply.com
+SUP-009,Auto Supplier 9,Detroit,Michigan,USA,Tier-3,4.9,88,220,supplier9@autosupply.com
+SUP-010,Auto Supplier 10,Stuttgart,Baden-Württemberg,Germany,Tier-1,3.0,95,172,supplier10@autosupply.com
+SUP-011,Auto Supplier 11,Pune,Maharashtra,India,Tier-2,4.4,93,313,supplier11@autosupply.com
+SUP-012,Auto Supplier 12,Chennai,Tamil Nadu,India,Tier-3,3.1,96,476,supplier12@autosupply.com
+SUP-013,Auto Supplier 13,Bengaluru,Karnataka,India,Tier-1,3.7,85,137,supplier13@autosupply.com
+SUP-014,Auto Supplier 14,Gurugram,Haryana,India,Tier-2,4.4,98,160,supplier14@autosupply.com
+SUP-015,Auto Supplier 15,Mumbai,Maharashtra,India,Tier-1,3.8,97,83,supplier15@autosupply.com
+SUP-016,Auto Supplier 16,Nagoya,Aichi,Japan,Tier-3,3.9,87,296,supplier16@autosupply.com
+SUP-017,Auto Supplier 17,Seoul,Seoul,South Korea,Tier-2,3.1,85,329,supplier17@autosupply.com
+SUP-018,Auto Supplier 18,Bangkok,Bangkok,Thailand,Tier-3,4.3,94,172,supplier18@autosupply.com
+SUP-019,Auto Supplier 19,Detroit,Michigan,USA,Tier-2,3.3,85,328,supplier19@autosupply.com
+SUP-020,Auto Supplier 20,Stuttgart,Baden-Württemberg,Germany,Tier-2,3.1,88,11,supplier20@autosupply.com
+SUP-021,Auto Supplier 21,Pune,Maharashtra,India,Tier-3,4.8,96,327,supplier21@autosupply.com
+SUP-022,Auto Supplier 22,Chennai,Tamil Nadu,India,Tier-2,3.9,91,178,supplier22@autosupply.com
+SUP-023,Auto Supplier 23,Bengaluru,Karnataka,India,Tier-2,4.9,92,262,supplier23@autosupply.com
+SUP-024,Auto Supplier 24,Gurugram,Haryana,India,Tier-1,3.3,85,315,supplier24@autosupply.com
+SUP-025,Auto Supplier 25,Mumbai,Maharashtra,India,Tier-2,4.7,88,99,supplier25@autosupply.com
+SUP-026,Auto Supplier 26,Nagoya,Aichi,Japan,Tier-3,3.4,87,467,supplier26@autosupply.com
+SUP-027,Auto Supplier 27,Seoul,Seoul,South Korea,Tier-1,3.1,89,210,supplier27@autosupply.com
+SUP-028,Auto Supplier 28,Bangkok,Bangkok,Thailand,Tier-3,3.3,99,448,supplier28@autosupply.com
+SUP-029,Auto Supplier 29,Detroit,Michigan,USA,Tier-2,4.3,93,205,supplier29@autosupply.com
+SUP-030,Auto Supplier 30,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.8,90,373,supplier30@autosupply.com
+SUP-031,Auto Supplier 31,Pune,Maharashtra,India,Tier-3,4.8,87,174,supplier31@autosupply.com
+SUP-032,Auto Supplier 32,Chennai,Tamil Nadu,India,Tier-3,4.3,98,129,supplier32@autosupply.com
+SUP-033,Auto Supplier 33,Bengaluru,Karnataka,India,Tier-2,3.7,91,426,supplier33@autosupply.com
+SUP-034,Auto Supplier 34,Gurugram,Haryana,India,Tier-2,4.8,85,358,supplier34@autosupply.com
+SUP-035,Auto Supplier 35,Mumbai,Maharashtra,India,Tier-2,4.2,99,343,supplier35@autosupply.com
+SUP-036,Auto Supplier 36,Nagoya,Aichi,Japan,Tier-3,4.3,92,475,supplier36@autosupply.com
+SUP-037,Auto Supplier 37,Seoul,Seoul,South Korea,Tier-3,3.5,92,41,supplier37@autosupply.com
+SUP-038,Auto Supplier 38,Bangkok,Bangkok,Thailand,Tier-1,3.2,96,301,supplier38@autosupply.com
+SUP-039,Auto Supplier 39,Detroit,Michigan,USA,Tier-3,3.6,95,492,supplier39@autosupply.com
+SUP-040,Auto Supplier 40,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.6,97,313,supplier40@autosupply.com
+SUP-041,Auto Supplier 41,Pune,Maharashtra,India,Tier-1,4.4,97,347,supplier41@autosupply.com
+SUP-042,Auto Supplier 42,Chennai,Tamil Nadu,India,Tier-2,4.5,97,299,supplier42@autosupply.com
+SUP-043,Auto Supplier 43,Bengaluru,Karnataka,India,Tier-1,3.8,97,41,supplier43@autosupply.com
+SUP-044,Auto Supplier 44,Gurugram,Haryana,India,Tier-1,3.7,93,51,supplier44@autosupply.com
+SUP-045,Auto Supplier 45,Mumbai,Maharashtra,India,Tier-3,3.3,95,122,supplier45@autosupply.com
+SUP-046,Auto Supplier 46,Nagoya,Aichi,Japan,Tier-1,3.8,89,353,supplier46@autosupply.com
+SUP-047,Auto Supplier 47,Seoul,Seoul,South Korea,Tier-1,4.2,98,321,supplier47@autosupply.com
+SUP-048,Auto Supplier 48,Bangkok,Bangkok,Thailand,Tier-3,4.6,89,330,supplier48@autosupply.com
+SUP-049,Auto Supplier 49,Detroit,Michigan,USA,Tier-1,5.0,85,77,supplier49@autosupply.com
+SUP-050,Auto Supplier 50,Stuttgart,Baden-Württemberg,Germany,Tier-3,3.6,89,329,supplier50@autosupply.com
+SUP-051,Auto Supplier 51,Pune,Maharashtra,India,Tier-3,4.5,97,305,supplier51@autosupply.com
+SUP-052,Auto Supplier 52,Chennai,Tamil Nadu,India,Tier-2,3.8,85,116,supplier52@autosupply.com
+SUP-053,Auto Supplier 53,Bengaluru,Karnataka,India,Tier-1,3.2,86,441,supplier53@autosupply.com
+SUP-054,Auto Supplier 54,Gurugram,Haryana,India,Tier-2,3.1,98,293,supplier54@autosupply.com
+SUP-055,Auto Supplier 55,Mumbai,Maharashtra,India,Tier-2,3.7,93,149,supplier55@autosupply.com
+SUP-056,Auto Supplier 56,Nagoya,Aichi,Japan,Tier-2,4.7,98,469,supplier56@autosupply.com
+SUP-057,Auto Supplier 57,Seoul,Seoul,South Korea,Tier-2,3.3,94,130,supplier57@autosupply.com
+SUP-058,Auto Supplier 58,Bangkok,Bangkok,Thailand,Tier-3,3.2,90,347,supplier58@autosupply.com
+SUP-059,Auto Supplier 59,Detroit,Michigan,USA,Tier-3,3.9,99,499,supplier59@autosupply.com
+SUP-060,Auto Supplier 60,Stuttgart,Baden-Württemberg,Germany,Tier-1,3.2,98,188,supplier60@autosupply.com
+SUP-061,Auto Supplier 61,Pune,Maharashtra,India,Tier-1,4.9,95,454,supplier61@autosupply.com
+SUP-062,Auto Supplier 62,Chennai,Tamil Nadu,India,Tier-1,3.8,100,334,supplier62@autosupply.com
+SUP-063,Auto Supplier 63,Bengaluru,Karnataka,India,Tier-1,4.4,98,107,supplier63@autosupply.com
+SUP-064,Auto Supplier 64,Gurugram,Haryana,India,Tier-2,3.4,93,329,supplier64@autosupply.com
+SUP-065,Auto Supplier 65,Mumbai,Maharashtra,India,Tier-3,3.0,86,62,supplier65@autosupply.com
+SUP-066,Auto Supplier 66,Nagoya,Aichi,Japan,Tier-1,4.2,100,278,supplier66@autosupply.com
+SUP-067,Auto Supplier 67,Seoul,Seoul,South Korea,Tier-3,3.9,89,197,supplier67@autosupply.com
+SUP-068,Auto Supplier 68,Bangkok,Bangkok,Thailand,Tier-1,3.7,94,303,supplier68@autosupply.com
+SUP-069,Auto Supplier 69,Detroit,Michigan,USA,Tier-1,4.8,94,31,supplier69@autosupply.com
+SUP-070,Auto Supplier 70,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.9,90,182,supplier70@autosupply.com
+SUP-071,Auto Supplier 71,Pune,Maharashtra,India,Tier-3,4.2,98,60,supplier71@autosupply.com
+SUP-072,Auto Supplier 72,Chennai,Tamil Nadu,India,Tier-1,4.7,88,440,supplier72@autosupply.com
+SUP-073,Auto Supplier 73,Bengaluru,Karnataka,India,Tier-3,3.8,93,155,supplier73@autosupply.com
+SUP-074,Auto Supplier 74,Gurugram,Haryana,India,Tier-1,3.4,98,198,supplier74@autosupply.com
+SUP-075,Auto Supplier 75,Mumbai,Maharashtra,India,Tier-1,4.9,99,367,supplier75@autosupply.com
+SUP-076,Auto Supplier 76,Nagoya,Aichi,Japan,Tier-2,3.8,97,83,supplier76@autosupply.com
+SUP-077,Auto Supplier 77,Seoul,Seoul,South Korea,Tier-2,3.2,88,146,supplier77@autosupply.com
+SUP-078,Auto Supplier 78,Bangkok,Bangkok,Thailand,Tier-1,3.6,87,394,supplier78@autosupply.com
+SUP-079,Auto Supplier 79,Detroit,Michigan,USA,Tier-1,4.8,90,335,supplier79@autosupply.com
+SUP-080,Auto Supplier 80,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.9,86,52,supplier80@autosupply.com
+SUP-081,Auto Supplier 81,Pune,Maharashtra,India,Tier-3,4.5,98,132,supplier81@autosupply.com
+SUP-082,Auto Supplier 82,Chennai,Tamil Nadu,India,Tier-2,4.2,90,487,supplier82@autosupply.com
+SUP-083,Auto Supplier 83,Bengaluru,Karnataka,India,Tier-3,4.0,93,192,supplier83@autosupply.com
+SUP-084,Auto Supplier 84,Gurugram,Haryana,India,Tier-2,4.3,86,164,supplier84@autosupply.com
+SUP-085,Auto Supplier 85,Mumbai,Maharashtra,India,Tier-1,4.8,98,244,supplier85@autosupply.com
+SUP-086,Auto Supplier 86,Nagoya,Aichi,Japan,Tier-2,4.1,88,344,supplier86@autosupply.com
+SUP-087,Auto Supplier 87,Seoul,Seoul,South Korea,Tier-3,3.3,99,413,supplier87@autosupply.com
+SUP-088,Auto Supplier 88,Bangkok,Bangkok,Thailand,Tier-2,3.7,96,109,supplier88@autosupply.com
+SUP-089,Auto Supplier 89,Detroit,Michigan,USA,Tier-2,3.8,91,485,supplier89@autosupply.com
+SUP-090,Auto Supplier 90,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.6,89,344,supplier90@autosupply.com
+SUP-091,Auto Supplier 91,Pune,Maharashtra,India,Tier-3,3.3,85,81,supplier91@autosupply.com
+SUP-092,Auto Supplier 92,Chennai,Tamil Nadu,India,Tier-2,5.0,93,252,supplier92@autosupply.com
+SUP-093,Auto Supplier 93,Bengaluru,Karnataka,India,Tier-3,4.1,96,452,supplier93@autosupply.com
+SUP-094,Auto Supplier 94,Gurugram,Haryana,India,Tier-2,3.2,91,410,supplier94@autosupply.com
+SUP-095,Auto Supplier 95,Mumbai,Maharashtra,India,Tier-2,3.7,99,141,supplier95@autosupply.com
+SUP-096,Auto Supplier 96,Nagoya,Aichi,Japan,Tier-1,3.4,92,300,supplier96@autosupply.com
+SUP-097,Auto Supplier 97,Seoul,Seoul,South Korea,Tier-2,4.0,89,387,supplier97@autosupply.com
+SUP-098,Auto Supplier 98,Bangkok,Bangkok,Thailand,Tier-2,3.5,94,484,supplier98@autosupply.com
+SUP-099,Auto Supplier 99,Detroit,Michigan,USA,Tier-2,4.7,100,352,supplier99@autosupply.com
+SUP-100,Auto Supplier 100,Stuttgart,Baden-Württemberg,Germany,Tier-3,4.9,90,356,supplier100@autosupply.com
+SUP-101,Auto Supplier 101,Pune,Maharashtra,India,Tier-2,4.0,95,114,supplier101@autosupply.com
+SUP-102,Auto Supplier 102,Chennai,Tamil Nadu,India,Tier-3,4.5,95,455,supplier102@autosupply.com
+SUP-103,Auto Supplier 103,Bengaluru,Karnataka,India,Tier-3,3.5,87,474,supplier103@autosupply.com
+SUP-104,Auto Supplier 104,Gurugram,Haryana,India,Tier-1,4.0,99,126,supplier104@autosupply.com
+SUP-105,Auto Supplier 105,Mumbai,Maharashtra,India,Tier-3,4.7,90,124,supplier105@autosupply.com
+SUP-106,Auto Supplier 106,Nagoya,Aichi,Japan,Tier-3,4.8,90,301,supplier106@autosupply.com
+SUP-107,Auto Supplier 107,Seoul,Seoul,South Korea,Tier-1,4.0,89,128,supplier107@autosupply.com
+SUP-108,Auto Supplier 108,Bangkok,Bangkok,Thailand,Tier-2,4.2,100,257,supplier108@autosupply.com
+SUP-109,Auto Supplier 109,Detroit,Michigan,USA,Tier-2,4.7,97,165,supplier109@autosupply.com
+SUP-110,Auto Supplier 110,Stuttgart,Baden-Württemberg,Germany,Tier-3,4.1,98,127,supplier110@autosupply.com
+SUP-111,Auto Supplier 111,Pune,Maharashtra,India,Tier-2,3.5,99,459,supplier111@autosupply.com
+SUP-112,Auto Supplier 112,Chennai,Tamil Nadu,India,Tier-3,4.1,100,335,supplier112@autosupply.com
+SUP-113,Auto Supplier 113,Bengaluru,Karnataka,India,Tier-1,4.8,92,172,supplier113@autosupply.com
+SUP-114,Auto Supplier 114,Gurugram,Haryana,India,Tier-3,4.4,100,224,supplier114@autosupply.com
+SUP-115,Auto Supplier 115,Mumbai,Maharashtra,India,Tier-3,4.8,96,230,supplier115@autosupply.com
+SUP-116,Auto Supplier 116,Nagoya,Aichi,Japan,Tier-2,4.8,85,223,supplier116@autosupply.com
+SUP-117,Auto Supplier 117,Seoul,Seoul,South Korea,Tier-1,3.8,85,463,supplier117@autosupply.com
+SUP-118,Auto Supplier 118,Bangkok,Bangkok,Thailand,Tier-3,4.7,91,138,supplier118@autosupply.com
+SUP-119,Auto Supplier 119,Detroit,Michigan,USA,Tier-3,4.2,96,391,supplier119@autosupply.com
+SUP-120,Auto Supplier 120,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.5,94,294,supplier120@autosupply.com
+SUP-121,Auto Supplier 121,Pune,Maharashtra,India,Tier-3,4.4,93,490,supplier121@autosupply.com
+SUP-122,Auto Supplier 122,Chennai,Tamil Nadu,India,Tier-1,3.3,96,403,supplier122@autosupply.com
+SUP-123,Auto Supplier 123,Bengaluru,Karnataka,India,Tier-1,4.8,93,172,supplier123@autosupply.com
+SUP-124,Auto Supplier 124,Gurugram,Haryana,India,Tier-2,3.1,89,245,supplier124@autosupply.com
+SUP-125,Auto Supplier 125,Mumbai,Maharashtra,India,Tier-2,3.3,99,260,supplier125@autosupply.com
+SUP-126,Auto Supplier 126,Nagoya,Aichi,Japan,Tier-3,3.2,92,12,supplier126@autosupply.com
+SUP-127,Auto Supplier 127,Seoul,Seoul,South Korea,Tier-3,4.7,92,44,supplier127@autosupply.com
+SUP-128,Auto Supplier 128,Bangkok,Bangkok,Thailand,Tier-1,3.1,97,187,supplier128@autosupply.com
+SUP-129,Auto Supplier 129,Detroit,Michigan,USA,Tier-1,4.4,97,397,supplier129@autosupply.com
+SUP-130,Auto Supplier 130,Stuttgart,Baden-Württemberg,Germany,Tier-3,4.1,90,320,supplier130@autosupply.com
+SUP-131,Auto Supplier 131,Pune,Maharashtra,India,Tier-3,4.5,97,53,supplier131@autosupply.com
+SUP-132,Auto Supplier 132,Chennai,Tamil Nadu,India,Tier-1,4.3,95,417,supplier132@autosupply.com
+SUP-133,Auto Supplier 133,Bengaluru,Karnataka,India,Tier-3,3.7,97,306,supplier133@autosupply.com
+SUP-134,Auto Supplier 134,Gurugram,Haryana,India,Tier-1,3.7,93,335,supplier134@autosupply.com
+SUP-135,Auto Supplier 135,Mumbai,Maharashtra,India,Tier-1,4.8,85,264,supplier135@autosupply.com
+SUP-136,Auto Supplier 136,Nagoya,Aichi,Japan,Tier-3,4.1,90,276,supplier136@autosupply.com
+SUP-137,Auto Supplier 137,Seoul,Seoul,South Korea,Tier-3,4.5,94,128,supplier137@autosupply.com
+SUP-138,Auto Supplier 138,Bangkok,Bangkok,Thailand,Tier-3,4.6,95,500,supplier138@autosupply.com
+SUP-139,Auto Supplier 139,Detroit,Michigan,USA,Tier-1,4.5,85,334,supplier139@autosupply.com
+SUP-140,Auto Supplier 140,Stuttgart,Baden-Württemberg,Germany,Tier-2,4.8,86,241,supplier140@autosupply.com
+SUP-141,Auto Supplier 141,Pune,Maharashtra,India,Tier-2,4.5,88,155,supplier141@autosupply.com
+SUP-142,Auto Supplier 142,Chennai,Tamil Nadu,India,Tier-1,3.6,96,314,supplier142@autosupply.com
+SUP-143,Auto Supplier 143,Bengaluru,Karnataka,India,Tier-3,3.5,97,114,supplier143@autosupply.com
+SUP-144,Auto Supplier 144,Gurugram,Haryana,India,Tier-1,4.8,100,447,supplier144@autosupply.com
+SUP-145,Auto Supplier 145,Mumbai,Maharashtra,India,Tier-1,4.8,91,184,supplier145@autosupply.com
+SUP-146,Auto Supplier 146,Nagoya,Aichi,Japan,Tier-1,4.2,88,398,supplier146@autosupply.com
+SUP-147,Auto Supplier 147,Seoul,Seoul,South Korea,Tier-3,3.4,99,322,supplier147@autosupply.com
+SUP-148,Auto Supplier 148,Bangkok,Bangkok,Thailand,Tier-3,3.1,92,74,supplier148@autosupply.com
+SUP-149,Auto Supplier 149,Detroit,Michigan,USA,Tier-3,3.6,87,451,supplier149@autosupply.com
+SUP-150,Auto Supplier 150,Stuttgart,Baden-Württemberg,Germany,Tier-1,4.4,96,175,supplier150@autosupply.com
+SUP-151,Auto Supplier 151,Pune,Maharashtra,India,Tier-3,3.2,100,347,supplier151@autosupply.com
+SUP-152,Auto Supplier 152,Chennai,Tamil Nadu,India,Tier-1,4.5,99,461,supplier152@autosupply.com
+SUP-153,Auto Supplier 153,Bengaluru,Karnataka,India,Tier-1,4.9,89,487,supplier153@autosupply.com
+SUP-154,Auto Supplier 154,Gurugram,Haryana,India,Tier-1,4.1,86,179,supplier154@autosupply.com
+SUP-155,Auto Supplier 155,Mumbai,Maharashtra,India,Tier-3,4.1,97,259,supplier155@autosupply.com
+SUP-156,Auto Supplier 156,Nagoya,Aichi,Japan,Tier-3,4.9,93,355,supplier156@autosupply.com
+SUP-157,Auto Supplier 157,Seoul,Seoul,South Korea,Tier-2,4.1,100,264,supplier157@autosupply.com
+SUP-158,Auto Supplier 158,Bangkok,Bangkok,Thailand,Tier-2,4.6,89,349,supplier158@autosupply.com
+SUP-159,Auto Supplier 159,Detroit,Michigan,USA,Tier-3,3.9,93,386,supplier159@autosupply.com
+SUP-160,Auto Supplier 160,Stuttgart,Baden-Württemberg,Germany,Tier-3,3.5,89,62,supplier160@autosupply.com
+SUP-161,Auto Supplier 161,Pune,Maharashtra,India,Tier-3,3.8,99,27,supplier161@autosupply.com
+SUP-162,Auto Supplier 162,Chennai,Tamil Nadu,India,Tier-2,4.7,86,373,supplier162@autosupply.com
+SUP-163,Auto Supplier 163,Bengaluru,Karnataka,India,Tier-1,3.1,92,494,supplier163@autosupply.com
+SUP-164,Auto Supplier 164,Gurugram,Haryana,India,Tier-1,3.0,99,417,supplier164@autosupply.com
+SUP-165,Auto Supplier 165,Mumbai,Maharashtra,India,Tier-3,4.2,91,126,supplier165@autosupply.com
+SUP-166,Auto Supplier 166,Nagoya,Aichi,Japan,Tier-1,4.6,94,22,supplier166@autosupply.com
+SUP-167,Auto Supplier 167,Seoul,Seoul,South Korea,Tier-1,5.0,97,92,supplier167@autosupply.com
+SUP-168,Auto Supplier 168,Bangkok,Bangkok,Thailand,Tier-1,3.4,99,203,supplier168@autosupply.com
+SUP-169,Auto Supplier 169,Detroit,Michigan,USA,Tier-1,4.2,89,128,supplier169@autosupply.com
+SUP-170,Auto Supplier 170,Stuttgart,Baden-Württemberg,Germany,Tier-2,3.9,96,301,supplier170@autosupply.com
+SUP-171,Auto Supplier 171,Pune,Maharashtra,India,Tier-1,4.0,87,31,supplier171@autosupply.com
+SUP-172,Auto Supplier 172,Chennai,Tamil Nadu,India,Tier-2,4.5,91,32,supplier172@autosupply.com
+SUP-173,Auto Supplier 173,Bengaluru,Karnataka,India,Tier-2,3.8,93,298,supplier173@autosupply.com
+SUP-174,Auto Supplier 174,Gurugram,Haryana,India,Tier-1,4.6,91,453,supplier174@autosupply.com
+SUP-175,Auto Supplier 175,Mumbai,Maharashtra,India,Tier-2,3.7,91,215,supplier175@autosupply.com
+SUP-176,Auto Supplier 176,Nagoya,Aichi,Japan,Tier-3,3.7,98,281,supplier176@autosupply.com
+SUP-177,Auto Supplier 177,Seoul,Seoul,South Korea,Tier-2,3.3,87,92,supplier177@autosupply.com
+SUP-178,Auto Supplier 178,Bangkok,Bangkok,Thailand,Tier-3,4.4,92,452,supplier178@autosupply.com
+SUP-179,Auto Supplier 179,Detroit,Michigan,USA,Tier-2,3.2,96,326,supplier179@autosupply.com
+SUP-180,Auto Supplier 180,Stuttgart,Baden-Württemberg,Germany,Tier-3,4.8,85,302,supplier180@autosupply.com
+SUP-181,Auto Supplier 181,Pune,Maharashtra,India,Tier-2,3.4,94,150,supplier181@autosupply.com
+SUP-182,Auto Supplier 182,Chennai,Tamil Nadu,India,Tier-3,3.4,87,306,supplier182@autosupply.com
+SUP-183,Auto Supplier 183,Bengaluru,Karnataka,India,Tier-3,3.1,93,419,supplier183@autosupply.com
+SUP-184,Auto Supplier 184,Gurugram,Haryana,India,Tier-2,3.3,90,411,supplier184@autosupply.com
+SUP-185,Auto Supplier 185,Mumbai,Maharashtra,India,Tier-1,5.0,85,278,supplier185@autosupply.com
+SUP-186,Auto Supplier 186,Nagoya,Aichi,Japan,Tier-2,4.9,92,116,supplier186@autosupply.com
+SUP-187,Auto Supplier 187,Seoul,Seoul,South Korea,Tier-1,3.2,92,220,supplier187@autosupply.com
+SUP-188,Auto Supplier 188,Bangkok,Bangkok,Thailand,Tier-2,4.7,97,71,supplier188@autosupply.com
+SUP-189,Auto Supplier 189,Detroit,Michigan,USA,Tier-2,3.2,86,455,supplier189@autosupply.com
+SUP-190,Auto Supplier 190,Stuttgart,Baden-Württemberg,Germany,Tier-3,4.6,94,493,supplier190@autosupply.com
+SUP-191,Auto Supplier 191,Pune,Maharashtra,India,Tier-3,4.2,96,220,supplier191@autosupply.com
+SUP-192,Auto Supplier 192,Chennai,Tamil Nadu,India,Tier-3,4.2,88,276,supplier192@autosupply.com
+SUP-193,Auto Supplier 193,Bengaluru,Karnataka,India,Tier-1,3.9,91,113,supplier193@autosupply.com
+SUP-194,Auto Supplier 194,Gurugram,Haryana,India,Tier-3,4.9,91,277,supplier194@autosupply.com
+SUP-195,Auto Supplier 195,Mumbai,Maharashtra,India,Tier-2,3.6,85,409,supplier195@autosupply.com
+SUP-196,Auto Supplier 196,Nagoya,Aichi,Japan,Tier-2,4.3,96,360,supplier196@autosupply.com
+SUP-197,Auto Supplier 197,Seoul,Seoul,South Korea,Tier-1,4.5,98,65,supplier197@autosupply.com
+SUP-198,Auto Supplier 198,Bangkok,Bangkok,Thailand,Tier-1,3.3,99,18,supplier198@autosupply.com
+SUP-199,Auto Supplier 199,Detroit,Michigan,USA,Tier-2,4.8,96,271,supplier199@autosupply.com
+SUP-200,Auto Supplier 200,Stuttgart,Baden-Württemberg,Germany,Tier-1,4.9,98,301,supplier200@autosupply.com
