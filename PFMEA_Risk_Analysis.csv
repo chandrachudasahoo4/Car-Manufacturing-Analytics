@@ -1,0 +1,4001 @@
+Event_ID,Defect_Code,Defect,Severity,Occurrence,Detection,RPN,Risk_Level
+M11627,NONE,OK,9,9,9,729,High Risk
+M7971,NONE,,9,9,9,729,High Risk
+M11056,D004,,9,9,9,729,High Risk
+M9910,NONE,Reject,9,9,9,729,High Risk
+M9289,D004, ok ,9,9,9,729,High Risk
+M8274,NONE, ok ,9,9,9,729,High Risk
+M8204,D004, ok ,9,9,9,729,High Risk
+M9614,D004,OK,9,9,9,729,High Risk
+M10539,D001,reject,9,9,9,729,High Risk
+M7948,D001,OK,9,9,9,729,High Risk
+M8988,D003,OK,9,9,9,729,High Risk
+M7512,D004,Reject,9,9,9,729,High Risk
+M7795,D002,Reject,9,9,9,729,High Risk
+M11706,NONE, ok ,9,9,9,729,High Risk
+M9837,D002,Repair,9,9,9,729,High Risk
+M9925,D002,Reject,9,9,9,729,High Risk
+M7707,D002,reject,9,9,9,729,High Risk
+M7154,D002, ok ,9,9,8,648,High Risk
+M11744,D004, ok ,8,9,9,648,High Risk
+M11277,D001,OK,9,8,9,648,High Risk
+M9680,D003,Repair,8,9,9,648,High Risk
+M7466,NONE, ok ,9,9,8,648,High Risk
+M10350,NONE,Reject,9,9,8,648,High Risk
+M9644,NONE, ok ,9,9,8,648,High Risk
+M8763,D001,,9,9,8,648,High Risk
+M8599,NONE,Reject,9,9,8,648,High Risk
+M11265,NONE, ok ,9,8,9,648,High Risk
+M10037,D004,OK,9,8,9,648,High Risk
+M10490,D002,,9,9,8,648,High Risk
+M11141,NONE,,9,8,9,648,High Risk
+M9938,D003,Repair,8,9,9,648,High Risk
+M9633,D001,Reject,8,9,9,648,High Risk
+M10136,D004, ok ,8,9,9,648,High Risk
+M8570,NONE,Repair,8,9,9,648,High Risk
+M9107,D003,,9,8,9,648,High Risk
+M9609,D002,OK,8,9,9,648,High Risk
+M7931,D001,,9,9,8,648,High Risk
+M10885,D003, ok ,9,8,9,648,High Risk
+M7597,D001, ok ,9,8,9,648,High Risk
+M11812,D004, ok ,9,8,9,648,High Risk
+M8659,D002,,8,9,9,648,High Risk
+M10454,D002,Repair,9,9,8,648,High Risk
+M8896,D003,Reject,9,9,8,648,High Risk
+M9269,D004,Reject,8,9,9,648,High Risk
+M8446,D004,,9,8,9,648,High Risk
+M7480,NONE,reject,9,8,8,576,High Risk
+M7223,D002,OK,8,8,9,576,High Risk
+M9173,D004,Reject,8,8,9,576,High Risk
+M11508,D003, ok ,9,8,8,576,High Risk
+M8462,NONE,reject,8,9,8,576,High Risk
+M11858,NONE,Repair,9,8,8,576,High Risk
+M9199,D002,Reject,9,8,8,576,High Risk
+M9206,NONE,,8,9,8,576,High Risk
+M10165,D004,,8,9,8,576,High Risk
+M8499,D002, ok ,8,9,8,576,High Risk
+M11314,NONE,,9,8,8,576,High Risk
+M10185,D002,Reject,8,9,8,576,High Risk
+M8980,D004,reject,9,8,8,576,High Risk
+M7718,D001,OK,8,9,8,576,High Risk
+M7041,D004,reject,8,9,8,576,High Risk
+M8423,D003,Repair,9,8,8,576,High Risk
+M8950,D001,OK,8,9,8,576,High Risk
+M9771,NONE,reject,8,9,8,576,High Risk
+M11143,NONE,,8,8,9,576,High Risk
+M7378,D001,reject,8,9,8,576,High Risk
+M9675,D001,OK,9,9,7,567,High Risk
+M8972,D004, ok ,9,7,9,567,High Risk
+M9815,D001,,9,9,7,567,High Risk
+M10230,NONE,reject,7,9,9,567,High Risk
+M11268,D002, ok ,9,9,7,567,High Risk
+M10150,D003,,9,9,7,567,High Risk
+M11087,NONE,Repair,9,7,9,567,High Risk
+M9670,NONE,,9,7,9,567,High Risk
+M9687,D003,Reject,9,9,7,567,High Risk
+M7376,D004,Reject,9,9,7,567,High Risk
+M8233,D004,Repair,7,9,9,567,High Risk
+M11968,D003,,9,9,7,567,High Risk
+M9999,D001,,7,9,9,567,High Risk
+M9139,D001,reject,9,7,9,567,High Risk
+M11722,D003,,9,7,9,567,High Risk
+M8926,D003,Reject,9,9,7,567,High Risk
+M8119,NONE,OK,9,7,9,567,High Risk
+M7631,D001,Repair,9,9,7,567,High Risk
+M10230,D004,Reject,9,7,9,567,High Risk
+M8649,NONE,reject,7,9,9,567,High Risk
+M10449,D001, ok ,9,9,7,567,High Risk
+M10337,D004,,7,9,9,567,High Risk
+M10844,NONE,Repair,9,9,7,567,High Risk
+M10945,D003,reject,9,7,9,567,High Risk
+M7634,D004,,9,9,7,567,High Risk
+M9371,D004,,7,9,9,567,High Risk
+M7094,D002,reject,8,8,8,512,High Risk
+M11646,D002,reject,8,8,8,512,High Risk
+M9235,D001,,8,8,8,512,High Risk
+M11451,D001,,8,8,8,512,High Risk
+M8443,D004,Repair,8,8,8,512,High Risk
+M11393,D003, ok ,8,8,8,512,High Risk
+M7012,D004,,8,8,8,512,High Risk
+M10880,NONE,OK,8,8,8,512,High Risk
+M7687,D001, ok ,8,8,8,512,High Risk
+M9428,D003,Reject,7,8,9,504,High Risk
+M7979,D001,,7,9,8,504,High Risk
+M11306,D003,OK,8,7,9,504,High Risk
+M9762,D002,reject,8,7,9,504,High Risk
+M11916,D001,Repair,9,7,8,504,High Risk
+M11660,NONE,Repair,7,8,9,504,High Risk
+M10131,D001,reject,8,7,9,504,High Risk
+M10761,D004,,8,9,7,504,High Risk
+M10221,D003,Repair,9,7,8,504,High Risk
+M8059,D004,Repair,7,9,8,504,High Risk
+M10966,D001,reject,7,9,8,504,High Risk
+M8105,D004,reject,7,9,8,504,High Risk
+M8070,D004,reject,8,7,9,504,High Risk
+M9525,D003,OK,7,8,9,504,High Risk
+M11778,NONE,Reject,8,7,9,504,High Risk
+M10789,D003,OK,9,8,7,504,High Risk
+M10991,D003,reject,8,9,7,504,High Risk
+M11226,D004,Repair,8,7,9,504,High Risk
+M11446,D001,reject,8,7,9,504,High Risk
+M9526,D003,OK,7,8,9,504,High Risk
+M9619,D004,OK,9,7,8,504,High Risk
+M9909,D004,Reject,7,9,8,504,High Risk
+M9602,NONE, ok ,7,8,9,504,High Risk
+M11640,NONE,Reject,7,9,8,504,High Risk
+M11255,D003,reject,9,7,8,504,High Risk
+M10485,NONE,Repair,9,7,8,504,High Risk
+M10771,D001,Reject,8,7,9,504,High Risk
+M9588,D003,Reject,7,8,9,504,High Risk
+M10166,D003,,9,8,7,504,High Risk
+M8028,D001,reject,9,8,7,504,High Risk
+M7300,NONE,reject,7,8,9,504,High Risk
+M10602,D003,Reject,9,8,7,504,High Risk
+M9955,NONE, ok ,8,9,7,504,High Risk
+M9263,D001,,9,7,8,504,High Risk
+M11745,NONE,OK,8,9,7,504,High Risk
+M11913,D004,,9,7,8,504,High Risk
+M9117,NONE, ok ,9,7,8,504,High Risk
+M8504,D004, ok ,8,7,9,504,High Risk
+M7865,NONE, ok ,8,9,7,504,High Risk
+M10972,D004, ok ,9,8,7,504,High Risk
+M7486,D001,OK,9,7,8,504,High Risk
+M7658,D002,Repair,9,8,7,504,High Risk
+M11898,D003,Reject,8,9,7,504,High Risk
+M8727,D001,Repair,8,7,9,504,High Risk
+M11215,NONE,,8,9,7,504,High Risk
+M10065,NONE,Repair,9,8,7,504,High Risk
+M9782,D003,Reject,8,9,7,504,High Risk
+M8681,D002, ok ,7,8,9,504,High Risk
+M10490,NONE,Repair,8,7,9,504,High Risk
+M10115,D002,Repair,6,9,9,486,High Risk
+M9422,D002, ok ,6,9,9,486,High Risk
+M7513,D002,,9,6,9,486,High Risk
+M8014,D001,Reject,9,6,9,486,High Risk
+M11201,D004, ok ,9,6,9,486,High Risk
+M11570,D003,reject,9,6,9,486,High Risk
+M11050,D004,Repair,6,9,9,486,High Risk
+M11097,NONE,,9,6,9,486,High Risk
+M8970,D002,Repair,9,9,6,486,High Risk
+M11772,D003, ok ,6,9,9,486,High Risk
+M7568,D002,OK,9,6,9,486,High Risk
+M10059,NONE, ok ,9,6,9,486,High Risk
+M7710,NONE,Repair,6,9,9,486,High Risk
+M11696,NONE,OK,9,6,9,486,High Risk
+M10799,D004, ok ,6,9,9,486,High Risk
+M9492,D002,OK,6,9,9,486,High Risk
+M8813,D003,Repair,9,6,9,486,High Risk
+M10581,D003,,9,9,6,486,High Risk
+M10706,NONE,OK,6,9,9,486,High Risk
+M8541,NONE,OK,7,8,8,448,High Risk
+M10994,D001,,8,8,7,448,High Risk
+M8727,NONE,OK,8,8,7,448,High Risk
+M7177,D001,,8,7,8,448,High Risk
+M11294,D003,Reject,7,8,8,448,High Risk
+M11192,D001,reject,7,8,8,448,High Risk
+M8280,D002,,7,8,8,448,High Risk
+M11591,D004,OK,7,8,8,448,High Risk
+M9233,D003,Reject,8,8,7,448,High Risk
+M9555,D004, ok ,8,7,8,448,High Risk
+M8590,D003,reject,8,8,7,448,High Risk
+M11368,D001,Repair,7,8,8,448,High Risk
+M10188,D004,reject,8,7,8,448,High Risk
+M8873,NONE,Repair,8,8,7,448,High Risk
+M8672,D004,Repair,8,7,8,448,High Risk
+M9441,D001,Reject,8,7,8,448,High Risk
+M7198,D001,OK,8,7,8,448,High Risk
+M11161,D003,OK,8,7,8,448,High Risk
+M8699,D001,,8,7,8,448,High Risk
+M8892,D003,OK,7,8,8,448,High Risk
+M9268,D003,,7,8,8,448,High Risk
+M10681,D004,OK,8,8,7,448,High Risk
+M7089,D003,,9,7,7,441,High Risk
+M10287,NONE,OK,7,9,7,441,High Risk
+M8340,D003,reject,7,7,9,441,High Risk
+M8920,D002,,7,7,9,441,High Risk
+M11637,D001,Repair,7,9,7,441,High Risk
+M8101,NONE,Repair,9,7,7,441,High Risk
+M9859,D001,Repair,9,7,7,441,High Risk
+M7419,D003,Reject,7,7,9,441,High Risk
+M8306,D002,reject,7,9,7,441,High Risk
+M7233,D001, ok ,9,7,7,441,High Risk
+M11783,D001,Reject,7,9,7,441,High Risk
+M9920,D002,OK,9,7,7,441,High Risk
+M9703,NONE, ok ,9,7,7,441,High Risk
+M7240,NONE,Repair,7,9,7,441,High Risk
+M8475,D004,,7,9,7,441,High Risk
+M9688,D001,reject,7,7,9,441,High Risk
+M8465,D004,Reject,7,7,9,441,High Risk
+M7772,D002, ok ,7,9,7,441,High Risk
+M8588,D003,,9,7,7,441,High Risk
+M8637,D004,OK,9,7,7,441,High Risk
+M11492,D003,Repair,7,7,9,441,High Risk
+M10463,D004, ok ,7,9,7,441,High Risk
+M11148,NONE, ok ,7,7,9,441,High Risk
+M11493,D001,OK,9,7,7,441,High Risk
+M10221,D004,reject,7,7,9,441,High Risk
+M7192,D004,OK,7,9,7,441,High Risk
+M11814,D002,reject,9,7,7,441,High Risk
+M10499,NONE,OK,9,7,7,441,High Risk
+M9726,NONE,Reject,7,7,9,441,High Risk
+M11159,D002,OK,7,7,9,441,High Risk
+M8727,D001,Reject,7,9,7,441,High Risk
+M9409,D001, ok ,9,7,7,441,High Risk
+M8795,NONE,OK,9,6,8,432,High Risk
+M11563,NONE, ok ,6,8,9,432,High Risk
+M8643,D003, ok ,6,9,8,432,High Risk
+M7368,D004,Repair,6,8,9,432,High Risk
+M9943,D003,Reject,9,6,8,432,High Risk
+M8718,D001,Reject,8,6,9,432,High Risk
+M11443,D004,,8,6,9,432,High Risk
+M8429,D002,Reject,6,9,8,432,High Risk
+M8036,D001, ok ,8,6,9,432,High Risk
+M10745,D002, ok ,8,9,6,432,High Risk
+M9999,NONE, ok ,6,9,8,432,High Risk
+M7887,D001, ok ,9,6,8,432,High Risk
+M9761,D004,,9,6,8,432,High Risk
+M10321,D002,,8,6,9,432,High Risk
+M10636,D001,reject,9,8,6,432,High Risk
+M7963,D002, ok ,6,9,8,432,High Risk
+M8584,NONE,Reject,8,6,9,432,High Risk
+M10069,NONE,OK,8,6,9,432,High Risk
+M9870,NONE, ok ,9,8,6,432,High Risk
+M9279,D004,OK,9,8,6,432,High Risk
+M11125,NONE,reject,8,6,9,432,High Risk
+M11246,D003,OK,6,9,8,432,High Risk
+M10093,D003,reject,6,9,8,432,High Risk
+M10650,D004,reject,9,6,8,432,High Risk
+M7135,D002,,9,6,8,432,High Risk
+M7000,D004,,9,8,6,432,High Risk
+M7495,D002,Repair,9,8,6,432,High Risk
+M10907,NONE,Reject,6,9,8,432,High Risk
+M9256,NONE, ok ,8,9,6,432,High Risk
+M7986,NONE,Reject,8,6,9,432,High Risk
+M10402,NONE,reject,9,8,6,432,High Risk
+M10024,D003,Reject,8,6,9,432,High Risk
+M8883,D003, ok ,8,6,9,432,High Risk
+M9583,D003,OK,6,9,8,432,High Risk
+M7697,D001,Reject,9,6,8,432,High Risk
+M7926,D001,Repair,9,8,6,432,High Risk
+M7680,NONE,Reject,8,6,9,432,High Risk
+M9724,NONE,OK,8,9,6,432,High Risk
+M8939,D003,,9,8,6,432,High Risk
+M9800,D004, ok ,8,6,9,432,High Risk
+M9896,D003, ok ,6,9,8,432,High Risk
+M9907,NONE, ok ,9,6,8,432,High Risk
+M10639,D003,Repair,8,6,9,432,High Risk
+M9769,D002,Reject,9,8,6,432,High Risk
+M8549,D001,Repair,9,8,6,432,High Risk
+M7325,D004, ok ,8,6,9,432,High Risk
+M7136,D003,Reject,9,8,6,432,High Risk
+M7292,D001,OK,9,6,8,432,High Risk
+M7506,D004,reject,9,6,8,432,High Risk
+M7239,D001,OK,8,9,6,432,High Risk
+M10873,D002,Reject,9,6,8,432,High Risk
+M11923,D004,reject,9,5,9,405,High Risk
+M7543,D003,reject,9,9,5,405,High Risk
+M10370,NONE,reject,9,9,5,405,High Risk
+M7258,D004,OK,9,5,9,405,High Risk
+M10259,D003,reject,9,9,5,405,High Risk
+M9042,D003,Repair,5,9,9,405,High Risk
+M8403,D001, ok ,9,5,9,405,High Risk
+M7892,D002,,9,5,9,405,High Risk
+M11376,D002,OK,9,9,5,405,High Risk
+M10511,D001,,9,9,5,405,High Risk
+M7945,D004,Reject,9,5,9,405,High Risk
+M9305,NONE,reject,5,9,9,405,High Risk
+M7267,D003,reject,9,9,5,405,High Risk
+M11728,D004, ok ,9,9,5,405,High Risk
+M11017,D002,,9,5,9,405,High Risk
+M9458,D004,OK,9,5,9,405,High Risk
+M9817,D004, ok ,7,8,7,392,High Risk
+M8478,D001, ok ,7,7,8,392,High Risk
+M11541,D002,Reject,7,8,7,392,High Risk
+M10443,NONE, ok ,7,8,7,392,High Risk
+M10567,D001,OK,7,7,8,392,High Risk
+M10052,D003,reject,7,8,7,392,High Risk
+M11891,D003, ok ,8,7,7,392,High Risk
+M8353,NONE,OK,7,7,8,392,High Risk
+M10216,D004,Repair,8,7,7,392,High Risk
+M10397,D001,OK,7,8,7,392,High Risk
+M10356,D002,Repair,8,7,7,392,High Risk
+M7882,NONE,reject,7,7,8,392,High Risk
+M10108,D001, ok ,7,7,8,392,High Risk
+M10131,NONE, ok ,7,8,7,392,High Risk
+M11396,NONE,Repair,7,8,7,392,High Risk
+M10491,D004,OK,7,8,7,392,High Risk
+M7364,D003,,7,8,7,392,High Risk
+M11012,D004,OK,8,7,7,392,High Risk
+M8404,D004, ok ,7,7,8,392,High Risk
+M10479,D001,reject,8,7,7,392,High Risk
+M11895,D002,Reject,7,8,7,392,High Risk
+M10211,D004,OK,8,7,7,392,High Risk
+M11878,D001,,8,7,7,392,High Risk
+M11920,D001,OK,8,7,7,392,High Risk
+M9644,D003,Reject,7,8,7,392,High Risk
+M8956,D001,Repair,7,8,7,392,High Risk
+M8119,D004,reject,7,7,8,392,High Risk
+M7868,D003,Reject,7,8,7,392,High Risk
+M8659,D004,Reject,7,7,8,392,High Risk
+M11307,D003,reject,8,7,7,392,High Risk
+M11334,NONE,reject,7,7,8,392,High Risk
+M10197,NONE,,7,8,7,392,High Risk
+M7619,D003, ok ,7,8,7,392,High Risk
+M9246,D001,Reject,7,8,7,392,High Risk
+M11148,D004,Repair,7,7,8,392,High Risk
+M11674,NONE,,6,8,8,384,High Risk
+M10659,D002, ok ,8,6,8,384,High Risk
+M8581,NONE,reject,8,8,6,384,High Risk
+M9035,D001,Reject,6,8,8,384,High Risk
+M10948,D004,reject,8,6,8,384,High Risk
+M7900,NONE,,6,8,8,384,High Risk
+M9989,D004,reject,8,8,6,384,High Risk
+M11636,NONE,Repair,8,6,8,384,High Risk
+M11925,D003,Reject,6,8,8,384,High Risk
+M9778,D001,,8,6,8,384,High Risk
+M8950,D002,,8,6,8,384,High Risk
+M7339,D002,Repair,8,6,8,384,High Risk
+M11910,D003,OK,8,8,6,384,High Risk
+M9141,D002,reject,6,8,8,384,High Risk
+M9159,D001,Repair,6,8,8,384,High Risk
+M8908,D002,reject,8,6,8,384,High Risk
+M11647,D001,Repair,6,8,8,384,High Risk
+M8331,D004,Repair,8,8,6,384,High Risk
+M7582,D002,OK,6,8,8,384,High Risk
+M8110,D003,OK,6,8,8,384,High Risk
+M8069,D004,Repair,8,8,6,384,High Risk
+M9895,NONE,Reject,8,6,8,384,High Risk
+M11455,NONE,,8,8,6,384,High Risk
+M7186,D004,,8,8,6,384,High Risk
+M9988,D002,Repair,8,6,8,384,High Risk
+M7849,NONE,OK,8,6,8,384,High Risk
+M7276,D001,Reject,8,8,6,384,High Risk
+M9245,D002,Reject,9,7,6,378,High Risk
+M8303,NONE,Repair,7,9,6,378,High Risk
+M10098,D002,Repair,6,9,7,378,High Risk
+M11368,NONE,Repair,6,9,7,378,High Risk
+M10352,D001,Repair,6,9,7,378,High Risk
+M9715,D003,,7,6,9,378,High Risk
+M10263,D002,Reject,6,7,9,378,High Risk
+M11172,D004,Reject,9,7,6,378,High Risk
+M9618,D004, ok ,9,7,6,378,High Risk
+M7814,D002,Repair,9,6,7,378,High Risk
+M9455,D001, ok ,7,6,9,378,High Risk
+M8477,D004,Reject,7,6,9,378,High Risk
+M9891,NONE,reject,7,9,6,378,High Risk
+M7727,D001,OK,6,7,9,378,High Risk
+M10094,NONE, ok ,6,7,9,378,High Risk
+M9209,D001,,7,6,9,378,High Risk
+M7749,D004, ok ,7,9,6,378,High Risk
+M9068,D001,Repair,9,6,7,378,High Risk
+M10639,D002,Reject,9,7,6,378,High Risk
+M8046,D004,,9,7,6,378,High Risk
+M7412,D004,,9,6,7,378,High Risk
+M7947,NONE,Repair,6,9,7,378,High Risk
+M9221,NONE,Repair,6,7,9,378,High Risk
+M11268,D004,Reject,9,6,7,378,High Risk
+M8628,D003,,7,9,6,378,High Risk
+M10886,NONE,reject,7,9,6,378,High Risk
+M11697,D003,,7,9,6,378,High Risk
+M10161,D002,Reject,7,9,6,378,High Risk
+M10777,D004, ok ,9,6,7,378,High Risk
+M9823,D001, ok ,7,9,6,378,High Risk
+M10154,D002,reject,6,7,9,378,High Risk
+M7890,D001,Repair,9,6,7,378,High Risk
+M9468,D004,Reject,6,7,9,378,High Risk
+M8616,D003,Repair,7,9,6,378,High Risk
+M11952,D002, ok ,6,9,7,378,High Risk
+M10829,NONE,reject,7,9,6,378,High Risk
+M7404,NONE,,9,7,6,378,High Risk
+M7845,D001,reject,7,9,6,378,High Risk
+M7972,D003,,7,6,9,378,High Risk
+M10673,D004,Repair,9,7,6,378,High Risk
+M7392,NONE,Reject,9,6,7,378,High Risk
+M11146,D004,reject,9,7,6,378,High Risk
+M8036,D002,reject,9,6,7,378,High Risk
+M10478,D002,reject,7,9,6,378,High Risk
+M9695,D001, ok ,7,9,6,378,High Risk
+M8325,NONE,Reject,7,6,9,378,High Risk
+M8053,D003,Reject,6,7,9,378,High Risk
+M10302,D004,reject,7,6,9,378,High Risk
+M10070,NONE,,7,9,6,378,High Risk
+M11913,D001,Reject,6,9,7,378,High Risk
+M8165,D002,,7,9,6,378,High Risk
+M9006,D001,OK,7,6,9,378,High Risk
+M10853,D004,reject,7,6,9,378,High Risk
+M9419,D004,reject,5,9,8,360,High Risk
+M7938,D004,OK,9,8,5,360,High Risk
+M10759,D001,,8,9,5,360,High Risk
+M10904,D001,reject,5,8,9,360,High Risk
+M9055,D003,,8,9,5,360,High Risk
+M7081,NONE, ok ,5,8,9,360,High Risk
+M7253,D003,reject,5,8,9,360,High Risk
+M9860,NONE,reject,9,8,5,360,High Risk
+M7159,NONE, ok ,9,5,8,360,High Risk
+M7881,D003, ok ,5,9,8,360,High Risk
+M7914,D003,,9,5,8,360,High Risk
+M8648,D004,OK,8,9,5,360,High Risk
+M11197,D004, ok ,8,9,5,360,High Risk
+M9002,D003, ok ,9,5,8,360,High Risk
+M7936,D004,OK,5,8,9,360,High Risk
+M10932,D002,,8,9,5,360,High Risk
+M9008,NONE,reject,5,8,9,360,High Risk
+M11638,D002,,9,5,8,360,High Risk
+M11983,D002,reject,9,8,5,360,High Risk
+M11675,D004,OK,5,8,9,360,High Risk
+M9002,NONE,reject,8,5,9,360,High Risk
+M7206,D003, ok ,5,8,9,360,High Risk
+M9174,NONE,Reject,9,8,5,360,High Risk
+M8802,D002, ok ,9,8,5,360,High Risk
+M11129,D004,reject,8,5,9,360,High Risk
+M10932,D001,Reject,5,8,9,360,High Risk
+M8323,D003,,5,9,8,360,High Risk
+M9275,D004,reject,5,9,8,360,High Risk
+M10188,D004,Repair,9,5,8,360,High Risk
+M8538,D004,OK,9,8,5,360,High Risk
+M11888,NONE,Repair,5,8,9,360,High Risk
+M8482,D001,reject,9,5,8,360,High Risk
+M10599,NONE,Reject,5,9,8,360,High Risk
+M10483,NONE,Repair,8,9,5,360,High Risk
+M10317,NONE,reject,5,8,9,360,High Risk
+M7075,D003,,5,8,9,360,High Risk
+M11411,D001,reject,5,9,8,360,High Risk
+M9526,D002,OK,8,5,9,360,High Risk
+M9522,D003,,8,9,5,360,High Risk
+M7800,D003,reject,9,5,8,360,High Risk
+M7549,D004,reject,9,5,8,360,High Risk
+M11272,D004,reject,8,9,5,360,High Risk
+M9645,D003,Repair,9,8,5,360,High Risk
+M11135,D001, ok ,9,8,5,360,High Risk
+M8958,NONE,Repair,9,5,8,360,High Risk
+M10765,D004, ok ,5,9,8,360,High Risk
+M11930,NONE,Repair,5,8,9,360,High Risk
+M8067,D002,Reject,9,8,5,360,High Risk
+M8876,D001,OK,5,8,9,360,High Risk
+M10122,D002,,9,8,5,360,High Risk
+M7829,D001, ok ,8,9,5,360,High Risk
+M7437,D002,Reject,8,9,5,360,High Risk
+M8549,D001,OK,9,8,5,360,High Risk
+M8507,D001,Reject,8,5,9,360,High Risk
+M7582,D002,OK,5,8,9,360,High Risk
+M11453,D004,,9,8,5,360,High Risk
+M11995,D003,,8,5,9,360,High Risk
+M7371,NONE,reject,5,9,8,360,High Risk
+M10509,D001,reject,5,8,9,360,High Risk
+M8421,NONE, ok ,9,5,8,360,High Risk
+M11585,D002,Repair,5,8,9,360,High Risk
+M8522,D002,Reject,8,9,5,360,High Risk
+M10727,D002,,8,9,5,360,High Risk
+M10263,NONE,Repair,7,7,7,343,High Risk
+M9068,D002,Reject,7,7,7,343,High Risk
+M10512,NONE,OK,7,7,7,343,High Risk
+M9330,D002,Reject,7,7,7,343,High Risk
+M9581,D003,Reject,7,7,7,343,High Risk
+M9325,D002, ok ,7,7,7,343,High Risk
+M7012,NONE,Repair,7,7,7,343,High Risk
+M10784,NONE,OK,7,7,7,343,High Risk
+M9462,D002,Reject,7,7,7,343,High Risk
+M10019,D004,Repair,7,7,7,343,High Risk
+M8684,D001, ok ,7,7,7,343,High Risk
+M7093,D003,,7,6,8,336,High Risk
+M9234,D001, ok ,6,8,7,336,High Risk
+M10668,D004, ok ,7,6,8,336,High Risk
+M10598,D004,,8,6,7,336,High Risk
+M11385,D001,Reject,8,7,6,336,High Risk
+M10168,NONE,reject,8,6,7,336,High Risk
+M9869,D004,OK,7,8,6,336,High Risk
+M8090,D002,OK,7,8,6,336,High Risk
+M7390,NONE,OK,8,7,6,336,High Risk
+M7433,D004, ok ,7,8,6,336,High Risk
+M9468,D003, ok ,6,7,8,336,High Risk
+M11562,D003,OK,7,6,8,336,High Risk
+M10656,D003,Repair,6,8,7,336,High Risk
+M7159,D002,reject,8,6,7,336,High Risk
+M7737,D004,Repair,8,6,7,336,High Risk
+M7907,D004, ok ,7,8,6,336,High Risk
+M8661,D001,Repair,8,7,6,336,High Risk
+M7344,D003,Repair,8,6,7,336,High Risk
+M7672,D004,Repair,8,7,6,336,High Risk
+M11703,D001,reject,7,8,6,336,High Risk
+M11966,D004,OK,6,8,7,336,High Risk
+M10680,D003,OK,7,6,8,336,High Risk
+M9515,D003,Repair,8,6,7,336,High Risk
+M9835,D001, ok ,6,7,8,336,High Risk
+M9328,NONE, ok ,6,7,8,336,High Risk
+M10241,D002,OK,6,8,7,336,High Risk
+M10797,D002,,7,8,6,336,High Risk
+M7276,D004, ok ,7,8,6,336,High Risk
+M8069,NONE,,8,6,7,336,High Risk
+M11090,NONE,Reject,8,6,7,336,High Risk
+M8076,D001,Reject,8,7,6,336,High Risk
+M10675,D003,reject,8,6,7,336,High Risk
+M11741,D004,reject,8,7,6,336,High Risk
+M7221,NONE,,6,7,8,336,High Risk
+M7414,D002,reject,7,8,6,336,High Risk
+M9329,D003,reject,7,8,6,336,High Risk
+M9083,D003,,6,8,7,336,High Risk
+M10982,D003, ok ,6,8,7,336,High Risk
+M10566,D001,Reject,6,7,8,336,High Risk
+M8004,D003,,8,7,6,336,High Risk
+M7890,D001,reject,6,8,7,336,High Risk
+M10511,D001,Reject,8,6,7,336,High Risk
+M8366,D003,,7,8,6,336,High Risk
+M9564,NONE,OK,6,8,7,336,High Risk
+M8971,D003,reject,8,7,6,336,High Risk
+M8811,D003,Reject,8,7,6,336,High Risk
+M11281,NONE,OK,7,6,8,336,High Risk
+M8240,NONE,,9,6,6,324,High Risk
+M8827,D003, ok ,9,9,4,324,High Risk
+M11074,D001,Reject,4,9,9,324,High Risk
+M10349,D004,OK,6,9,6,324,High Risk
+M9175,D003,Repair,9,4,9,324,High Risk
+M7019,D001, ok ,9,9,4,324,High Risk
+M8898,NONE,reject,6,9,6,324,High Risk
+M11907,NONE,reject,4,9,9,324,High Risk
+M8668,NONE,Reject,6,9,6,324,High Risk
+M10174,D001,reject,4,9,9,324,High Risk
+M10496,D003,,6,6,9,324,High Risk
+M10919,D001,,4,9,9,324,High Risk
+M9461,D004,reject,6,9,6,324,High Risk
+M8710,D002,Repair,6,9,6,324,High Risk
+M10948,D003,Reject,9,6,6,324,High Risk
+M8978,NONE,Repair,9,4,9,324,High Risk
+M11833,D002,,9,9,4,324,High Risk
+M10636,D004,Reject,6,6,9,324,High Risk
+M7569,D004,reject,9,4,9,324,High Risk
+M10087,D003,Reject,4,9,9,324,High Risk
+M7751,D004, ok ,6,6,9,324,High Risk
+M7136,D004,Repair,4,9,9,324,High Risk
+M11546,D001,,6,6,9,324,High Risk
+M7834,D004,OK,6,6,9,324,High Risk
+M7998,D002,,9,6,6,324,High Risk
+M11424,NONE,reject,6,6,9,324,High Risk
+M9890,D002,reject,9,4,9,324,High Risk
+M8064,D004,reject,9,4,9,324,High Risk
+M9328,NONE,OK,9,9,4,324,High Risk
+M11313,D004,,6,6,9,324,High Risk
+M7602,D003,,9,6,6,324,High Risk
+M8135,D004,reject,6,9,6,324,High Risk
+M10023,D001,reject,6,6,9,324,High Risk
+M7436,D003,reject,6,6,9,324,High Risk
+M9021,NONE,Reject,6,6,9,324,High Risk
+M8622,D002,Repair,9,6,6,324,High Risk
+M9029,D004,OK,6,6,9,324,High Risk
+M10884,D002,OK,6,9,6,324,High Risk
+M10327,D001,OK,4,9,9,324,High Risk
+M8690,D001,reject,9,4,9,324,High Risk
+M8207,D001,OK,9,9,4,324,High Risk
+M11709,D002,Reject,4,9,9,324,High Risk
+M7017,D004,reject,6,6,9,324,High Risk
+M10158,D001,OK,9,6,6,324,High Risk
+M9158,NONE,reject,9,9,4,324,High Risk
+M7029,D002, ok ,6,6,9,324,High Risk
+M11451,D001,Repair,6,9,6,324,High Risk
+M9763,NONE,OK,9,6,6,324,High Risk
+M9161,D001,,8,5,8,320,High Risk
+M11317,D002,OK,8,5,8,320,High Risk
+M9500,D001,reject,8,5,8,320,High Risk
+M10026,D003,Repair,8,5,8,320,High Risk
+M7240,D004,Repair,5,8,8,320,High Risk
+M11938,D004,Reject,8,5,8,320,High Risk
+M10281,NONE,OK,8,5,8,320,High Risk
+M11817,D003,Reject,5,8,8,320,High Risk
+M10256,D003, ok ,8,5,8,320,High Risk
+M7221,D001,Reject,5,8,8,320,High Risk
+M7073,NONE,reject,8,5,8,320,High Risk
+M7656,D004,Reject,8,5,8,320,High Risk
+M9703,D002,OK,5,8,8,320,High Risk
+M7363,D004,Repair,8,5,8,320,High Risk
+M8490,D001,Repair,5,8,8,320,High Risk
+M7598,D002, ok ,5,8,8,320,High Risk
+M8312,D004,Reject,8,8,5,320,High Risk
+M7916,D001,,5,8,8,320,High Risk
+M9886,NONE,Reject,8,8,5,320,High Risk
+M7292,D003,Repair,8,8,5,320,High Risk
+M8823,D001,Reject,5,8,8,320,High Risk
+M11658,D002,OK,8,8,5,320,High Risk
+M10774,D002,OK,5,8,8,320,High Risk
+M10048,NONE,reject,5,7,9,315,High Risk
+M8666,D001,OK,7,9,5,315,High Risk
+M10092,D004,,7,9,5,315,High Risk
+M8312,D002,reject,7,5,9,315,High Risk
+M10745,NONE,reject,7,5,9,315,High Risk
+M9350,D003,reject,5,9,7,315,High Risk
+M11785,NONE,reject,9,5,7,315,High Risk
+M7957,NONE, ok ,9,7,5,315,High Risk
+M8885,D001, ok ,7,5,9,315,High Risk
+M9469,D001,Reject,9,7,5,315,High Risk
+M9840,D002,Reject,9,7,5,315,High Risk
+M9390,D004, ok ,5,9,7,315,High Risk
+M10217,D003,Reject,9,7,5,315,High Risk
+M11751,D002, ok ,7,9,5,315,High Risk
+M8542,NONE,OK,5,7,9,315,High Risk
+M7312,D002,Repair,7,5,9,315,High Risk
+M11738,D004,Reject,5,7,9,315,High Risk
+M7344,D001,Reject,7,9,5,315,High Risk
+M10318,D002,Reject,9,7,5,315,High Risk
+M9350,D001,Reject,7,9,5,315,High Risk
+M7051,D002,OK,5,9,7,315,High Risk
+M8693,NONE,Reject,9,7,5,315,High Risk
+M7751,NONE,Reject,5,9,7,315,High Risk
+M10869,D004,reject,5,7,9,315,High Risk
+M8251,D004, ok ,7,9,5,315,High Risk
+M11726,D003, ok ,9,5,7,315,High Risk
+M11638,D001,OK,5,9,7,315,High Risk
+M11410,D003,Reject,9,5,7,315,High Risk
+M10785,D002,Repair,7,5,9,315,High Risk
+M7320,D002,OK,5,9,7,315,High Risk
+M9912,D002, ok ,9,7,5,315,High Risk
+M8444,NONE,reject,7,5,9,315,High Risk
+M9437,D002,Repair,9,5,7,315,High Risk
+M7135,D002,,9,7,5,315,High Risk
+M7501,NONE,OK,7,5,9,315,High Risk
+M10496,NONE, ok ,9,5,7,315,High Risk
+M9135,D002, ok ,7,9,5,315,High Risk
+M10131,D004,Reject,5,7,9,315,High Risk
+M7033,D001,Reject,5,9,7,315,High Risk
+M11453,NONE,Reject,9,7,5,315,High Risk
+M10196,D002,reject,7,5,9,315,High Risk
+M8990,NONE, ok ,5,7,9,315,High Risk
+M8461,NONE,OK,9,7,5,315,High Risk
+M9279,D002, ok ,9,5,7,315,High Risk
+M11087,D002,,9,5,7,315,High Risk
+M7607,NONE,,5,9,7,315,High Risk
+M7270,D004,OK,9,5,7,315,High Risk
+M11035,D001,Repair,5,7,9,315,High Risk
+M7235,D002, ok ,7,5,9,315,High Risk
+M7531,D001, ok ,9,5,7,315,High Risk
+M9632,NONE,reject,9,5,7,315,High Risk
+M9977,D001, ok ,7,5,9,315,High Risk
+M8595,NONE, ok ,5,7,9,315,High Risk
+M8710,D001,Repair,9,7,5,315,High Risk
+M7702,D002,reject,5,7,9,315,High Risk
+M11470,D002,Repair,6,7,7,294,Medium Risk
+M11499,D004, ok ,7,6,7,294,Medium Risk
+M11635,D004,Repair,7,7,6,294,Medium Risk
+M8926,NONE,OK,7,7,6,294,Medium Risk
+M7089,NONE,Reject,7,7,6,294,Medium Risk
+M8454,D001,OK,6,7,7,294,Medium Risk
+M7978,NONE,OK,7,7,6,294,Medium Risk
+M7091,D004,reject,7,7,6,294,Medium Risk
+M10042,D003,reject,7,6,7,294,Medium Risk
+M9703,D003,OK,7,7,6,294,Medium Risk
+M11956,D004,OK,7,7,6,294,Medium Risk
+M9060,NONE,,7,7,6,294,Medium Risk
+M9643,D003,Reject,7,7,6,294,Medium Risk
+M10302,D001,Reject,7,7,6,294,Medium Risk
+M10320,D002,reject,7,7,6,294,Medium Risk
+M9771,D003,,6,7,7,294,Medium Risk
+M8873,D004,reject,7,7,6,294,Medium Risk
+M9576,D002,Reject,7,7,6,294,Medium Risk
+M8442,NONE,,6,7,7,294,Medium Risk
+M10100,NONE,,7,7,6,294,Medium Risk
+M9580,D001,Repair,7,6,7,294,Medium Risk
+M11996,NONE,Reject,6,7,7,294,Medium Risk
+M9314,D002, ok ,6,7,7,294,Medium Risk
+M9946,D003, ok ,7,7,6,294,Medium Risk
+M11428,D001,reject,7,6,7,294,Medium Risk
+M11873,D001,Repair,7,7,6,294,Medium Risk
+M11332,D001,Reject,6,6,8,288,Medium Risk
+M8136,D003,Reject,4,9,8,288,Medium Risk
+M10815,D002,OK,8,4,9,288,Medium Risk
+M11456,NONE,,9,4,8,288,Medium Risk
+M9776,NONE,Repair,4,9,8,288,Medium Risk
+M9227,D003,Reject,9,4,8,288,Medium Risk
+M8702,D001,Reject,4,8,9,288,Medium Risk
+M10929,NONE,reject,6,6,8,288,Medium Risk
+M11053,D004,Reject,9,4,8,288,Medium Risk
+M11211,D001,OK,9,8,4,288,Medium Risk
+M11152,NONE,Reject,4,8,9,288,Medium Risk
+M8107,D003, ok ,6,8,6,288,Medium Risk
+M7714,D003,Repair,6,6,8,288,Medium Risk
+M9156,D002,Repair,8,4,9,288,Medium Risk
+M9428,D002,Reject,6,6,8,288,Medium Risk
+M9782,NONE,Reject,4,8,9,288,Medium Risk
+M10586,D003, ok ,4,8,9,288,Medium Risk
+M9852,D002, ok ,4,8,9,288,Medium Risk
+M10944,D001,Repair,8,9,4,288,Medium Risk
+M7234,D002,Reject,9,4,8,288,Medium Risk
+M9543,NONE,reject,8,4,9,288,Medium Risk
+M10338,D004,Repair,6,6,8,288,Medium Risk
+M11369,NONE,Repair,8,9,4,288,Medium Risk
+M10381,NONE, ok ,8,4,9,288,Medium Risk
+M10318,D001,OK,6,8,6,288,Medium Risk
+M10537,D001,OK,4,9,8,288,Medium Risk
+M7481,D003,Repair,8,9,4,288,Medium Risk
+M7400,D003,OK,8,9,4,288,Medium Risk
+M7726,D004,OK,6,8,6,288,Medium Risk
+M10344,D004,,9,8,4,288,Medium Risk
+M9198,D004,OK,6,6,8,288,Medium Risk
+M7205,D003,Reject,6,8,6,288,Medium Risk
+M11327,D004,OK,4,8,9,288,Medium Risk
+M7297,D004,reject,4,8,9,288,Medium Risk
+M7268,D003,Reject,8,6,6,288,Medium Risk
+M9618,NONE,Reject,8,9,4,288,Medium Risk
+M8934,D001,reject,4,8,9,288,Medium Risk
+M9745,D004,,6,8,6,288,Medium Risk
+M7509,D001,OK,9,4,8,288,Medium Risk
+M10878,D004,OK,8,9,4,288,Medium Risk
+M7160,D004,reject,6,6,8,288,Medium Risk
+M11185,D001,Reject,4,9,8,288,Medium Risk
+M8509,D001,Reject,8,9,4,288,Medium Risk
+M8759,D001, ok ,6,8,6,288,Medium Risk
+M7062,D001,OK,9,8,4,288,Medium Risk
+M9487,D004,Repair,6,6,8,288,Medium Risk
+M7466,NONE,,9,8,4,288,Medium Risk
+M7066,NONE,OK,9,4,8,288,Medium Risk
+M10779,D003,Reject,4,9,8,288,Medium Risk
+M7221,NONE,,6,8,6,288,Medium Risk
+M9104,NONE,reject,8,6,6,288,Medium Risk
+M10886,D001,Repair,4,8,9,288,Medium Risk
+M10448,NONE,,9,4,8,288,Medium Risk
+M7759,D002,OK,8,6,6,288,Medium Risk
+M7826,D002,Repair,9,8,4,288,Medium Risk
+M11573,D004,Reject,7,5,8,280,Medium Risk
+M8930,D003,,5,7,8,280,Medium Risk
+M9189,D001,Reject,8,5,7,280,Medium Risk
+M8606,D001,Repair,7,8,5,280,Medium Risk
+M7529,NONE,,8,7,5,280,Medium Risk
+M8398,D003,OK,5,7,8,280,Medium Risk
+M7137,D003,,5,7,8,280,Medium Risk
+M9308,D001, ok ,8,7,5,280,Medium Risk
+M10182,D001,reject,5,8,7,280,Medium Risk
+M8248,D001,Reject,7,5,8,280,Medium Risk
+M10764,NONE, ok ,7,8,5,280,Medium Risk
+M11544,NONE,reject,5,7,8,280,Medium Risk
+M7936,D001,OK,5,7,8,280,Medium Risk
+M11288,D001, ok ,5,8,7,280,Medium Risk
+M8561,D002,OK,8,7,5,280,Medium Risk
+M8393,D004,OK,5,7,8,280,Medium Risk
+M11703,D002,reject,5,7,8,280,Medium Risk
+M11061,D001,reject,7,8,5,280,Medium Risk
+M10651,D002,Repair,7,8,5,280,Medium Risk
+M11394,D003,reject,8,5,7,280,Medium Risk
+M10783,D003,,5,7,8,280,Medium Risk
+M9500,D003,Repair,5,8,7,280,Medium Risk
+M10799,NONE,Reject,5,8,7,280,Medium Risk
+M9497,NONE,reject,8,7,5,280,Medium Risk
+M9378,D001,,7,8,5,280,Medium Risk
+M10662,D002,Reject,8,7,5,280,Medium Risk
+M7706,NONE,Repair,7,5,8,280,Medium Risk
+M11856,D002,Repair,7,5,8,280,Medium Risk
+M8006,NONE,Reject,7,5,8,280,Medium Risk
+M10614,D004, ok ,5,7,8,280,Medium Risk
+M7400,D001,Reject,8,5,7,280,Medium Risk
+M10861,D003,Repair,8,5,7,280,Medium Risk
+M7267,D001,Repair,5,7,8,280,Medium Risk
+M7501,D004,Reject,8,7,5,280,Medium Risk
+M9049,NONE,OK,7,5,8,280,Medium Risk
+M8486,D002,OK,5,8,7,280,Medium Risk
+M7847,D002,Repair,5,7,8,280,Medium Risk
+M9370,D001,OK,7,8,5,280,Medium Risk
+M7369,D003,reject,8,7,5,280,Medium Risk
+M8760,D003, ok ,8,5,7,280,Medium Risk
+M7715,D002,reject,5,8,7,280,Medium Risk
+M7939,NONE,OK,8,5,7,280,Medium Risk
+M9940,D002,OK,7,8,5,280,Medium Risk
+M11919,D002,OK,5,7,8,280,Medium Risk
+M9573,NONE,Repair,7,8,5,280,Medium Risk
+M8134,NONE,reject,9,5,6,270,Medium Risk
+M9121,NONE, ok ,9,5,6,270,Medium Risk
+M11979,NONE,,9,5,6,270,Medium Risk
+M8612,D003,Repair,9,5,6,270,Medium Risk
+M8605,D003,reject,6,5,9,270,Medium Risk
+M11166,D004, ok ,9,6,5,270,Medium Risk
+M10495,D002,OK,5,9,6,270,Medium Risk
+M11561,D002, ok ,5,9,6,270,Medium Risk
+M9838,NONE,,5,9,6,270,Medium Risk
+M11245,D001,Repair,5,9,6,270,Medium Risk
+M8575,D002,reject,6,9,5,270,Medium Risk
+M10501,D004,Reject,9,5,6,270,Medium Risk
+M10702,D002,reject,5,9,6,270,Medium Risk
+M8435,D002,Reject,6,9,5,270,Medium Risk
+M11065,D002,OK,9,5,6,270,Medium Risk
+M11360,D003,Repair,5,9,6,270,Medium Risk
+M8679,NONE,reject,9,6,5,270,Medium Risk
+M10186,D003,,9,6,5,270,Medium Risk
+M9685,D001,reject,6,9,5,270,Medium Risk
+M7972,D003,OK,5,6,9,270,Medium Risk
+M10110,D003,,9,5,6,270,Medium Risk
+M7478,D004,Reject,9,5,6,270,Medium Risk
+M8874,NONE,reject,6,5,9,270,Medium Risk
+M10765,D002,reject,6,5,9,270,Medium Risk
+M10893,D003,reject,6,5,9,270,Medium Risk
+M7610,D003,OK,9,5,6,270,Medium Risk
+M8661,NONE,,9,6,5,270,Medium Risk
+M7440,D003,reject,9,6,5,270,Medium Risk
+M11195,D003,OK,9,5,6,270,Medium Risk
+M8012,D002,,6,5,9,270,Medium Risk
+M9490,D001,Repair,5,9,6,270,Medium Risk
+M11744,D002,reject,5,9,6,270,Medium Risk
+M8797,D004,reject,9,6,5,270,Medium Risk
+M11656,D004,Reject,5,9,6,270,Medium Risk
+M8755,D001,reject,6,5,9,270,Medium Risk
+M8322,D002,Reject,9,5,6,270,Medium Risk
+M11579,D001,Repair,5,6,9,270,Medium Risk
+M8280,D001,Repair,6,5,9,270,Medium Risk
+M7674,D003, ok ,6,9,5,270,Medium Risk
+M11344,D001, ok ,9,5,6,270,Medium Risk
+M8358,D002, ok ,9,5,6,270,Medium Risk
+M9315,D001,Reject,9,5,6,270,Medium Risk
+M9496,D002,,5,9,6,270,Medium Risk
+M11606,D002, ok ,9,5,6,270,Medium Risk
+M11232,D003,OK,5,6,9,270,Medium Risk
+M9692,D004,OK,9,5,6,270,Medium Risk
+M7901,D001,Repair,8,8,4,256,Medium Risk
+M7163,NONE, ok ,4,8,8,256,Medium Risk
+M10128,D004,Reject,8,8,4,256,Medium Risk
+M7959,D002,,8,8,4,256,Medium Risk
+M9748,D004,Reject,4,8,8,256,Medium Risk
+M10571,D003,reject,8,4,8,256,Medium Risk
+M8830,NONE,Repair,8,4,8,256,Medium Risk
+M11201,D004,reject,8,4,8,256,Medium Risk
+M8596,D003,reject,4,8,8,256,Medium Risk
+M7997,D003,Repair,8,8,4,256,Medium Risk
+M7293,NONE,reject,8,8,4,256,Medium Risk
+M9885,NONE,Repair,8,4,8,256,Medium Risk
+M11339,D002,reject,4,8,8,256,Medium Risk
+M10647,D003,Repair,8,4,8,256,Medium Risk
+M10539,D001,reject,4,8,8,256,Medium Risk
+M11202,D001, ok ,8,8,4,256,Medium Risk
+M10314,NONE,reject,4,8,8,256,Medium Risk
+M8986,D004,Repair,8,8,4,256,Medium Risk
+M8421,D002,Reject,8,8,4,256,Medium Risk
+M7343,D001,,8,8,4,256,Medium Risk
+M10859,NONE, ok ,8,4,8,256,Medium Risk
+M10112,D004,Repair,8,4,8,256,Medium Risk
+M8854,D004, ok ,6,6,7,252,Medium Risk
+M9885,D003, ok ,9,7,4,252,Medium Risk
+M11356,D001,,7,9,4,252,Medium Risk
+M8697,D003,,7,6,6,252,Medium Risk
+M10330,D002,Repair,9,7,4,252,Medium Risk
+M8690,NONE,OK,7,4,9,252,Medium Risk
+M10587,D001,OK,6,7,6,252,Medium Risk
+M11218,D001,Repair,9,4,7,252,Medium Risk
+M9965,D003,Reject,4,9,7,252,Medium Risk
+M9678,D002,reject,9,4,7,252,Medium Risk
+M10824,D004,Repair,4,9,7,252,Medium Risk
+M7963,D003,reject,7,6,6,252,Medium Risk
+M11282,NONE,Reject,6,7,6,252,Medium Risk
+M7774,D001,Reject,6,6,7,252,Medium Risk
+M7654,D001, ok ,4,7,9,252,Medium Risk
+M7780,D003,OK,9,7,4,252,Medium Risk
+M11445,D003,reject,7,4,9,252,Medium Risk
+M9738,D003,,7,4,9,252,Medium Risk
+M9462,D004,Repair,4,9,7,252,Medium Risk
+M11328,D002, ok ,4,9,7,252,Medium Risk
+M8664,D001,reject,6,7,6,252,Medium Risk
+M8852,D004,Reject,9,7,4,252,Medium Risk
+M7626,D004,,4,9,7,252,Medium Risk
+M7258,D003,,4,7,9,252,Medium Risk
+M8895,D004,Repair,7,4,9,252,Medium Risk
+M8561,NONE,OK,7,4,9,252,Medium Risk
+M11446,D003,Reject,9,7,4,252,Medium Risk
+M10336,NONE,Reject,4,9,7,252,Medium Risk
+M11678,D003,Reject,4,7,9,252,Medium Risk
+M9588,D001, ok ,6,7,6,252,Medium Risk
+M7805,NONE,,4,9,7,252,Medium Risk
+M11278,D002,Repair,7,4,9,252,Medium Risk
+M8651,D002,OK,9,4,7,252,Medium Risk
+M9164,D001, ok ,9,7,4,252,Medium Risk
+M9595,D001,,7,4,9,252,Medium Risk
+M11318,D002,Repair,4,7,9,252,Medium Risk
+M11061,NONE,Reject,7,6,6,252,Medium Risk
+M8091,D003, ok ,9,7,4,252,Medium Risk
+M7262,NONE,Repair,9,4,7,252,Medium Risk
+M9817,D003,Repair,7,4,9,252,Medium Risk
+M8126,D001, ok ,7,9,4,252,Medium Risk
+M10757,D001,reject,9,7,4,252,Medium Risk
+M9645,NONE,OK,6,6,7,252,Medium Risk
+M9550,D001,reject,9,4,7,252,Medium Risk
+M8816,D002,Repair,6,6,7,252,Medium Risk
+M9400,D001,reject,6,7,6,252,Medium Risk
+M11995,D003,OK,7,9,4,252,Medium Risk
+M10130,NONE, ok ,4,9,7,252,Medium Risk
+M8323,D002,Reject,6,6,7,252,Medium Risk
+M9945,D004,Reject,9,7,4,252,Medium Risk
+M9400,NONE,OK,6,7,6,252,Medium Risk
+M8302,D003,Reject,4,7,9,252,Medium Risk
+M9921,NONE,Reject,9,7,4,252,Medium Risk
+M8826,D003,Reject,7,9,4,252,Medium Risk
+M10147,D003,OK,4,9,7,252,Medium Risk
+M9325,D002, ok ,4,7,9,252,Medium Risk
+M10670,D003,Repair,6,7,6,252,Medium Risk
+M7786,D001,reject,7,9,4,252,Medium Risk
+M7451,D001,OK,4,7,9,252,Medium Risk
+M11665,D003, ok ,4,9,7,252,Medium Risk
+M7057,D003,Repair,9,4,7,252,Medium Risk
+M8719,D003,Repair,7,6,6,252,Medium Risk
+M11238,D003,reject,6,6,7,252,Medium Risk
+M7676,D004,Repair,4,9,7,252,Medium Risk
+M8830,D004, ok ,9,4,7,252,Medium Risk
+M9740,D003,,7,4,9,252,Medium Risk
+M11587,D002, ok ,9,7,4,252,Medium Risk
+M8747,D004, ok ,9,4,7,252,Medium Risk
+M9602,D001,reject,4,9,7,252,Medium Risk
+M8909,NONE, ok ,6,7,6,252,Medium Risk
+M10814,D001,reject,7,4,9,252,Medium Risk
+M10355,D004,Reject,6,7,6,252,Medium Risk
+M7590,D003,Reject,7,9,4,252,Medium Risk
+M8265,D001, ok ,5,7,7,245,Medium Risk
+M11783,D001,Repair,7,7,5,245,Medium Risk
+M9137,D004,reject,7,5,7,245,Medium Risk
+M9768,D001,Reject,7,5,7,245,Medium Risk
+M9369,D001,reject,5,7,7,245,Medium Risk
+M11951,D002,Reject,7,7,5,245,Medium Risk
+M11477,NONE,Reject,7,7,5,245,Medium Risk
+M10587,D004,reject,5,7,7,245,Medium Risk
+M9453,D004,OK,7,5,7,245,Medium Risk
+M7412,D004,,7,7,5,245,Medium Risk
+M10399,D002,OK,7,5,7,245,Medium Risk
+M7521,D003, ok ,5,7,7,245,Medium Risk
+M8077,D001,Repair,7,7,5,245,Medium Risk
+M10204,NONE,OK,7,5,7,245,Medium Risk
+M8532,NONE,Reject,5,7,7,245,Medium Risk
+M8681,NONE, ok ,7,7,5,245,Medium Risk
+M10544,D004,,5,7,7,245,Medium Risk
+M10268,NONE,Repair,7,5,7,245,Medium Risk
+M9345,D002,Repair,7,5,7,245,Medium Risk
+M7775,D003,,7,5,7,245,Medium Risk
+M11062,D002,Repair,5,7,7,245,Medium Risk
+M8571,D003, ok ,7,5,7,245,Medium Risk
+M9543,D001,Reject,5,7,7,245,Medium Risk
+M8608,D004,Repair,7,5,7,245,Medium Risk
+M11144,D002,Reject,7,5,7,245,Medium Risk
+M10911,NONE, ok ,5,7,7,245,Medium Risk
+M10070,D003,Reject,7,5,7,245,Medium Risk
+M7915,NONE,reject,7,7,5,245,Medium Risk
+M10990,D002,reject,9,3,9,243,Medium Risk
+M10681,D003, ok ,9,9,3,243,Medium Risk
+M11975,D004,OK,9,9,3,243,Medium Risk
+M9890,D004,OK,9,3,9,243,Medium Risk
+M7544,D003,Reject,9,9,3,243,Medium Risk
+M9059,D001,OK,9,9,3,243,Medium Risk
+M8191,D001,Repair,9,3,9,243,Medium Risk
+M11931,D003,OK,9,9,3,243,Medium Risk
+M7725,D002, ok ,9,9,3,243,Medium Risk
+M8399,NONE,OK,9,3,9,243,Medium Risk
+M10202,D004,OK,9,9,3,243,Medium Risk
+M9623,D003,Repair,9,3,9,243,Medium Risk
+M7148,D003,OK,9,3,9,243,Medium Risk
+M9990,D003,,9,9,3,243,Medium Risk
+M10531,D002, ok ,5,8,6,240,Medium Risk
+M9631,D002, ok ,5,6,8,240,Medium Risk
+M7812,D004,Repair,6,5,8,240,Medium Risk
+M8873,D004,Reject,8,5,6,240,Medium Risk
+M10126,D004,Repair,8,6,5,240,Medium Risk
+M9103,NONE, ok ,8,6,5,240,Medium Risk
+M7642,NONE,reject,8,6,5,240,Medium Risk
+M8947,D001,Repair,8,5,6,240,Medium Risk
+M10072,D002,reject,5,8,6,240,Medium Risk
+M10734,D003,Reject,6,5,8,240,Medium Risk
+M7953,NONE,Reject,8,6,5,240,Medium Risk
+M10056,D002,reject,5,6,8,240,Medium Risk
+M9240,D004,OK,6,5,8,240,Medium Risk
+M9765,D003,Reject,8,5,6,240,Medium Risk
+M8868,NONE,reject,8,5,6,240,Medium Risk
+M8772,NONE,reject,5,8,6,240,Medium Risk
+M7671,D001,Reject,6,8,5,240,Medium Risk
+M9956,D003, ok ,8,6,5,240,Medium Risk
+M9299,D003,OK,8,5,6,240,Medium Risk
+M8352,D004,reject,5,8,6,240,Medium Risk
+M8572,D004,OK,8,5,6,240,Medium Risk
+M8757,D002,OK,8,5,6,240,Medium Risk
+M8096,NONE,Repair,6,8,5,240,Medium Risk
+M8291,D003,OK,8,5,6,240,Medium Risk
+M11357,D003,,6,5,8,240,Medium Risk
+M10860,D001, ok ,5,8,6,240,Medium Risk
+M11220,D002,Repair,8,6,5,240,Medium Risk
+M9972,NONE,OK,6,8,5,240,Medium Risk
+M9413,D001, ok ,5,6,8,240,Medium Risk
+M8133,NONE,reject,5,8,6,240,Medium Risk
+M10509,D004,reject,6,8,5,240,Medium Risk
+M10969,D004,OK,6,5,8,240,Medium Risk
+M8720,D002,OK,6,5,8,240,Medium Risk
+M11890,D003,OK,6,5,8,240,Medium Risk
+M7961,D004,reject,6,8,5,240,Medium Risk
+M11224,NONE,,8,5,6,240,Medium Risk
+M9784,D004,Reject,8,5,6,240,Medium Risk
+M10430,NONE,OK,5,6,8,240,Medium Risk
+M8545,D004,,6,5,8,240,Medium Risk
+M10406,D003,Reject,6,5,8,240,Medium Risk
+M8564,D002,Reject,6,8,5,240,Medium Risk
+M7081,D004,,8,5,6,240,Medium Risk
+M11625,D001,,5,6,8,240,Medium Risk
+M10298,D001, ok ,5,5,9,225,Medium Risk
+M10229,D003,Repair,5,5,9,225,Medium Risk
+M9274,D002,Reject,5,5,9,225,Medium Risk
+M8887,D004,Repair,5,5,9,225,Medium Risk
+M9381,D003,Reject,9,5,5,225,Medium Risk
+M11124,D003,,5,5,9,225,Medium Risk
+M11590,NONE,,9,5,5,225,Medium Risk
+M11794,D004,Repair,5,9,5,225,Medium Risk
+M10490,D002, ok ,5,9,5,225,Medium Risk
+M7433,D002,OK,5,9,5,225,Medium Risk
+M8476,D003,OK,5,5,9,225,Medium Risk
+M9693,D002,Repair,9,5,5,225,Medium Risk
+M11291,D003,,5,9,5,225,Medium Risk
+M9704,NONE,reject,5,9,5,225,Medium Risk
+M7990,D002, ok ,5,9,5,225,Medium Risk
+M10447,D001,OK,9,5,5,225,Medium Risk
+M10328,D001,,5,9,5,225,Medium Risk
+M7791,D002,reject,5,5,9,225,Medium Risk
+M10391,D003,reject,9,5,5,225,Medium Risk
+M9223,NONE,reject,5,9,5,225,Medium Risk
+M10432,NONE,Repair,5,9,5,225,Medium Risk
+M10780,D003, ok ,5,9,5,225,Medium Risk
+M9937,D004, ok ,9,5,5,225,Medium Risk
+M9675,NONE,Reject,8,7,4,224,Medium Risk
+M8604,D004,OK,4,7,8,224,Medium Risk
+M9149,D001, ok ,4,7,8,224,Medium Risk
+M10201,D003,,4,8,7,224,Medium Risk
+M8402,D004,,7,8,4,224,Medium Risk
+M11112,D003, ok ,4,7,8,224,Medium Risk
+M8717,D004,OK,8,7,4,224,Medium Risk
+M10520,D003,,7,8,4,224,Medium Risk
+M11905,NONE,OK,8,4,7,224,Medium Risk
+M7581,D002,Repair,4,8,7,224,Medium Risk
+M7846,D003,,8,4,7,224,Medium Risk
+M11221,D004, ok ,4,7,8,224,Medium Risk
+M11005,D004,Repair,4,8,7,224,Medium Risk
+M10271,D003,OK,8,7,4,224,Medium Risk
+M7169,D001, ok ,8,4,7,224,Medium Risk
+M8583,D001,Repair,8,7,4,224,Medium Risk
+M10872,D001,,4,7,8,224,Medium Risk
+M9711,NONE,,7,8,4,224,Medium Risk
+M10888,NONE,reject,4,8,7,224,Medium Risk
+M11913,D001, ok ,4,7,8,224,Medium Risk
+M11632,D001,OK,4,8,7,224,Medium Risk
+M8974,D002,Repair,7,8,4,224,Medium Risk
+M7069,D003,Repair,7,4,8,224,Medium Risk
+M7895,D003,Reject,4,8,7,224,Medium Risk
+M9374,NONE, ok ,4,8,7,224,Medium Risk
+M8449,D002,,8,4,7,224,Medium Risk
+M7211,D004,reject,7,4,8,224,Medium Risk
+M8470,D002, ok ,7,8,4,224,Medium Risk
+M11892,D003,Repair,8,4,7,224,Medium Risk
+M8003,D002,OK,8,7,4,224,Medium Risk
+M7402,NONE,,8,4,7,224,Medium Risk
+M8751,D001,reject,7,4,8,224,Medium Risk
+M9332,D001,Reject,8,4,7,224,Medium Risk
+M11420,D004,Repair,4,8,7,224,Medium Risk
+M10466,D002,OK,8,7,4,224,Medium Risk
+M11985,D003, ok ,7,4,8,224,Medium Risk
+M8554,D004,reject,4,7,8,224,Medium Risk
+M7291,D001,reject,7,8,4,224,Medium Risk
+M7080,NONE,OK,8,4,7,224,Medium Risk
+M9652,D001,Reject,4,7,8,224,Medium Risk
+M9874,NONE,OK,8,4,7,224,Medium Risk
+M9538,NONE,Reject,7,4,8,224,Medium Risk
+M7570,D001,reject,7,4,8,224,Medium Risk
+M9679,NONE,,7,4,8,224,Medium Risk
+M9618,NONE,reject,4,7,8,224,Medium Risk
+M7328,D002,Reject,8,4,7,224,Medium Risk
+M11618,D002,OK,8,7,4,224,Medium Risk
+M10912,D004,Reject,8,4,7,224,Medium Risk
+M11222,D002,OK,6,9,4,216,Medium Risk
+M7553,NONE,reject,6,6,6,216,Medium Risk
+M8963,NONE,,6,4,9,216,Medium Risk
+M9075,D003,OK,4,6,9,216,Medium Risk
+M8965,D004,,6,4,9,216,Medium Risk
+M8570,NONE,Repair,6,6,6,216,Medium Risk
+M9112,D003,Reject,6,4,9,216,Medium Risk
+M9384,D004,Repair,9,3,8,216,Medium Risk
+M9740,D001,Repair,9,4,6,216,Medium Risk
+M10572,D001,reject,9,6,4,216,Medium Risk
+M9155,D003,reject,6,4,9,216,Medium Risk
+M10302,D002,reject,6,9,4,216,Medium Risk
+M11199,D001,reject,6,6,6,216,Medium Risk
+M11186,D003, ok ,9,6,4,216,Medium Risk
+M8839,D001,Reject,8,9,3,216,Medium Risk
+M10426,NONE,Repair,6,6,6,216,Medium Risk
+M9440,NONE,,4,9,6,216,Medium Risk
+M8492,D004,reject,9,4,6,216,Medium Risk
+M10918,D003,Repair,8,3,9,216,Medium Risk
+M7414,D002, ok ,9,4,6,216,Medium Risk
+M7939,D003,,8,3,9,216,Medium Risk
+M9759,D003,Reject,9,4,6,216,Medium Risk
+M11680,D004,OK,4,6,9,216,Medium Risk
+M9869,D003,reject,8,3,9,216,Medium Risk
+M10965,D004,Repair,4,6,9,216,Medium Risk
+M8603,NONE,Reject,4,6,9,216,Medium Risk
+M8387,D004, ok ,6,9,4,216,Medium Risk
+M8850,NONE,Repair,8,3,9,216,Medium Risk
+M10692,D004,reject,6,9,4,216,Medium Risk
+M9920,NONE,Repair,6,6,6,216,Medium Risk
+M11123,D004,,8,9,3,216,Medium Risk
+M7253,D001, ok ,6,4,9,216,Medium Risk
+M10756,D001,Reject,6,6,6,216,Medium Risk
+M11900,D003,OK,6,9,4,216,Medium Risk
+M8730,NONE,OK,4,9,6,216,Medium Risk
+M8434,NONE,OK,9,6,4,216,Medium Risk
+M9685,NONE, ok ,8,9,3,216,Medium Risk
+M10797,NONE, ok ,9,4,6,216,Medium Risk
+M8241,D004,Repair,4,9,6,216,Medium Risk
+M8494,NONE, ok ,8,9,3,216,Medium Risk
+M7658,D002,Reject,6,6,6,216,Medium Risk
+M10382,NONE,OK,9,8,3,216,Medium Risk
+M9868,D004,OK,4,9,6,216,Medium Risk
+M7606,D003, ok ,6,9,4,216,Medium Risk
+M10488,D001,Repair,4,6,9,216,Medium Risk
+M10717,D002,OK,8,3,9,216,Medium Risk
+M9528,D004,OK,6,9,4,216,Medium Risk
+M10822,D001, ok ,8,9,3,216,Medium Risk
+M8179,NONE,reject,9,4,6,216,Medium Risk
+M9163,D002,Repair,8,3,9,216,Medium Risk
+M9027,D002,Reject,9,4,6,216,Medium Risk
+M11084,D001,Repair,9,8,3,216,Medium Risk
+M7337,D001,OK,6,9,4,216,Medium Risk
+M11818,D003,OK,9,8,3,216,Medium Risk
+M11283,D002,Reject,8,3,9,216,Medium Risk
+M10091,NONE, ok ,4,6,9,216,Medium Risk
+M9920,D002,Repair,9,8,3,216,Medium Risk
+M11381,D002,OK,4,6,9,216,Medium Risk
+M11888,D001,Repair,6,4,9,216,Medium Risk
+M10559,D003,reject,9,6,4,216,Medium Risk
+M10700,NONE, ok ,9,6,4,216,Medium Risk
+M7596,D002,Reject,6,6,6,216,Medium Risk
+M8347,D001,Repair,9,8,3,216,Medium Risk
+M10742,D001,,4,9,6,216,Medium Risk
+M7676,D004,reject,8,3,9,216,Medium Risk
+M11231,D003,Reject,9,8,3,216,Medium Risk
+M9911,D003,Repair,8,3,9,216,Medium Risk
+M9608,D004,reject,6,6,6,216,Medium Risk
+M8530,D002,,8,3,9,216,Medium Risk
+M7702,D001,Reject,9,6,4,216,Medium Risk
+M7768,D003,OK,9,3,8,216,Medium Risk
+M9987,D001, ok ,9,8,3,216,Medium Risk
+M7416,NONE,Reject,4,6,9,216,Medium Risk
+M7297,D004,Repair,9,6,4,216,Medium Risk
+M7821,D001,,6,9,4,216,Medium Risk
+M9794,D002, ok ,9,8,3,216,Medium Risk
+M10015,NONE,OK,6,6,6,216,Medium Risk
+M10102,D002,OK,9,3,8,216,Medium Risk
+M11045,D003, ok ,6,4,9,216,Medium Risk
+M10719,NONE,Repair,6,6,6,216,Medium Risk
+M8406,D002,reject,4,9,6,216,Medium Risk
+M9139,D002,,9,3,8,216,Medium Risk
+M10653,NONE, ok ,6,4,9,216,Medium Risk
+M9664,D002,OK,6,9,4,216,Medium Risk
+M9709,D001,OK,9,6,4,216,Medium Risk
+M10902,NONE,reject,8,9,3,216,Medium Risk
+M10488,NONE,Reject,9,6,4,216,Medium Risk
+M10021,D003,reject,8,3,9,216,Medium Risk
+M9487,D004,Repair,9,6,4,216,Medium Risk
+M8695,D004,,9,4,6,216,Medium Risk
+M9218,D003,OK,9,4,6,216,Medium Risk
+M8882,D003,reject,4,9,6,216,Medium Risk
+M8287,D004,Reject,6,6,6,216,Medium Risk
+M9455,D004,,6,4,9,216,Medium Risk
+M7738,D002,reject,5,7,6,210,Medium Risk
+M9186,D002,reject,6,7,5,210,Medium Risk
+M10234,D003,Repair,6,7,5,210,Medium Risk
+M9968,D004,reject,7,6,5,210,Medium Risk
+M8650,D004,,5,7,6,210,Medium Risk
+M9735,NONE,reject,7,5,6,210,Medium Risk
+M10045,D004, ok ,7,5,6,210,Medium Risk
+M10389,NONE,reject,6,7,5,210,Medium Risk
+M9461,D002,Repair,6,5,7,210,Medium Risk
+M8959,D001,,6,5,7,210,Medium Risk
+M10942,NONE,Repair,6,7,5,210,Medium Risk
+M10225,D002,Reject,7,6,5,210,Medium Risk
+M9324,D004, ok ,7,6,5,210,Medium Risk
+M7960,D003,Repair,5,7,6,210,Medium Risk
+M9788,D002,OK,7,5,6,210,Medium Risk
+M11761,D001,reject,5,6,7,210,Medium Risk
+M10948,D002,OK,6,7,5,210,Medium Risk
+M8076,D001,Repair,7,5,6,210,Medium Risk
+M11029,D004,Repair,6,5,7,210,Medium Risk
+M7341,D004, ok ,6,7,5,210,Medium Risk
+M10408,D002,Repair,6,7,5,210,Medium Risk
+M8424,D003,Repair,6,5,7,210,Medium Risk
+M10646,D002,reject,6,7,5,210,Medium Risk
+M8375,NONE,Reject,5,6,7,210,Medium Risk
+M7759,NONE,Repair,6,5,7,210,Medium Risk
+M9814,D001,,5,6,7,210,Medium Risk
+M11597,NONE,OK,6,5,7,210,Medium Risk
+M11171,NONE,Reject,5,7,6,210,Medium Risk
+M7749,D003,Reject,5,6,7,210,Medium Risk
+M10089,D004,,5,7,6,210,Medium Risk
+M10353,D004,,5,6,7,210,Medium Risk
+M10893,NONE,Repair,5,7,6,210,Medium Risk
+M8036,D002, ok ,6,5,7,210,Medium Risk
+M11326,D002, ok ,7,5,6,210,Medium Risk
+M7418,D003,Reject,7,5,6,210,Medium Risk
+M7112,NONE,reject,6,7,5,210,Medium Risk
+M10578,D001,,5,6,7,210,Medium Risk
+M7552,D003,Reject,6,7,5,210,Medium Risk
+M7811,D001,Reject,7,5,6,210,Medium Risk
+M11579,D004, ok ,7,5,6,210,Medium Risk
+M10114,D001, ok ,7,5,6,210,Medium Risk
+M10352,D003,,7,6,5,210,Medium Risk
+M8801,D002,,7,6,5,210,Medium Risk
+M7354,D001,reject,8,5,5,200,Medium Risk
+M11854,D001,,8,5,5,200,Medium Risk
+M9521,D002,Repair,8,5,5,200,Medium Risk
+M7631,D002,OK,5,8,5,200,Medium Risk
+M8287,D003,,5,5,8,200,Medium Risk
+M8425,D003,reject,5,8,5,200,Medium Risk
+M10330,D003, ok ,5,5,8,200,Medium Risk
+M10956,D003,,8,5,5,200,Medium Risk
+M7772,D002,reject,8,5,5,200,Medium Risk
+M9737,D002,,5,5,8,200,Medium Risk
+M8172,D002,Reject,5,5,8,200,Medium Risk
+M7557,NONE,Reject,5,8,5,200,Medium Risk
+M11804,NONE,,5,8,5,200,Medium Risk
+M8233,D002,OK,8,5,5,200,Medium Risk
+M11980,D004,reject,5,8,5,200,Medium Risk
+M8348,NONE,OK,8,5,5,200,Medium Risk
+M7892,D003,reject,8,5,5,200,Medium Risk
+M9904,D003,,5,5,8,200,Medium Risk
+M10138,D002,reject,8,5,5,200,Medium Risk
+M7930,D001,,5,5,8,200,Medium Risk
+M8092,D001,,5,5,8,200,Medium Risk
+M10349,D002,OK,5,8,5,200,Medium Risk
+M7547,NONE, ok ,5,8,5,200,Medium Risk
+M7842,NONE,,8,5,5,200,Medium Risk
+M9650,D002,reject,8,5,5,200,Medium Risk
+M10928,D002,reject,7,7,4,196,Medium Risk
+M10834,D001,reject,7,4,7,196,Medium Risk
+M10227,D003,OK,7,4,7,196,Medium Risk
+M11469,NONE,,7,4,7,196,Medium Risk
+M8142,D004,reject,7,4,7,196,Medium Risk
+M8086,D004,Reject,7,4,7,196,Medium Risk
+M7903,NONE,Repair,7,4,7,196,Medium Risk
+M9739,D004,reject,7,4,7,196,Medium Risk
+M7045,D004,Reject,4,7,7,196,Medium Risk
+M10962,NONE,Repair,4,7,7,196,Medium Risk
+M7449,D002,reject,7,4,7,196,Medium Risk
+M10209,D001, ok ,7,4,7,196,Medium Risk
+M8534,D001,Repair,7,4,7,196,Medium Risk
+M7525,D001,OK,7,7,4,196,Medium Risk
+M8638,D002,Reject,7,4,7,196,Medium Risk
+M11095,D003,Repair,7,7,4,196,Medium Risk
+M11425,D003,Repair,7,7,4,196,Medium Risk
+M7720,D003,reject,7,7,4,196,Medium Risk
+M7935,D003,Reject,4,7,7,196,Medium Risk
+M9005,D003,Repair,4,7,7,196,Medium Risk
+M11785,D003, ok ,7,7,4,196,Medium Risk
+M9811,D001,,7,7,4,196,Medium Risk
+M10729,D003,,7,7,4,196,Medium Risk
+M9096,NONE,reject,7,4,7,196,Medium Risk
+M11027,D004,Reject,4,7,7,196,Medium Risk
+M11940,D002,OK,4,8,6,192,Medium Risk
+M7784,D003, ok ,8,3,8,192,Medium Risk
+M9196,D003,Reject,6,8,4,192,Medium Risk
+M7001,D002,Reject,8,6,4,192,Medium Risk
+M8900,NONE,OK,8,3,8,192,Medium Risk
+M11841,NONE, ok ,4,8,6,192,Medium Risk
+M7020,D002,Repair,4,6,8,192,Medium Risk
+M10509,D003,OK,8,8,3,192,Medium Risk
+M9832,NONE,reject,8,6,4,192,Medium Risk
+M11968,NONE,Reject,4,8,6,192,Medium Risk
+M11231,D002,,8,4,6,192,Medium Risk
+M7774,D003,Reject,4,6,8,192,Medium Risk
+M11458,D002,Reject,6,4,8,192,Medium Risk
+M7622,D003,reject,8,8,3,192,Medium Risk
+M10602,D004,reject,6,4,8,192,Medium Risk
+M9889,NONE,OK,6,4,8,192,Medium Risk
+M8824,D002,Repair,8,6,4,192,Medium Risk
+M11682,NONE,OK,8,3,8,192,Medium Risk
+M10899,D003,Reject,8,4,6,192,Medium Risk
+M11530,D002,Repair,8,8,3,192,Medium Risk
+M7417,D001,OK,6,4,8,192,Medium Risk
+M10904,D001, ok ,6,4,8,192,Medium Risk
+M11793,D001,,8,8,3,192,Medium Risk
+M8597,D004,reject,8,8,3,192,Medium Risk
+M8126,D002,OK,8,6,4,192,Medium Risk
+M9576,D004,,6,8,4,192,Medium Risk
+M8887,D004,,4,8,6,192,Medium Risk
+M10029,D002, ok ,4,8,6,192,Medium Risk
+M9200,D003,Repair,8,6,4,192,Medium Risk
+M9743,NONE,,8,3,8,192,Medium Risk
+M10487,D002,OK,8,3,8,192,Medium Risk
+M8959,D002,,8,6,4,192,Medium Risk
+M10694,D002,Reject,8,6,4,192,Medium Risk
+M8464,NONE,Repair,4,8,6,192,Medium Risk
+M9806,D004, ok ,4,6,8,192,Medium Risk
+M9882,D004,Repair,8,4,6,192,Medium Risk
+M8978,D001,OK,8,4,6,192,Medium Risk
+M11565,D003,,6,4,8,192,Medium Risk
+M9060,D002, ok ,4,8,6,192,Medium Risk
+M11589,D004,,6,4,8,192,Medium Risk
+M10128,NONE,,4,8,6,192,Medium Risk
+M11685,D001,Reject,4,8,6,192,Medium Risk
+M9848,NONE,Repair,4,8,6,192,Medium Risk
+M10612,D003,OK,8,6,4,192,Medium Risk
+M11599,NONE,reject,6,4,8,192,Medium Risk
+M9676,D003,OK,8,3,8,192,Medium Risk
+M10908,D002,OK,6,8,4,192,Medium Risk
+M9477,D001,Reject,6,8,4,192,Medium Risk
+M8011,D001,Reject,6,8,4,192,Medium Risk
+M7547,NONE,reject,4,8,6,192,Medium Risk
+M9922,D001,reject,8,6,4,192,Medium Risk
+M9519,D001,reject,8,3,8,192,Medium Risk
+M8214,D001,reject,4,6,8,192,Medium Risk
+M10512,D002,Reject,4,8,6,192,Medium Risk
+M11851,D003,reject,9,3,7,189,Medium Risk
+M7040,D004,OK,9,3,7,189,Medium Risk
+M8878,NONE, ok ,7,9,3,189,Medium Risk
+M11334,D001,,9,7,3,189,Medium Risk
+M7122,NONE,,9,7,3,189,Medium Risk
+M10701,NONE,Reject,7,9,3,189,Medium Risk
+M8347,D004,Reject,9,7,3,189,Medium Risk
+M9590,D002,OK,7,9,3,189,Medium Risk
+M7457,D001,Repair,7,9,3,189,Medium Risk
+M11783,D001,OK,7,3,9,189,Medium Risk
+M9313,D003,,7,3,9,189,Medium Risk
+M10415,D004,Reject,9,7,3,189,Medium Risk
+M9182,D001,OK,7,9,3,189,Medium Risk
+M11244,NONE, ok ,7,9,3,189,Medium Risk
+M8793,NONE,reject,9,3,7,189,Medium Risk
+M11576,NONE,,7,9,3,189,Medium Risk
+M10847,NONE,OK,9,7,3,189,Medium Risk
+M10159,D004,OK,9,3,7,189,Medium Risk
+M7321,NONE,reject,9,7,3,189,Medium Risk
+M9708,NONE,Repair,9,3,7,189,Medium Risk
+M8663,D004,Reject,7,3,9,189,Medium Risk
+M7718,D002,OK,7,9,3,189,Medium Risk
+M9870,D001,,7,3,9,189,Medium Risk
+M8957,D004,Repair,9,7,3,189,Medium Risk
+M10736,D001,Repair,7,9,3,189,Medium Risk
+M7866,D002, ok ,7,3,9,189,Medium Risk
+M11636,D003,Repair,7,9,3,189,Medium Risk
+M8094,D002,Reject,9,7,3,189,Medium Risk
+M10422,D003,Repair,9,3,7,189,Medium Risk
+M10051,D002, ok ,9,3,7,189,Medium Risk
+M10694,D004, ok ,7,3,9,189,Medium Risk
+M9453,D001,OK,7,9,3,189,Medium Risk
+M11312,D004,,7,3,9,189,Medium Risk
+M8544,D001,OK,7,9,3,189,Medium Risk
+M10382,D001,reject,7,3,9,189,Medium Risk
+M7514,D002,Repair,9,7,3,189,Medium Risk
+M8206,D001,reject,7,3,9,189,Medium Risk
+M11925,D002,reject,7,3,9,189,Medium Risk
+M11075,NONE,Repair,7,3,9,189,Medium Risk
+M10365,NONE,Reject,5,6,6,180,Medium Risk
+M8386,D003,Reject,5,9,4,180,Medium Risk
+M9871,D003,OK,4,9,5,180,Medium Risk
+M8113,D003,Repair,4,9,5,180,Medium Risk
+M10416,D001,,6,5,6,180,Medium Risk
+M11038,D002,Reject,9,5,4,180,Medium Risk
+M8271,D002,Reject,6,6,5,180,Medium Risk
+M8188,D002,Repair,9,5,4,180,Medium Risk
+M9815,D001,reject,9,4,5,180,Medium Risk
+M8859,D001,Reject,9,5,4,180,Medium Risk
+M8204,D004,reject,4,9,5,180,Medium Risk
+M10956,D003, ok ,6,5,6,180,Medium Risk
+M10190,D002,reject,5,6,6,180,Medium Risk
+M11568,NONE,reject,5,4,9,180,Medium Risk
+M7019,D002,OK,4,5,9,180,Medium Risk
+M7659,NONE, ok ,4,5,9,180,Medium Risk
+M9181,D003,reject,9,5,4,180,Medium Risk
+M9918,D001,Repair,5,4,9,180,Medium Risk
+M11507,D001,OK,5,4,9,180,Medium Risk
+M9052,NONE, ok ,5,4,9,180,Medium Risk
+M8074,D003,,6,6,5,180,Medium Risk
+M11126,D003,OK,5,9,4,180,Medium Risk
+M8519,D004,reject,9,4,5,180,Medium Risk
+M10415,D001,Reject,4,9,5,180,Medium Risk
+M11663,NONE,Repair,6,6,5,180,Medium Risk
+M11463,D002,,4,9,5,180,Medium Risk
+M8466,D002, ok ,9,5,4,180,Medium Risk
+M8763,D004,,5,9,4,180,Medium Risk
+M11493,D003,,6,5,6,180,Medium Risk
+M10847,D002,reject,5,4,9,180,Medium Risk
+M11709,D003,OK,4,5,9,180,Medium Risk
+M7575,D003,,6,6,5,180,Medium Risk
+M7128,D003,,4,5,9,180,Medium Risk
+M9156,D002,Repair,6,5,6,180,Medium Risk
+M9729,D001,reject,4,9,5,180,Medium Risk
+M10185,D004,,6,6,5,180,Medium Risk
+M7269,D001,OK,5,6,6,180,Medium Risk
+M8358,NONE,Repair,6,6,5,180,Medium Risk
+M10671,D002,Repair,4,5,9,180,Medium Risk
+M11482,D001,OK,5,9,4,180,Medium Risk
+M11362,D002,OK,9,4,5,180,Medium Risk
+M11124,D004,OK,5,6,6,180,Medium Risk
+M9903,D002,reject,5,6,6,180,Medium Risk
+M11993,D001,Reject,5,4,9,180,Medium Risk
+M9403,D004,Repair,5,4,9,180,Medium Risk
+M11264,D004,Repair,4,9,5,180,Medium Risk
+M9270,D003,reject,4,9,5,180,Medium Risk
+M10270,D001,Repair,4,9,5,180,Medium Risk
+M9590,NONE, ok ,5,6,6,180,Medium Risk
+M7071,D001, ok ,5,6,6,180,Medium Risk
+M7863,D002, ok ,9,5,4,180,Medium Risk
+M7157,D001,Repair,5,9,4,180,Medium Risk
+M8146,NONE,,9,5,4,180,Medium Risk
+M9973,D002,OK,4,9,5,180,Medium Risk
+M10583,D002, ok ,5,6,6,180,Medium Risk
+M10774,D001,OK,9,4,5,180,Medium Risk
+M7037,D004,Reject,9,4,5,180,Medium Risk
+M9220,NONE,reject,4,5,9,180,Medium Risk
+M7123,D003,reject,5,6,6,180,Medium Risk
+M10568,D002,,4,5,9,180,Medium Risk
+M8034,NONE,Reject,6,6,5,180,Medium Risk
+M10536,D002,Reject,9,5,4,180,Medium Risk
+M11340,D001,,6,5,6,180,Medium Risk
+M7706,D002,Repair,6,5,6,180,Medium Risk
+M8567,NONE, ok ,5,7,5,175,Medium Risk
+M8736,D004,OK,5,7,5,175,Medium Risk
+M7155,D003, ok ,5,7,5,175,Medium Risk
+M8035,NONE, ok ,7,5,5,175,Medium Risk
+M7276,D001,Repair,7,5,5,175,Medium Risk
+M7187,D002,OK,5,7,5,175,Medium Risk
+M10213,D001,OK,5,5,7,175,Medium Risk
+M7442,D004,Reject,5,5,7,175,Medium Risk
+M8930,D003,Repair,5,5,7,175,Medium Risk
+M9688,NONE,OK,5,7,5,175,Medium Risk
+M10808,NONE,,5,7,5,175,Medium Risk
+M10003,D003, ok ,5,5,7,175,Medium Risk
+M7421,NONE, ok ,7,5,5,175,Medium Risk
+M8925,D004,OK,5,7,5,175,Medium Risk
+M7609,D003,OK,7,5,5,175,Medium Risk
+M7349,D004,OK,5,5,7,175,Medium Risk
+M11698,D001,Reject,7,5,5,175,Medium Risk
+M8239,D002, ok ,7,5,5,175,Medium Risk
+M7384,D001, ok ,5,5,7,175,Medium Risk
+M9425,D001,,5,7,5,175,Medium Risk
+M11445,D001, ok ,7,8,3,168,Medium Risk
+M10901,D002,reject,7,6,4,168,Medium Risk
+M11197,D002,,8,3,7,168,Medium Risk
+M11437,D003,,7,3,8,168,Medium Risk
+M7338,D004,reject,6,7,4,168,Medium Risk
+M9633,D002,reject,6,4,7,168,Medium Risk
+M9868,D001,Reject,7,6,4,168,Medium Risk
+M10245,D002, ok ,6,4,7,168,Medium Risk
+M7469,D004,,4,6,7,168,Medium Risk
+M8961,D004,OK,6,7,4,168,Medium Risk
+M11563,D003,Repair,4,6,7,168,Medium Risk
+M7496,D004,Reject,8,7,3,168,Medium Risk
+M8435,D001,Repair,7,6,4,168,Medium Risk
+M7325,D003,,7,6,4,168,Medium Risk
+M9958,D004,OK,4,7,6,168,Medium Risk
+M8654,D001,Repair,7,4,6,168,Medium Risk
+M7592,D001,Repair,6,7,4,168,Medium Risk
+M8074,D001,Repair,6,7,4,168,Medium Risk
+M10371,NONE,,7,6,4,168,Medium Risk
+M11852,D002,Reject,8,7,3,168,Medium Risk
+M11864,D001,Reject,4,7,6,168,Medium Risk
+M9216,D003,OK,4,7,6,168,Medium Risk
+M7586,D001,Repair,7,8,3,168,Medium Risk
+M10817,D002, ok ,4,7,6,168,Medium Risk
+M8970,D001,,6,4,7,168,Medium Risk
+M9830,NONE,Reject,7,4,6,168,Medium Risk
+M7601,NONE,Reject,6,4,7,168,Medium Risk
+M7300,D004, ok ,8,3,7,168,Medium Risk
+M11223,NONE,OK,8,7,3,168,Medium Risk
+M7645,NONE,Reject,8,3,7,168,Medium Risk
+M9330,NONE,reject,6,7,4,168,Medium Risk
+M11664,D003,OK,6,7,4,168,Medium Risk
+M11603,D001,Reject,8,7,3,168,Medium Risk
+M10797,D003,reject,4,7,6,168,Medium Risk
+M10705,D001,,8,3,7,168,Medium Risk
+M8094,D004,,8,7,3,168,Medium Risk
+M7770,D004,,8,3,7,168,Medium Risk
+M10983,D002,Repair,8,3,7,168,Medium Risk
+M9609,NONE,OK,4,7,6,168,Medium Risk
+M10374,D003,OK,4,6,7,168,Medium Risk
+M11530,NONE,Repair,8,7,3,168,Medium Risk
+M10766,D003,Reject,4,6,7,168,Medium Risk
+M10988,D003,OK,4,7,6,168,Medium Risk
+M8845,D001,Reject,6,4,7,168,Medium Risk
+M10423,D003,,8,3,7,168,Medium Risk
+M7813,D002,,4,7,6,168,Medium Risk
+M8224,D003, ok ,8,7,3,168,Medium Risk
+M9856,D002,Reject,4,6,7,168,Medium Risk
+M9641,NONE,reject,8,3,7,168,Medium Risk
+M11776,NONE,Reject,8,3,7,168,Medium Risk
+M8279,D004,OK,7,8,3,168,Medium Risk
+M10648,D002,,7,4,6,168,Medium Risk
+M10498,D003,Reject,8,3,7,168,Medium Risk
+M7272,D004,Repair,6,4,7,168,Medium Risk
+M9598,D002,Repair,7,3,8,168,Medium Risk
+M7064,D004,Reject,7,8,3,168,Medium Risk
+M11662,NONE,,7,4,6,168,Medium Risk
+M8932,D002,reject,4,6,7,168,Medium Risk
+M7797,D003,Reject,7,4,6,168,Medium Risk
+M7734,NONE,OK,4,6,7,168,Medium Risk
+M11542,NONE,Reject,7,3,8,168,Medium Risk
+M10453,D004,Reject,4,6,7,168,Medium Risk
+M11189,D004,Repair,6,7,4,168,Medium Risk
+M10357,NONE,Reject,7,8,3,168,Medium Risk
+M10946,D001,,7,4,6,168,Medium Risk
+M8273,D003,,7,8,3,168,Medium Risk
+M7385,D001,,6,4,7,168,Medium Risk
+M9453,D001,OK,8,3,7,168,Medium Risk
+M11944,D004,,7,8,3,168,Medium Risk
+M8103,NONE,Reject,8,7,3,168,Medium Risk
+M10345,NONE,reject,6,7,4,168,Medium Risk
+M8709,D003,Reject,7,8,3,168,Medium Risk
+M9225,D003,Reject,7,4,6,168,Medium Risk
+M8147,D002,Repair,7,3,8,168,Medium Risk
+M8158,NONE,Repair,8,7,3,168,Medium Risk
+M10430,D002,Repair,7,8,3,168,Medium Risk
+M8713,D002,Reject,6,4,7,168,Medium Risk
+M11266,D001, ok ,4,7,6,168,Medium Risk
+M7740,D003,reject,7,4,6,168,Medium Risk
+M10479,D002, ok ,4,6,7,168,Medium Risk
+M9727,D001,,6,4,7,168,Medium Risk
+M11783,D004,Repair,8,7,3,168,Medium Risk
+M10383,D002,Repair,7,3,8,168,Medium Risk
+M10952,NONE,reject,7,3,8,168,Medium Risk
+M7734,NONE, ok ,4,7,6,168,Medium Risk
+M7125,D002,Reject,6,4,7,168,Medium Risk
+M10437,D004,reject,9,6,3,162,Medium Risk
+M7248,D004,Repair,9,6,3,162,Medium Risk
+M11967,D001,OK,6,9,3,162,Medium Risk
+M9685,NONE,,6,9,3,162,Medium Risk
+M9031,D004,,9,3,6,162,Medium Risk
+M11291,D002, ok ,6,3,9,162,Medium Risk
+M11370,D002,Repair,9,6,3,162,Medium Risk
+M7916,D001,OK,9,9,2,162,Medium Risk
+M11066,NONE,OK,9,6,3,162,Medium Risk
+M7540,D003,OK,9,2,9,162,Medium Risk
+M7353,D004,OK,9,6,3,162,Medium Risk
+M10246,D001,reject,9,6,3,162,Medium Risk
+M11399,D003,reject,9,2,9,162,Medium Risk
+M11309,D002,OK,9,2,9,162,Medium Risk
+M11732,D002,reject,6,9,3,162,Medium Risk
+M9808,D001, ok ,9,6,3,162,Medium Risk
+M9842,D001,Reject,9,2,9,162,Medium Risk
+M11041,D001,,9,9,2,162,Medium Risk
+M8637,D004, ok ,9,3,6,162,Medium Risk
+M11280,NONE, ok ,9,6,3,162,Medium Risk
+M10816,D001,,6,9,3,162,Medium Risk
+M10649,NONE,reject,9,2,9,162,Medium Risk
+M8856,NONE,Reject,9,3,6,162,Medium Risk
+M7154,D002,reject,9,9,2,162,Medium Risk
+M8015,D003,OK,9,2,9,162,Medium Risk
+M10945,D004,,9,6,3,162,Medium Risk
+M9693,D001,OK,9,2,9,162,Medium Risk
+M8784,D004,reject,6,3,9,162,Medium Risk
+M9233,D001, ok ,9,6,3,162,Medium Risk
+M10758,D003,Reject,9,6,3,162,Medium Risk
+M7920,D002,reject,9,9,2,162,Medium Risk
+M11629,D004,Repair,9,9,2,162,Medium Risk
+M8589,D004,Repair,9,3,6,162,Medium Risk
+M7393,D001,,6,9,3,162,Medium Risk
+M10330,D001,Repair,9,9,2,162,Medium Risk
+M11177,D003,Reject,9,9,2,162,Medium Risk
+M10407,D001,Reject,8,4,5,160,Medium Risk
+M8715,D002, ok ,5,4,8,160,Medium Risk
+M8451,NONE,Repair,5,4,8,160,Medium Risk
+M7664,D002,Reject,5,8,4,160,Medium Risk
+M9287,D003,,5,8,4,160,Medium Risk
+M11442,D004,Reject,8,5,4,160,Medium Risk
+M9555,D003,reject,4,8,5,160,Medium Risk
+M9879,D002,reject,8,5,4,160,Medium Risk
+M10366,D004,reject,8,4,5,160,Medium Risk
+M11310,D004,Reject,5,8,4,160,Medium Risk
+M11241,D001,reject,8,5,4,160,Medium Risk
+M11948,NONE,,8,5,4,160,Medium Risk
+M10902,D003, ok ,4,5,8,160,Medium Risk
+M8798,D002,reject,8,5,4,160,Medium Risk
+M11538,D003,OK,5,8,4,160,Medium Risk
+M11776,D001,,5,8,4,160,Medium Risk
+M11107,NONE,Reject,4,5,8,160,Medium Risk
+M10523,D002,Reject,4,8,5,160,Medium Risk
+M8169,NONE,Repair,8,5,4,160,Medium Risk
+M11289,D001,Reject,8,5,4,160,Medium Risk
+M11225,D004,OK,8,5,4,160,Medium Risk
+M9743,D001,reject,8,5,4,160,Medium Risk
+M11518,D004,,5,4,8,160,Medium Risk
+M11164,NONE,Repair,4,8,5,160,Medium Risk
+M7299,NONE, ok ,4,8,5,160,Medium Risk
+M8033,D004,reject,5,8,4,160,Medium Risk
+M7334,NONE,,4,5,8,160,Medium Risk
+M8450,NONE,Repair,4,5,8,160,Medium Risk
+M8576,D002,reject,8,4,5,160,Medium Risk
+M7640,D001,,5,8,4,160,Medium Risk
+M8566,D004,OK,4,5,8,160,Medium Risk
+M7979,D004,Repair,8,4,5,160,Medium Risk
+M10727,NONE,OK,4,5,8,160,Medium Risk
+M10145,D003,,5,4,8,160,Medium Risk
+M8254,D002,,8,5,4,160,Medium Risk
+M10595,D001, ok ,5,4,8,160,Medium Risk
+M11885,D002,Reject,8,4,5,160,Medium Risk
+M10166,D001,OK,8,5,4,160,Medium Risk
+M11820,D003,reject,4,5,8,160,Medium Risk
+M10851,NONE, ok ,8,5,4,160,Medium Risk
+M8927,D002,,8,4,5,160,Medium Risk
+M8185,NONE,Reject,4,5,8,160,Medium Risk
+M8735,D003,,5,4,8,160,Medium Risk
+M7634,D003,OK,5,4,8,160,Medium Risk
+M10298,D004,OK,4,8,5,160,Medium Risk
+M7955,D003,OK,8,4,5,160,Medium Risk
+M7495,D001,reject,4,8,5,160,Medium Risk
+M11632,D003,reject,8,5,4,160,Medium Risk
+M8469,D004,Repair,4,5,8,160,Medium Risk
+M9189,D001,reject,8,5,4,160,Medium Risk
+M9071,D002,OK,8,4,5,160,Medium Risk
+M9661,D002,Reject,4,8,5,160,Medium Risk
+M11348,D004,OK,4,5,8,160,Medium Risk
+M8705,D004,OK,5,6,5,150,Medium Risk
+M9763,D001,Reject,5,6,5,150,Medium Risk
+M8888,D004, ok ,5,6,5,150,Medium Risk
+M7272,D004, ok ,5,6,5,150,Medium Risk
+M10770,D002,OK,5,6,5,150,Medium Risk
+M7147,NONE, ok ,5,5,6,150,Medium Risk
+M10399,NONE, ok ,6,5,5,150,Medium Risk
+M9471,D001, ok ,5,6,5,150,Medium Risk
+M11379,D003,,5,6,5,150,Medium Risk
+M8807,D003,OK,5,6,5,150,Medium Risk
+M9928,D003,Reject,5,6,5,150,Medium Risk
+M8839,D002, ok ,5,5,6,150,Medium Risk
+M9448,D001, ok ,5,5,6,150,Medium Risk
+M7531,D002,,5,6,5,150,Medium Risk
+M10393,D003,Repair,5,5,6,150,Medium Risk
+M10342,D004,Repair,5,6,5,150,Medium Risk
+M10127,D003, ok ,6,5,5,150,Medium Risk
+M10844,D004,OK,6,5,5,150,Medium Risk
+M10847,D004,OK,5,6,5,150,Medium Risk
+M7281,NONE, ok ,6,5,5,150,Medium Risk
+M11957,D002, ok ,5,5,6,150,Medium Risk
+M10339,D002,Repair,6,5,5,150,Medium Risk
+M8384,D001,Reject,5,6,5,150,Medium Risk
+M9962,NONE, ok ,5,6,5,150,Medium Risk
+M11626,D002,reject,7,3,7,147,Low Risk
+M9088,D001, ok ,7,3,7,147,Low Risk
+M9627,NONE,OK,7,7,3,147,Low Risk
+M9006,NONE,Reject,7,7,3,147,Low Risk
+M10703,D004,Repair,7,3,7,147,Low Risk
+M7316,D002,,7,7,3,147,Low Risk
+M7097,NONE,Repair,7,3,7,147,Low Risk
+M10537,D004,OK,7,3,7,147,Low Risk
+M10546,D002,OK,7,7,3,147,Low Risk
+M10326,D001,OK,7,7,3,147,Low Risk
+M7792,NONE,Repair,7,7,3,147,Low Risk
+M10458,NONE,OK,7,7,3,147,Low Risk
+M10567,D001,,7,7,3,147,Low Risk
+M10364,D004,Repair,7,3,7,147,Low Risk
+M9755,D003, ok ,7,7,3,147,Low Risk
+M11984,D003,Repair,7,7,3,147,Low Risk
+M7835,D003,Repair,7,3,7,147,Low Risk
+M9570,D002,Repair,7,7,3,147,Low Risk
+M11330,D002, ok ,7,3,7,147,Low Risk
+M8805,D003,OK,7,7,3,147,Low Risk
+M9250,D001,Repair,6,4,6,144,Low Risk
+M11247,D001,Repair,6,8,3,144,Low Risk
+M7604,D002,Reject,6,3,8,144,Low Risk
+M10679,NONE,Repair,9,4,4,144,Low Risk
+M10845,D001,OK,4,9,4,144,Low Risk
+M7103,D001,reject,8,6,3,144,Low Risk
+M10837,NONE,,8,6,3,144,Low Risk
+M7874,D003, ok ,8,2,9,144,Low Risk
+M9870,D002,,4,4,9,144,Low Risk
+M8719,NONE,Reject,6,3,8,144,Low Risk
+M7763,D004,,6,6,4,144,Low Risk
+M9782,D004,OK,4,4,9,144,Low Risk
+M8913,D003, ok ,4,9,4,144,Low Risk
+M11384,NONE, ok ,8,2,9,144,Low Risk
+M10807,NONE,Reject,6,3,8,144,Low Risk
+M8761,D002,OK,9,4,4,144,Low Risk
+M8750,D003, ok ,4,4,9,144,Low Risk
+M10008,D003,reject,6,4,6,144,Low Risk
+M9401,D004, ok ,9,2,8,144,Low Risk
+M11780,D003, ok ,6,8,3,144,Low Risk
+M9571,D001,OK,8,2,9,144,Low Risk
+M8167,D003,Reject,8,9,2,144,Low Risk
+M7603,D001,OK,4,4,9,144,Low Risk
+M9227,NONE,Reject,6,4,6,144,Low Risk
+M9041,D003, ok ,9,4,4,144,Low Risk
+M11146,NONE,OK,4,9,4,144,Low Risk
+M7023,D004,,8,2,9,144,Low Risk
+M10438,D002,reject,8,6,3,144,Low Risk
+M10144,NONE,,9,8,2,144,Low Risk
+M9321,D002,Reject,4,4,9,144,Low Risk
+M8938,D001,OK,4,4,9,144,Low Risk
+M10429,D001,reject,8,2,9,144,Low Risk
+M8230,D002, ok ,8,6,3,144,Low Risk
+M9903,D001, ok ,9,4,4,144,Low Risk
+M10257,D004,Reject,6,4,6,144,Low Risk
+M9011,D003,,6,6,4,144,Low Risk
+M10428,D003,,8,9,2,144,Low Risk
+M9426,D004,,6,4,6,144,Low Risk
+M8426,D001,Reject,4,6,6,144,Low Risk
+M9954,NONE,reject,4,9,4,144,Low Risk
+M10533,D002,Repair,8,3,6,144,Low Risk
+M9277,NONE,reject,6,4,6,144,Low Risk
+M9178,D004,OK,4,4,9,144,Low Risk
+M10620,NONE,Repair,6,6,4,144,Low Risk
+M10020,D004, ok ,6,8,3,144,Low Risk
+M9254,D004,Repair,4,4,9,144,Low Risk
+M8673,NONE,OK,6,8,3,144,Low Risk
+M11702,D001, ok ,8,9,2,144,Low Risk
+M10124,NONE,Reject,9,8,2,144,Low Risk
+M8935,D004,,8,2,9,144,Low Risk
+M11663,D004, ok ,9,2,8,144,Low Risk
+M11747,D001,OK,8,6,3,144,Low Risk
+M7287,D004,OK,6,6,4,144,Low Risk
+M7144,D003,Reject,4,9,4,144,Low Risk
+M7181,D004, ok ,8,2,9,144,Low Risk
+M10493,NONE,,8,2,9,144,Low Risk
+M8695,D002,OK,9,4,4,144,Low Risk
+M8058,D002, ok ,6,3,8,144,Low Risk
+M10428,NONE,OK,6,8,3,144,Low Risk
+M11461,D004,,4,6,6,144,Low Risk
+M10294,D003, ok ,6,6,4,144,Low Risk
+M10000,D003,reject,8,2,9,144,Low Risk
+M10660,D003,OK,8,6,3,144,Low Risk
+M11600,D004,OK,4,6,6,144,Low Risk
+M9943,D003, ok ,6,3,8,144,Low Risk
+M7033,D003,Reject,6,3,8,144,Low Risk
+M10332,D003,OK,6,3,8,144,Low Risk
+M7769,D004,,6,6,4,144,Low Risk
+M9998,D003,,8,9,2,144,Low Risk
+M7374,D003,Reject,8,9,2,144,Low Risk
+M9989,D003,Repair,8,3,6,144,Low Risk
+M10644,D001,,8,3,6,144,Low Risk
+M11881,D004,reject,8,6,3,144,Low Risk
+M7682,D001,Repair,4,6,6,144,Low Risk
+M11957,D002, ok ,4,9,4,144,Low Risk
+M10620,D002,Reject,6,6,4,144,Low Risk
+M7461,NONE,OK,4,9,4,144,Low Risk
+M7175,D004,Reject,8,9,2,144,Low Risk
+M9165,D004,Reject,9,4,4,144,Low Risk
+M8681,D003,OK,6,8,3,144,Low Risk
+M11360,D002,Reject,6,3,8,144,Low Risk
+M8827,D002,,8,9,2,144,Low Risk
+M11030,D004, ok ,9,8,2,144,Low Risk
+M9373,D003,reject,8,2,9,144,Low Risk
+M8772,D001,,4,6,6,144,Low Risk
+M7913,D002,OK,8,9,2,144,Low Risk
+M8877,D003,reject,8,6,3,144,Low Risk
+M8503,D001, ok ,8,3,6,144,Low Risk
+M9644,D003,Reject,4,6,6,144,Low Risk
+M9418,NONE,,9,4,4,144,Low Risk
+M8410,D004, ok ,4,6,6,144,Low Risk
+M7313,D001,OK,8,3,6,144,Low Risk
+M7589,D003,Repair,9,8,2,144,Low Risk
+M8992,D004,Repair,6,3,8,144,Low Risk
+M8697,D001, ok ,8,2,9,144,Low Risk
+M8702,D001,,9,4,4,144,Low Risk
+M9214,D002,,4,4,9,144,Low Risk
+M10176,D002,Reject,4,9,4,144,Low Risk
+M7159,D003,OK,9,2,8,144,Low Risk
+M9761,NONE,reject,6,8,3,144,Low Risk
+M10659,NONE,OK,8,3,6,144,Low Risk
+M9557,D001,Reject,8,9,2,144,Low Risk
+M8924,D001, ok ,4,4,9,144,Low Risk
+M11751,D002,Reject,6,3,8,144,Low Risk
+M11714,NONE,reject,4,9,4,144,Low Risk
+M9301,D001,Reject,6,8,3,144,Low Risk
+M7200,NONE,,4,6,6,144,Low Risk
+M9244,NONE,Reject,8,3,6,144,Low Risk
+M7093,D001,,4,6,6,144,Low Risk
+M10267,D001,reject,6,4,6,144,Low Risk
+M9919,D003,OK,9,2,8,144,Low Risk
+M8998,D002,Repair,9,2,8,144,Low Risk
+M11109,D003,,6,4,6,144,Low Risk
+M9194,D002,reject,8,3,6,144,Low Risk
+M10324,D003, ok ,4,4,9,144,Low Risk
+M7211,D001, ok ,4,4,9,144,Low Risk
+M11384,D002, ok ,9,2,8,144,Low Risk
+M10362,NONE,Reject,6,3,8,144,Low Risk
+M9204,NONE,reject,4,6,6,144,Low Risk
+M7980,D001,Repair,9,4,4,144,Low Risk
+M7084,D004,reject,6,3,8,144,Low Risk
+M9693,D001,Reject,4,6,6,144,Low Risk
+M9336,D004,reject,6,3,8,144,Low Risk
+M10227,D001,OK,6,3,8,144,Low Risk
+M11446,D004,Repair,4,7,5,140,Low Risk
+M10666,D001, ok ,7,4,5,140,Low Risk
+M11676,D002,reject,7,4,5,140,Low Risk
+M9857,D002,Reject,7,5,4,140,Low Risk
+M9221,D002,Repair,7,4,5,140,Low Risk
+M7539,NONE, ok ,7,5,4,140,Low Risk
+M8303,D004,Repair,5,7,4,140,Low Risk
+M8597,D003, ok ,4,7,5,140,Low Risk
+M8679,D003,Reject,5,4,7,140,Low Risk
+M10849,D004,reject,4,7,5,140,Low Risk
+M8569,D001,Reject,4,7,5,140,Low Risk
+M11281,D003,Reject,4,5,7,140,Low Risk
+M11268,D003,reject,7,4,5,140,Low Risk
+M9941,NONE,reject,7,5,4,140,Low Risk
+M11108,NONE,Reject,4,5,7,140,Low Risk
+M10740,D003,OK,4,7,5,140,Low Risk
+M11448,NONE,,5,4,7,140,Low Risk
+M7384,D002,Repair,5,7,4,140,Low Risk
+M10885,D002,,7,4,5,140,Low Risk
+M7969,D001,Reject,4,7,5,140,Low Risk
+M10399,D002,Reject,7,4,5,140,Low Risk
+M11804,NONE,Repair,5,4,7,140,Low Risk
+M8419,D004,reject,4,7,5,140,Low Risk
+M9546,NONE,Reject,5,4,7,140,Low Risk
+M10979,D004,Repair,4,7,5,140,Low Risk
+M10565,D004,Reject,5,7,4,140,Low Risk
+M9665,D001,reject,7,5,4,140,Low Risk
+M10950,NONE,Repair,4,7,5,140,Low Risk
+M11905,D001, ok ,7,4,5,140,Low Risk
+M10715,D003,,7,4,5,140,Low Risk
+M7823,D001,reject,7,4,5,140,Low Risk
+M10330,D003,OK,5,7,4,140,Low Risk
+M9722,D001,OK,7,5,4,140,Low Risk
+M10882,NONE,Repair,4,7,5,140,Low Risk
+M10253,D003,,4,5,7,140,Low Risk
+M8399,D004,reject,7,5,4,140,Low Risk
+M9261,D001,,7,5,4,140,Low Risk
+M7298,NONE,,7,5,4,140,Low Risk
+M7935,NONE, ok ,5,7,4,140,Low Risk
+M11796,D001,,7,4,5,140,Low Risk
+M9906,D003,reject,4,5,7,140,Low Risk
+M9672,D002,Reject,5,7,4,140,Low Risk
+M7946,D003,Reject,4,7,5,140,Low Risk
+M9026,D004,Repair,4,7,5,140,Low Risk
+M10791,D001,Repair,5,4,7,140,Low Risk
+M9771,D003,,4,5,7,140,Low Risk
+M9570,D003,reject,7,4,5,140,Low Risk
+M9915,D001,Repair,4,5,7,140,Low Risk
+M10335,NONE,reject,7,4,5,140,Low Risk
+M8002,NONE, ok ,4,7,5,140,Low Risk
+M8516,D004,,5,4,7,140,Low Risk
+M11054,D003,Repair,4,5,7,140,Low Risk
+M7533,D002,Reject,5,7,4,140,Low Risk
+M9647,D001,Reject,5,7,4,140,Low Risk
+M11327,D002,reject,7,4,5,140,Low Risk
+M9053,NONE, ok ,7,5,4,140,Low Risk
+M8418,D003,Reject,4,5,7,140,Low Risk
+M11819,NONE,OK,5,9,3,135,Low Risk
+M8878,D002,,5,3,9,135,Low Risk
+M8408,D004,,9,3,5,135,Low Risk
+M9001,D001,reject,5,3,9,135,Low Risk
+M8472,D001,Repair,5,3,9,135,Low Risk
+M8129,NONE, ok ,5,9,3,135,Low Risk
+M10921,D003,Repair,5,9,3,135,Low Risk
+M7577,NONE, ok ,9,5,3,135,Low Risk
+M7012,D003,reject,9,5,3,135,Low Risk
+M8886,D001,reject,9,5,3,135,Low Risk
+M9390,D003,Reject,9,5,3,135,Low Risk
+M10108,D001,Reject,5,3,9,135,Low Risk
+M8220,NONE,OK,5,3,9,135,Low Risk
+M10870,D001, ok ,9,5,3,135,Low Risk
+M7644,D001,reject,9,5,3,135,Low Risk
+M7250,D003,OK,5,3,9,135,Low Risk
+M7691,D004,Repair,5,3,9,135,Low Risk
+M10023,NONE,Repair,5,3,9,135,Low Risk
+M11547,D002,reject,5,9,3,135,Low Risk
+M7874,D002, ok ,9,3,5,135,Low Risk
+M9339,D002,reject,5,3,9,135,Low Risk
+M11172,D004,OK,9,3,5,135,Low Risk
+M8544,NONE,reject,5,9,3,135,Low Risk
+M10305,D004,OK,9,3,5,135,Low Risk
+M10502,D001,Repair,5,3,9,135,Low Risk
+M11220,D003,reject,5,3,9,135,Low Risk
+M11079,D001,,9,3,5,135,Low Risk
+M10220,D004,OK,9,5,3,135,Low Risk
+M9411,NONE, ok ,5,3,9,135,Low Risk
+M7847,D002,reject,5,3,9,135,Low Risk
+M7010,NONE,,5,9,3,135,Low Risk
+M7506,D003,Reject,8,4,4,128,Low Risk
+M11133,D001,,8,4,4,128,Low Risk
+M9725,D003,Repair,4,4,8,128,Low Risk
+M10725,NONE, ok ,8,8,2,128,Low Risk
+M8129,D003,Reject,8,8,2,128,Low Risk
+M11147,D004,OK,8,4,4,128,Low Risk
+M8294,NONE,OK,4,4,8,128,Low Risk
+M10413,D002,OK,4,8,4,128,Low Risk
+M8642,D002,Reject,8,8,2,128,Low Risk
+M8442,D001,,8,4,4,128,Low Risk
+M7111,NONE, ok ,4,8,4,128,Low Risk
+M9780,D001,,8,8,2,128,Low Risk
+M9378,D002,Repair,4,4,8,128,Low Risk
+M8119,D003,,4,4,8,128,Low Risk
+M9289,NONE,reject,8,2,8,128,Low Risk
+M10499,D004,reject,8,8,2,128,Low Risk
+M9789,D004,Reject,4,4,8,128,Low Risk
+M9292,NONE,reject,8,4,4,128,Low Risk
+M8103,NONE,OK,8,8,2,128,Low Risk
+M8965,D003,reject,8,4,4,128,Low Risk
+M9220,D003,Reject,8,2,8,128,Low Risk
+M11885,D003,reject,8,4,4,128,Low Risk
+M8829,NONE,reject,4,8,4,128,Low Risk
+M9089,D003,OK,4,4,8,128,Low Risk
+M8098,D003,,4,4,8,128,Low Risk
+M7638,D002,reject,8,2,8,128,Low Risk
+M7905,D001,Reject,8,8,2,128,Low Risk
+M8955,D002,OK,4,4,8,128,Low Risk
+M7521,D002,OK,4,8,4,128,Low Risk
+M11314,D002,OK,8,2,8,128,Low Risk
+M7655,D003,reject,8,4,4,128,Low Risk
+M11445,D004,reject,4,4,8,128,Low Risk
+M8432,D003,Reject,8,2,8,128,Low Risk
+M11662,NONE,OK,8,8,2,128,Low Risk
+M9534,D004,Reject,8,2,8,128,Low Risk
+M8438,NONE,reject,8,8,2,128,Low Risk
+M9745,D003,,4,4,8,128,Low Risk
+M9424,NONE,OK,8,4,4,128,Low Risk
+M10366,D003,Reject,4,8,4,128,Low Risk
+M7142,D004,,8,8,2,128,Low Risk
+M9230,D002,reject,4,8,4,128,Low Risk
+M7099,D003,Repair,4,4,8,128,Low Risk
+M9378,D004,,4,8,4,128,Low Risk
+M11280,D002,,8,2,8,128,Low Risk
+M8947,D003, ok ,4,4,8,128,Low Risk
+M11282,D004,reject,8,8,2,128,Low Risk
+M7266,D003,,4,8,4,128,Low Risk
+M8400,D003,reject,8,2,8,128,Low Risk
+M11775,D004,Repair,4,8,4,128,Low Risk
+M7413,D003,,4,4,8,128,Low Risk
+M9846,NONE,Repair,8,2,8,128,Low Risk
+M10068,D003,,8,8,2,128,Low Risk
+M9276,D003,Reject,7,2,9,126,Low Risk
+M11930,D004,,6,7,3,126,Low Risk
+M8683,D001,OK,7,2,9,126,Low Risk
+M8572,D004,,6,3,7,126,Low Risk
+M9771,D003,reject,9,7,2,126,Low Risk
+M10150,D001,Reject,7,9,2,126,Low Risk
+M10260,NONE, ok ,7,3,6,126,Low Risk
+M8729,D004,Repair,9,2,7,126,Low Risk
+M11496,D002,OK,9,2,7,126,Low Risk
+M8763,D001, ok ,6,7,3,126,Low Risk
+M10552,D003,Repair,9,2,7,126,Low Risk
+M7059,D001, ok ,6,7,3,126,Low Risk
+M8623,NONE,,7,6,3,126,Low Risk
+M10152,D002,OK,7,3,6,126,Low Risk
+M7254,D001,,9,2,7,126,Low Risk
+M9657,D004,Repair,6,7,3,126,Low Risk
+M10102,D001,reject,6,7,3,126,Low Risk
+M10002,D001,,7,6,3,126,Low Risk
+M11979,NONE, ok ,7,6,3,126,Low Risk
+M10327,NONE,reject,6,7,3,126,Low Risk
+M11478,D002,reject,7,3,6,126,Low Risk
+M10587,D001,OK,9,2,7,126,Low Risk
+M11209,D001,OK,9,7,2,126,Low Risk
+M9245,D002,Reject,7,3,6,126,Low Risk
+M9630,D003, ok ,9,7,2,126,Low Risk
+M9687,NONE,,7,9,2,126,Low Risk
+M9169,D001, ok ,9,7,2,126,Low Risk
+M7838,NONE, ok ,9,2,7,126,Low Risk
+M8313,D002,,9,7,2,126,Low Risk
+M9231,D001,Repair,7,6,3,126,Low Risk
+M9674,D002,Repair,7,6,3,126,Low Risk
+M7267,D002,reject,9,2,7,126,Low Risk
+M8923,D002,reject,6,7,3,126,Low Risk
+M10304,D001,Repair,7,6,3,126,Low Risk
+M8679,D004,,6,3,7,126,Low Risk
+M11774,D002,reject,7,6,3,126,Low Risk
+M9176,NONE,Reject,6,7,3,126,Low Risk
+M7961,D002,,6,7,3,126,Low Risk
+M8165,D002,,9,2,7,126,Low Risk
+M10056,D003,reject,7,9,2,126,Low Risk
+M8837,NONE,Repair,7,6,3,126,Low Risk
+M11510,D003,,9,2,7,126,Low Risk
+M8998,D003,OK,9,7,2,126,Low Risk
+M11603,D001,Reject,7,6,3,126,Low Risk
+M9368,D004,OK,7,3,6,126,Low Risk
+M10519,D004,reject,7,9,2,126,Low Risk
+M9237,D001,,9,2,7,126,Low Risk
+M8495,D001, ok ,7,9,2,126,Low Risk
+M8045,D004,Repair,7,3,6,126,Low Risk
+M8688,D001,OK,7,3,6,126,Low Risk
+M10708,NONE,Reject,9,2,7,126,Low Risk
+M10693,D003,OK,6,3,7,126,Low Risk
+M10973,D003,Repair,9,7,2,126,Low Risk
+M7993,NONE, ok ,7,3,6,126,Low Risk
+M11175,D004, ok ,7,3,6,126,Low Risk
+M7747,D004, ok ,9,2,7,126,Low Risk
+M10402,D001,Reject,6,7,3,126,Low Risk
+M7968,D002,,9,2,7,126,Low Risk
+M8256,D001, ok ,7,2,9,126,Low Risk
+M7990,D003, ok ,9,2,7,126,Low Risk
+M8055,D003,,7,9,2,126,Low Risk
+M8768,D004,Reject,7,9,2,126,Low Risk
+M10919,D001,,7,6,3,126,Low Risk
+M11501,D001, ok ,6,7,3,126,Low Risk
+M11676,D002,OK,7,6,3,126,Low Risk
+M10161,D001,,7,2,9,126,Low Risk
+M11598,D003,OK,5,5,5,125,Low Risk
+M9794,D004,OK,5,5,5,125,Low Risk
+M8370,D002, ok ,5,5,5,125,Low Risk
+M9473,D002,,5,5,5,125,Low Risk
+M8440,D003, ok ,5,5,5,125,Low Risk
+M10800,D003,OK,5,5,5,125,Low Risk
+M10012,D003,OK,5,5,5,125,Low Risk
+M10683,NONE, ok ,5,4,6,120,Low Risk
+M8083,D002,OK,6,5,4,120,Low Risk
+M10259,D002,reject,4,5,6,120,Low Risk
+M8314,D001,OK,4,6,5,120,Low Risk
+M11063,D004,OK,8,3,5,120,Low Risk
+M9646,D003, ok ,5,3,8,120,Low Risk
+M9536,NONE,,4,6,5,120,Low Risk
+M8834,D001, ok ,6,4,5,120,Low Risk
+M10850,D004,reject,6,5,4,120,Low Risk
+M10057,NONE,reject,8,3,5,120,Low Risk
+M7395,D002,,5,3,8,120,Low Risk
+M7303,D001,OK,8,5,3,120,Low Risk
+M8013,D002,Repair,4,5,6,120,Low Risk
+M10186,NONE,Reject,6,4,5,120,Low Risk
+M9863,D002,,6,5,4,120,Low Risk
+M9653,D002,Repair,8,3,5,120,Low Risk
+M11045,NONE,reject,8,5,3,120,Low Risk
+M9386,D004,,5,4,6,120,Low Risk
+M10359,D004,OK,5,4,6,120,Low Risk
+M7123,D002,OK,4,5,6,120,Low Risk
+M11261,D004,OK,8,3,5,120,Low Risk
+M8527,D002,,8,5,3,120,Low Risk
+M8570,D004,Repair,4,6,5,120,Low Risk
+M8537,D002,reject,6,4,5,120,Low Risk
+M7838,D002,,5,8,3,120,Low Risk
+M7401,D002,Reject,8,5,3,120,Low Risk
+M8369,NONE,Repair,5,3,8,120,Low Risk
+M11278,NONE,Repair,5,3,8,120,Low Risk
+M7890,D002,Repair,8,3,5,120,Low Risk
+M7870,D001,Repair,5,3,8,120,Low Risk
+M10928,D002,,5,6,4,120,Low Risk
+M9587,D003,OK,5,6,4,120,Low Risk
+M7583,D002,Repair,4,5,6,120,Low Risk
+M10911,NONE,,8,3,5,120,Low Risk
+M11314,D004,Repair,4,5,6,120,Low Risk
+M8906,D002, ok ,5,3,8,120,Low Risk
+M11276,D004,OK,5,4,6,120,Low Risk
+M8057,D004,,8,3,5,120,Low Risk
+M8645,D002,,5,6,4,120,Low Risk
+M7099,D004, ok ,4,6,5,120,Low Risk
+M7323,NONE,OK,5,3,8,120,Low Risk
+M11043,D002,reject,8,3,5,120,Low Risk
+M9967,D001,reject,5,6,4,120,Low Risk
+M10030,NONE,OK,8,3,5,120,Low Risk
+M8250,D002,reject,5,3,8,120,Low Risk
+M9237,NONE,,5,8,3,120,Low Risk
+M11507,D004,Repair,5,3,8,120,Low Risk
+M7621,D004,,6,4,5,120,Low Risk
+M11353,D001,Repair,8,3,5,120,Low Risk
+M7554,NONE,,6,5,4,120,Low Risk
+M8380,NONE,OK,8,3,5,120,Low Risk
+M9208,D004,OK,5,8,3,120,Low Risk
+M11809,D002,Reject,5,8,3,120,Low Risk
+M11829,D004,,8,5,3,120,Low Risk
+M11928,D002, ok ,5,3,8,120,Low Risk
+M10763,D001,Repair,5,4,6,120,Low Risk
+M11900,D003,OK,6,4,5,120,Low Risk
+M10444,NONE,OK,8,5,3,120,Low Risk
+M10466,NONE,OK,5,4,6,120,Low Risk
+M7226,NONE,reject,4,5,6,120,Low Risk
+M8193,D002, ok ,6,4,5,120,Low Risk
+M7763,D004,Repair,8,3,5,120,Low Risk
+M8190,D001,Reject,4,5,6,120,Low Risk
+M11909,D003,OK,4,6,5,120,Low Risk
+M11171,NONE, ok ,6,4,5,120,Low Risk
+M10930,D004,reject,6,4,5,120,Low Risk
+M10761,D003,Repair,6,4,5,120,Low Risk
+M11999,NONE,Reject,8,5,3,120,Low Risk
+M8249,D003,OK,8,3,5,120,Low Risk
+M7245,D001,Repair,5,4,6,120,Low Risk
+M11011,D001,,8,3,5,120,Low Risk
+M10228,D002,Repair,5,4,6,120,Low Risk
+M11797,D001,OK,5,6,4,120,Low Risk
+M8416,D003,,5,3,8,120,Low Risk
+M7033,D001,,4,6,5,120,Low Risk
+M8194,NONE,Repair,6,4,5,120,Low Risk
+M10397,D002,,5,3,8,120,Low Risk
+M8508,D004,reject,4,6,5,120,Low Risk
+M10424,NONE, ok ,5,3,8,120,Low Risk
+M10893,D004,Repair,4,5,6,120,Low Risk
+M8524,D003, ok ,5,3,8,120,Low Risk
+M8796,NONE,OK,4,5,6,120,Low Risk
+M7962,NONE,reject,5,4,6,120,Low Risk
+M11260,D002, ok ,5,6,4,120,Low Risk
+M9369,NONE,reject,5,3,8,120,Low Risk
+M9469,D001, ok ,8,3,5,120,Low Risk
+M8962,NONE,,8,5,3,120,Low Risk
+M8478,D001,reject,5,8,3,120,Low Risk
+M10290,D001,OK,8,5,3,120,Low Risk
+M8611,D004,OK,4,5,6,120,Low Risk
+M10277,D003,Reject,5,6,4,120,Low Risk
+M7129,D004,OK,6,4,5,120,Low Risk
+M10755,D001,reject,4,4,7,112,Low Risk
+M11525,D002,OK,7,2,8,112,Low Risk
+M9567,D003,reject,4,7,4,112,Low Risk
+M10598,D001,OK,7,2,8,112,Low Risk
+M8878,D002,Reject,4,4,7,112,Low Risk
+M7166,D003,reject,8,2,7,112,Low Risk
+M9928,NONE, ok ,8,2,7,112,Low Risk
+M10001,D004,,7,4,4,112,Low Risk
+M7196,D004,,7,4,4,112,Low Risk
+M11739,D001,reject,4,4,7,112,Low Risk
+M7247,NONE,,4,4,7,112,Low Risk
+M10913,D003,Reject,4,7,4,112,Low Risk
+M7140,D002,,7,4,4,112,Low Risk
+M11740,D004,,8,7,2,112,Low Risk
+M8113,NONE,reject,8,2,7,112,Low Risk
+M7083,NONE,OK,7,4,4,112,Low Risk
+M8875,D002,Reject,7,4,4,112,Low Risk
+M8316,D002,Repair,7,8,2,112,Low Risk
+M8607,D003,reject,7,8,2,112,Low Risk
+M7548,NONE, ok ,7,2,8,112,Low Risk
+M7491,D003, ok ,8,2,7,112,Low Risk
+M10610,D002,OK,4,7,4,112,Low Risk
+M9220,D003,reject,4,4,7,112,Low Risk
+M9991,D001,OK,7,8,2,112,Low Risk
+M9795,D004,Repair,4,4,7,112,Low Risk
+M8176,D002,Reject,7,2,8,112,Low Risk
+M11581,D003,,4,7,4,112,Low Risk
+M8344,NONE,Repair,4,4,7,112,Low Risk
+M11922,D004,Reject,7,8,2,112,Low Risk
+M7332,D002,reject,8,7,2,112,Low Risk
+M8906,D003,,7,2,8,112,Low Risk
+M8591,D001,,7,2,8,112,Low Risk
+M9614,D001,Repair,7,4,4,112,Low Risk
+M11159,D002,reject,8,7,2,112,Low Risk
+M8567,NONE,Reject,8,2,7,112,Low Risk
+M8262,D003,reject,7,4,4,112,Low Risk
+M7948,D003,Reject,4,7,4,112,Low Risk
+M9527,D002,Repair,8,2,7,112,Low Risk
+M8792,D004,OK,7,4,4,112,Low Risk
+M11961,D003,,8,7,2,112,Low Risk
+M11502,D002,Repair,8,2,7,112,Low Risk
+M8386,D002,Repair,6,3,6,108,Low Risk
+M8096,D003, ok ,9,3,4,108,Low Risk
+M10486,D001,,4,3,9,108,Low Risk
+M7012,D003,Reject,4,9,3,108,Low Risk
+M9877,D003,Repair,9,3,4,108,Low Risk
+M11574,NONE, ok ,6,2,9,108,Low Risk
+M10225,NONE,Reject,6,9,2,108,Low Risk
+M7475,D002,Repair,6,9,2,108,Low Risk
+M7284,D002,OK,4,9,3,108,Low Risk
+M8200,D004,,9,2,6,108,Low Risk
+M8150,NONE,reject,9,3,4,108,Low Risk
+M8857,D003,Reject,9,3,4,108,Low Risk
+M11119,D002,Reject,6,2,9,108,Low Risk
+M8464,NONE,Repair,6,9,2,108,Low Risk
+M9493,NONE,,9,4,3,108,Low Risk
+M11226,D001, ok ,9,4,3,108,Low Risk
+M10877,NONE,,4,3,9,108,Low Risk
+M9549,D003,,9,2,6,108,Low Risk
+M10344,NONE,Reject,9,3,4,108,Low Risk
+M9776,D001,reject,9,3,4,108,Low Risk
+M11956,D004,Reject,6,3,6,108,Low Risk
+M7205,NONE,OK,9,6,2,108,Low Risk
+M11275,D002,OK,6,2,9,108,Low Risk
+M11573,D004, ok ,6,3,6,108,Low Risk
+M8327,D001,Reject,6,9,2,108,Low Risk
+M8715,D004,Reject,4,9,3,108,Low Risk
+M8689,NONE,,6,6,3,108,Low Risk
+M11461,D003,Repair,4,3,9,108,Low Risk
+M8069,D003,OK,9,2,6,108,Low Risk
+M10425,D003,Repair,6,6,3,108,Low Risk
+M10567,D004, ok ,9,3,4,108,Low Risk
+M9721,D001,reject,6,3,6,108,Low Risk
+M11822,D002,Repair,6,2,9,108,Low Risk
+M11538,D002,reject,9,3,4,108,Low Risk
+M11800,D003,reject,6,2,9,108,Low Risk
+M8704,D003,OK,9,6,2,108,Low Risk
+M8299,NONE,Reject,6,9,2,108,Low Risk
+M10830,D003,,6,2,9,108,Low Risk
+M9435,D002,Repair,9,3,4,108,Low Risk
+M10292,NONE,OK,6,2,9,108,Low Risk
+M11719,D001,OK,6,6,3,108,Low Risk
+M7007,NONE,reject,6,9,2,108,Low Risk
+M9222,NONE,Reject,9,6,2,108,Low Risk
+M11602,D001, ok ,6,2,9,108,Low Risk
+M9253,D002,Repair,4,9,3,108,Low Risk
+M7962,D004,reject,4,9,3,108,Low Risk
+M10988,D003,,6,2,9,108,Low Risk
+M8317,NONE,,4,9,3,108,Low Risk
+M10132,D001,Reject,4,3,9,108,Low Risk
+M9666,D004,Reject,9,2,6,108,Low Risk
+M9860,D001,,4,9,3,108,Low Risk
+M7903,D004,,6,6,3,108,Low Risk
+M9913,D001,,6,3,6,108,Low Risk
+M11534,D003,,9,6,2,108,Low Risk
+M9328,D004,Repair,6,6,3,108,Low Risk
+M8622,D002,OK,4,9,3,108,Low Risk
+M7830,D002,Repair,9,6,2,108,Low Risk
+M7641,D004, ok ,9,2,6,108,Low Risk
+M8723,NONE,OK,6,3,6,108,Low Risk
+M10675,D003,Repair,6,9,2,108,Low Risk
+M8355,D003, ok ,4,9,3,108,Low Risk
+M11867,NONE,Repair,6,9,2,108,Low Risk
+M7654,D003,reject,6,2,9,108,Low Risk
+M8794,D002,reject,9,3,4,108,Low Risk
+M7908,D003,OK,6,6,3,108,Low Risk
+M11137,D004,Repair,6,6,3,108,Low Risk
+M7460,D002,OK,9,6,2,108,Low Risk
+M9106,D004, ok ,9,4,3,108,Low Risk
+M8712,D002,Repair,6,6,3,108,Low Risk
+M8660,D002,Reject,6,2,9,108,Low Risk
+M10978,D002,,6,3,6,108,Low Risk
+M7800,D004,reject,4,9,3,108,Low Risk
+M7823,D004,reject,9,2,6,108,Low Risk
+M8943,D001,Repair,9,3,4,108,Low Risk
+M11506,D001,Reject,9,3,4,108,Low Risk
+M8229,D004,,6,9,2,108,Low Risk
+M8286,D001,,9,6,2,108,Low Risk
+M11282,D001,reject,6,9,2,108,Low Risk
+M8536,NONE, ok ,4,9,3,108,Low Risk
+M7179,D001,Reject,4,3,9,108,Low Risk
+M9120,D003,Reject,9,6,2,108,Low Risk
+M8000,D004,Reject,9,6,2,108,Low Risk
+M10912,NONE,Repair,6,9,2,108,Low Risk
+M10463,D001,Repair,4,3,9,108,Low Risk
+M8208,D003,OK,9,2,6,108,Low Risk
+M11892,D003,reject,9,4,3,108,Low Risk
+M10969,D003,Repair,9,6,2,108,Low Risk
+M8522,D001,Repair,6,9,2,108,Low Risk
+M7306,D004,,6,6,3,108,Low Risk
+M11718,D001,OK,6,9,2,108,Low Risk
+M10898,D001, ok ,9,4,3,108,Low Risk
+M9032,NONE,OK,9,2,6,108,Low Risk
+M10716,D002,,9,6,2,108,Low Risk
+M9670,NONE,OK,9,6,2,108,Low Risk
+M9759,D003, ok ,9,4,3,108,Low Risk
+M10780,D001,OK,6,6,3,108,Low Risk
+M8081,D003,,4,3,9,108,Low Risk
+M10004,D003,Repair,6,2,9,108,Low Risk
+M9829,D002,,5,7,3,105,Low Risk
+M10259,D002,Reject,7,5,3,105,Low Risk
+M10340,NONE,reject,7,3,5,105,Low Risk
+M7661,D002,reject,7,5,3,105,Low Risk
+M10292,D003,OK,5,3,7,105,Low Risk
+M9402,D001,,5,7,3,105,Low Risk
+M10510,D001,Reject,7,3,5,105,Low Risk
+M7562,NONE,OK,5,3,7,105,Low Risk
+M9280,NONE,reject,7,3,5,105,Low Risk
+M7006,D002,Repair,7,5,3,105,Low Risk
+M9026,D004,Reject,5,7,3,105,Low Risk
+M7178,D004,,5,7,3,105,Low Risk
+M7201,D001,OK,5,3,7,105,Low Risk
+M9008,D003,,5,7,3,105,Low Risk
+M11219,D001,Reject,5,3,7,105,Low Risk
+M7669,D001,,5,3,7,105,Low Risk
+M11038,D002,Reject,5,3,7,105,Low Risk
+M9762,D003,,7,5,3,105,Low Risk
+M11081,D001,reject,5,3,7,105,Low Risk
+M9557,NONE,OK,5,3,7,105,Low Risk
+M11198,NONE,OK,7,3,5,105,Low Risk
+M7718,NONE,,7,3,5,105,Low Risk
+M8319,D004,,7,3,5,105,Low Risk
+M11439,D001,OK,7,5,3,105,Low Risk
+M9788,NONE,OK,5,3,7,105,Low Risk
+M9196,NONE, ok ,7,3,5,105,Low Risk
+M9410,D004,Repair,5,3,7,105,Low Risk
+M9058,D003,Reject,7,3,5,105,Low Risk
+M10538,D003,Repair,7,5,3,105,Low Risk
+M11197,D004,,7,5,3,105,Low Risk
+M8770,D004,Reject,5,5,4,100,Low Risk
+M7055,D004, ok ,4,5,5,100,Low Risk
+M8142,D003,Reject,4,5,5,100,Low Risk
+M10213,NONE,OK,4,5,5,100,Low Risk
+M8124,D003,,4,5,5,100,Low Risk
+M11716,D004,Repair,4,5,5,100,Low Risk
+M11532,D003,OK,5,4,5,100,Low Risk
+M8679,D003, ok ,5,4,5,100,Low Risk
+M9124,D002,,5,5,4,100,Low Risk
+M7361,D004, ok ,4,5,5,100,Low Risk
+M9483,D004,Repair,5,5,4,100,Low Risk
+M8129,D003,Reject,4,5,5,100,Low Risk
+M7058,D001,Reject,5,4,5,100,Low Risk
+M8158,D002,Repair,4,5,5,100,Low Risk
+M9347,D003,Repair,5,5,4,100,Low Risk
+M10988,D004,Repair,5,4,5,100,Low Risk
+M11009,NONE, ok ,4,5,5,100,Low Risk
+M7911,D003,Repair,4,5,5,100,Low Risk
+M10595,D003,Repair,5,4,5,100,Low Risk
+M8550,D001,Reject,4,5,5,100,Low Risk
+M8923,NONE,Reject,4,5,5,100,Low Risk
+M11328,D002,Reject,5,5,4,100,Low Risk
+M11026,D001,OK,5,5,4,100,Low Risk
+M11139,D004,reject,7,7,2,98,Low Risk
+M8814,D004,Reject,7,7,2,98,Low Risk
+M7123,D003,reject,7,7,2,98,Low Risk
+M9371,D003,Repair,7,7,2,98,Low Risk
+M9272,D002,Repair,7,2,7,98,Low Risk
+M10018,D002, ok ,7,7,2,98,Low Risk
+M8483,D001,,7,7,2,98,Low Risk
+M8468,D004,Repair,7,2,7,98,Low Risk
+M11292,D001,Reject,7,2,7,98,Low Risk
+M11251,D002,reject,7,7,2,98,Low Risk
+M11444,D002,OK,7,2,7,98,Low Risk
+M8623,D003,,7,2,7,98,Low Risk
+M10256,D004, ok ,7,2,7,98,Low Risk
+M9650,D004,Repair,7,7,2,98,Low Risk
+M8037,D004,Reject,7,7,2,98,Low Risk
+M7395,NONE,OK,7,2,7,98,Low Risk
+M9530,D002,reject,7,7,2,98,Low Risk
+M7671,D002, ok ,7,2,7,98,Low Risk
+M10653,D001,,7,7,2,98,Low Risk
+M11650,NONE,OK,7,7,2,98,Low Risk
+M8937,D001,Repair,7,2,7,98,Low Risk
+M8981,D004,Reject,8,4,3,96,Low Risk
+M10902,D001,OK,8,2,6,96,Low Risk
+M10711,D003,,8,2,6,96,Low Risk
+M7608,NONE, ok ,4,4,6,96,Low Risk
+M10191,D001,,6,2,8,96,Low Risk
+M10425,NONE,Repair,6,2,8,96,Low Risk
+M7472,D001,Repair,8,2,6,96,Low Risk
+M9382,D003, ok ,4,6,4,96,Low Risk
+M9540,D002,Repair,8,2,6,96,Low Risk
+M8043,D004,Reject,6,8,2,96,Low Risk
+M9767,D001,OK,4,6,4,96,Low Risk
+M9598,D004,OK,4,3,8,96,Low Risk
+M10109,D001,OK,4,4,6,96,Low Risk
+M10393,D004,Reject,4,4,6,96,Low Risk
+M11930,D002,OK,4,6,4,96,Low Risk
+M9455,D001,OK,4,8,3,96,Low Risk
+M8008,D001,Reject,8,3,4,96,Low Risk
+M11748,D004,OK,4,3,8,96,Low Risk
+M10892,D001, ok ,6,8,2,96,Low Risk
+M8672,NONE,Reject,8,4,3,96,Low Risk
+M8237,D002, ok ,4,8,3,96,Low Risk
+M9719,NONE,Repair,4,6,4,96,Low Risk
+M10770,D002,reject,4,4,6,96,Low Risk
+M9895,D002,Repair,4,8,3,96,Low Risk
+M7623,D001,Reject,8,4,3,96,Low Risk
+M11816,D002, ok ,4,6,4,96,Low Risk
+M8107,D001,OK,6,2,8,96,Low Risk
+M10624,D001,,4,8,3,96,Low Risk
+M10923,NONE, ok ,8,4,3,96,Low Risk
+M7777,NONE,reject,8,3,4,96,Low Risk
+M10555,D002,reject,8,6,2,96,Low Risk
+M7818,D004, ok ,4,8,3,96,Low Risk
+M10451,NONE, ok ,4,4,6,96,Low Risk
+M10248,D003,Reject,8,6,2,96,Low Risk
+M11101,NONE,Repair,6,8,2,96,Low Risk
+M9944,D002,reject,8,4,3,96,Low Risk
+M11118,D004,reject,6,2,8,96,Low Risk
+M8370,D004,OK,4,6,4,96,Low Risk
+M8630,D004,,8,6,2,96,Low Risk
+M8054,D004,,6,8,2,96,Low Risk
+M10620,D002,OK,8,3,4,96,Low Risk
+M10477,NONE,Repair,8,2,6,96,Low Risk
+M8661,D002,OK,6,8,2,96,Low Risk
+M9215,D001,OK,4,3,8,96,Low Risk
+M9126,D003,reject,4,3,8,96,Low Risk
+M10914,D001, ok ,8,3,4,96,Low Risk
+M8071,D002,Repair,6,8,2,96,Low Risk
+M9451,D001, ok ,8,2,6,96,Low Risk
+M10886,NONE,Repair,4,3,8,96,Low Risk
+M10853,D004,,6,4,4,96,Low Risk
+M9109,D001,Reject,6,2,8,96,Low Risk
+M9407,D004,,4,8,3,96,Low Risk
+M11439,D003,,6,2,8,96,Low Risk
+M11186,D003,Repair,6,2,8,96,Low Risk
+M9148,D003,OK,8,4,3,96,Low Risk
+M8772,NONE, ok ,4,3,8,96,Low Risk
+M8277,D002, ok ,8,6,2,96,Low Risk
+M9591,D003,Reject,4,8,3,96,Low Risk
+M8461,D004, ok ,4,4,6,96,Low Risk
+M7479,NONE,reject,8,6,2,96,Low Risk
+M9115,D001,,4,4,6,96,Low Risk
+M7302,NONE,reject,8,6,2,96,Low Risk
+M9277,D003,Repair,6,4,4,96,Low Risk
+M8838,D003,Repair,6,2,8,96,Low Risk
+M10744,D002, ok ,6,4,4,96,Low Risk
+M7612,D001,reject,6,2,8,96,Low Risk
+M8667,D002,Reject,8,2,6,96,Low Risk
+M8139,D004,reject,8,4,3,96,Low Risk
+M8416,D001,reject,6,2,8,96,Low Risk
+M7147,D001, ok ,6,8,2,96,Low Risk
+M7102,D003,,8,3,4,96,Low Risk
+M7642,NONE,Repair,8,4,3,96,Low Risk
+M7645,D002,,8,6,2,96,Low Risk
+M9253,D003,Repair,4,4,6,96,Low Risk
+M7536,D002, ok ,8,4,3,96,Low Risk
+M7797,D004,Repair,8,2,6,96,Low Risk
+M7186,D004,reject,8,3,4,96,Low Risk
+M9235,NONE,reject,4,6,4,96,Low Risk
+M11370,D002,Repair,8,6,2,96,Low Risk
+M10217,D002,Reject,4,4,6,96,Low Risk
+M11222,D002, ok ,4,6,4,96,Low Risk
+M10922,D002,Repair,8,3,4,96,Low Risk
+M8098,D004,OK,6,8,2,96,Low Risk
+M7892,D001,Reject,6,4,4,96,Low Risk
+M7407,D003,Reject,4,6,4,96,Low Risk
+M8838,NONE,reject,8,6,2,96,Low Risk
+M7218,D002, ok ,4,6,4,96,Low Risk
+M9439,D003,OK,8,3,4,96,Low Risk
+M7743,D003,,6,4,4,96,Low Risk
+M8244,D002,Reject,6,4,4,96,Low Risk
+M9376,D004,Reject,8,6,2,96,Low Risk
+M8795,D004,Repair,8,2,6,96,Low Risk
+M10325,NONE,OK,4,8,3,96,Low Risk
+M10148,D003,Reject,4,8,3,96,Low Risk
+M7989,D004,Repair,8,6,2,96,Low Risk
+M11549,D002,reject,4,6,4,96,Low Risk
+M10652,D004,Repair,4,3,8,96,Low Risk
+M10536,D003,Repair,4,6,4,96,Low Risk
+M8279,D004,Repair,6,2,8,96,Low Risk
+M8053,D003,reject,6,3,5,90,Low Risk
+M8668,NONE,reject,9,2,5,90,Low Risk
+M7316,D004,Repair,6,5,3,90,Low Risk
+M8919,D003,Repair,5,9,2,90,Low Risk
+M7547,D002, ok ,5,6,3,90,Low Risk
+M9535,D004,reject,5,2,9,90,Low Risk
+M8494,D003,Reject,9,2,5,90,Low Risk
+M7893,D001,Reject,5,9,2,90,Low Risk
+M9778,D004,Reject,5,6,3,90,Low Risk
+M11831,NONE,,5,6,3,90,Low Risk
+M11709,D001, ok ,9,5,2,90,Low Risk
+M9004,D004,Repair,5,3,6,90,Low Risk
+M7214,D003,Reject,5,2,9,90,Low Risk
+M9599,D003,OK,5,3,6,90,Low Risk
+M8273,D003,OK,9,5,2,90,Low Risk
+M9288,D001,,5,3,6,90,Low Risk
+M10618,D004,Reject,5,3,6,90,Low Risk
+M10289,NONE,,5,2,9,90,Low Risk
+M7230,D003,,9,5,2,90,Low Risk
+M8452,D003,Reject,5,9,2,90,Low Risk
+M9560,NONE,OK,5,6,3,90,Low Risk
+M10543,D001,,9,2,5,90,Low Risk
+M9216,D001,OK,9,2,5,90,Low Risk
+M11224,D004,Reject,5,9,2,90,Low Risk
+M7670,D004,,5,2,9,90,Low Risk
+M11460,D001, ok ,6,3,5,90,Low Risk
+M11524,D001,,9,5,2,90,Low Risk
+M8029,D003, ok ,5,6,3,90,Low Risk
+M9463,D001,,5,3,6,90,Low Risk
+M9481,D004,,6,3,5,90,Low Risk
+M9960,D002,reject,6,3,5,90,Low Risk
+M11487,D004,Repair,5,6,3,90,Low Risk
+M9199,D001,Reject,5,2,9,90,Low Risk
+M10094,D002,reject,9,5,2,90,Low Risk
+M8648,D004,Reject,5,9,2,90,Low Risk
+M11660,D003,Repair,6,5,3,90,Low Risk
+M10658,D003,reject,9,2,5,90,Low Risk
+M10875,D002,Reject,6,5,3,90,Low Risk
+M11700,NONE,reject,5,3,6,90,Low Risk
+M9118,NONE,Reject,6,5,3,90,Low Risk
+M9360,D002,OK,9,5,2,90,Low Risk
+M7936,D001,,5,2,9,90,Low Risk
+M10195,D002,Repair,9,5,2,90,Low Risk
+M11131,D001,OK,5,2,9,90,Low Risk
+M7937,D001, ok ,9,2,5,90,Low Risk
+M9939,D003,,5,2,9,90,Low Risk
+M7886,D004,Repair,5,2,9,90,Low Risk
+M8344,NONE,,5,9,2,90,Low Risk
+M7035,D003, ok ,9,2,5,90,Low Risk
+M10435,D001,Reject,9,5,2,90,Low Risk
+M10756,D003,,6,3,5,90,Low Risk
+M9965,NONE,reject,5,9,2,90,Low Risk
+M8318,D002,reject,5,9,2,90,Low Risk
+M10630,D003,reject,6,3,5,90,Low Risk
+M11994,D001,reject,5,3,6,90,Low Risk
+M8022,D003,reject,5,9,2,90,Low Risk
+M8908,NONE,,9,5,2,90,Low Risk
+M11548,D004,OK,5,6,3,90,Low Risk
+M9390,D002,OK,5,6,3,90,Low Risk
+M8961,D004,reject,5,3,6,90,Low Risk
+M7752,D002,,5,3,6,90,Low Risk
+M9341,NONE,Reject,5,2,9,90,Low Risk
+M10174,D001,Reject,5,6,3,90,Low Risk
+M7780,D004,Reject,6,5,3,90,Low Risk
+M10499,D003,reject,5,9,2,90,Low Risk
+M11197,D001,Repair,5,3,6,90,Low Risk
+M7187,D004,OK,7,3,4,84,Low Risk
+M11698,D003,Repair,7,4,3,84,Low Risk
+M7058,D004,reject,7,6,2,84,Low Risk
+M9771,D003,,6,2,7,84,Low Risk
+M8512,NONE,Reject,6,2,7,84,Low Risk
+M10575,D001,Repair,7,2,6,84,Low Risk
+M11651,NONE,,7,2,6,84,Low Risk
+M9974,D004,,7,4,3,84,Low Risk
+M9942,D003,,7,2,6,84,Low Risk
+M10851,D004,Repair,7,4,3,84,Low Risk
+M10470,D002,Repair,4,3,7,84,Low Risk
+M8806,D003,Repair,7,3,4,84,Low Risk
+M11840,NONE,,7,3,4,84,Low Risk
+M7214,D003, ok ,4,3,7,84,Low Risk
+M9767,NONE,Repair,4,7,3,84,Low Risk
+M10661,D004,Repair,4,7,3,84,Low Risk
+M11002,D001,OK,4,7,3,84,Low Risk
+M10845,D002,Repair,7,4,3,84,Low Risk
+M11140,NONE,Repair,4,7,3,84,Low Risk
+M8148,D001,Reject,7,4,3,84,Low Risk
+M9990,D003,reject,4,3,7,84,Low Risk
+M10551,NONE, ok ,7,2,6,84,Low Risk
+M9511,D002,OK,6,7,2,84,Low Risk
+M10144,D004,reject,7,3,4,84,Low Risk
+M11382,D004,reject,4,7,3,84,Low Risk
+M7697,NONE,reject,4,7,3,84,Low Risk
+M9460,D004,,7,3,4,84,Low Risk
+M10924,D002,Repair,4,7,3,84,Low Risk
+M7185,D001,,7,3,4,84,Low Risk
+M7757,D002,Repair,6,7,2,84,Low Risk
+M7344,D003, ok ,7,3,4,84,Low Risk
+M11191,NONE,Reject,6,2,7,84,Low Risk
+M11553,D002, ok ,7,3,4,84,Low Risk
+M11490,D003,OK,6,7,2,84,Low Risk
+M8119,D001,,7,6,2,84,Low Risk
+M7783,D002, ok ,7,4,3,84,Low Risk
+M7334,D003,,6,2,7,84,Low Risk
+M10794,D003, ok ,4,3,7,84,Low Risk
+M7699,NONE,Repair,6,7,2,84,Low Risk
+M10982,D003,Reject,6,7,2,84,Low Risk
+M7383,D003,reject,7,3,4,84,Low Risk
+M11850,D002,Reject,6,2,7,84,Low Risk
+M7014,NONE,Reject,7,3,4,84,Low Risk
+M11231,D004,reject,7,4,3,84,Low Risk
+M10280,D003,OK,7,3,4,84,Low Risk
+M11124,NONE,Repair,4,3,7,84,Low Risk
+M7387,D004, ok ,6,2,7,84,Low Risk
+M11041,NONE,OK,7,4,3,84,Low Risk
+M10696,NONE,Repair,7,4,3,84,Low Risk
+M9034,D003, ok ,7,3,4,84,Low Risk
+M11517,D004, ok ,6,2,7,84,Low Risk
+M11710,D004, ok ,7,4,3,84,Low Risk
+M10909,D001, ok ,7,6,2,84,Low Risk
+M7319,D004,Repair,6,2,7,84,Low Risk
+M7504,D001,Reject,6,2,7,84,Low Risk
+M9688,NONE,Reject,4,7,3,84,Low Risk
+M10714,D002,Reject,7,2,6,84,Low Risk
+M8956,D002,,6,2,7,84,Low Risk
+M9121,D003,,6,2,7,84,Low Risk
+M9075,D004,Repair,9,1,9,81,Low Risk
+M8597,D001,,9,1,9,81,Low Risk
+M8660,D002,OK,9,3,3,81,Low Risk
+M9563,D002,reject,9,1,9,81,Low Risk
+M11711,NONE, ok ,9,1,9,81,Low Risk
+M8733,D004,Reject,9,9,1,81,Low Risk
+M11854,D003,Repair,9,3,3,81,Low Risk
+M9835,D003,Reject,9,9,1,81,Low Risk
+M9620,NONE,OK,9,1,9,81,Low Risk
+M10109,NONE, ok ,9,9,1,81,Low Risk
+M7630,NONE, ok ,9,9,1,81,Low Risk
+M7975,D003,Repair,9,1,9,81,Low Risk
+M10844,D001,Reject,9,1,9,81,Low Risk
+M9435,NONE,Repair,9,3,3,81,Low Risk
+M11985,D004,reject,9,9,1,81,Low Risk
+M11297,NONE,Repair,9,9,1,81,Low Risk
+M9662,D002,Reject,9,9,1,81,Low Risk
+M10148,NONE,Reject,9,1,9,81,Low Risk
+M7543,NONE,OK,9,9,1,81,Low Risk
+M7541,D003, ok ,9,9,1,81,Low Risk
+M10252,D004,Repair,9,9,1,81,Low Risk
+M8604,D004,OK,9,9,1,81,Low Risk
+M9363,NONE,OK,9,3,3,81,Low Risk
+M9313,NONE,OK,9,3,3,81,Low Risk
+M7915,D004, ok ,9,9,1,81,Low Risk
+M9165,D001, ok ,9,1,9,81,Low Risk
+M8156,D003,OK,8,5,2,80,Low Risk
+M11621,D004,Repair,5,4,4,80,Low Risk
+M11594,D004,Reject,5,4,4,80,Low Risk
+M8402,D002,Reject,4,4,5,80,Low Risk
+M9202,NONE,Repair,4,5,4,80,Low Risk
+M7343,D003,Repair,8,5,2,80,Low Risk
+M9009,NONE,Repair,5,2,8,80,Low Risk
+M9777,NONE,,4,4,5,80,Low Risk
+M8243,D001,Repair,8,2,5,80,Low Risk
+M9741,D003, ok ,5,4,4,80,Low Risk
+M7667,D003,OK,5,4,4,80,Low Risk
+M8439,D004,Reject,8,2,5,80,Low Risk
+M7448,D001,reject,5,4,4,80,Low Risk
+M9859,D004,Reject,5,8,2,80,Low Risk
+M10620,D002,Reject,8,5,2,80,Low Risk
+M7682,D004,Reject,8,2,5,80,Low Risk
+M7905,NONE,reject,8,2,5,80,Low Risk
+M7227,D003,OK,5,4,4,80,Low Risk
+M8605,D001,Reject,5,2,8,80,Low Risk
+M11609,D004,Repair,8,2,5,80,Low Risk
+M9462,D004,reject,5,2,8,80,Low Risk
+M8606,D004,reject,8,2,5,80,Low Risk
+M9422,D003,Reject,4,4,5,80,Low Risk
+M11956,D003, ok ,4,5,4,80,Low Risk
+M11923,D001,,4,4,5,80,Low Risk
+M7668,D001,reject,8,5,2,80,Low Risk
+M9536,D003, ok ,4,5,4,80,Low Risk
+M9788,D002,Reject,8,5,2,80,Low Risk
+M7423,D003,Reject,5,4,4,80,Low Risk
+M8797,D004,Reject,8,2,5,80,Low Risk
+M8807,D004,OK,4,5,4,80,Low Risk
+M11391,D003,OK,5,4,4,80,Low Risk
+M8684,NONE,Repair,5,2,8,80,Low Risk
+M11295,D003,Reject,5,2,8,80,Low Risk
+M8130,D002,reject,5,5,3,75,Low Risk
+M11172,D002, ok ,5,5,3,75,Low Risk
+M8726,D002, ok ,5,5,3,75,Low Risk
+M7903,NONE,,5,5,3,75,Low Risk
+M7699,D004,reject,5,3,5,75,Low Risk
+M7227,D004,OK,5,5,3,75,Low Risk
+M7694,D003,,5,5,3,75,Low Risk
+M8108,D002,,5,5,3,75,Low Risk
+M10133,D001,Repair,5,5,3,75,Low Risk
+M11984,D004,reject,5,3,5,75,Low Risk
+M10158,D003,,6,2,6,72,Low Risk
+M9345,D002,,4,6,3,72,Low Risk
+M9934,D003, ok ,6,6,2,72,Low Risk
+M11249,D004, ok ,6,2,6,72,Low Risk
+M7055,D004,OK,4,6,3,72,Low Risk
+M11198,D003,OK,6,4,3,72,Low Risk
+M10225,D004,Reject,9,8,1,72,Low Risk
+M7394,D003, ok ,6,3,4,72,Low Risk
+M11789,NONE,OK,4,2,9,72,Low Risk
+M8434,D002,OK,9,4,2,72,Low Risk
+M11398,D002,,9,8,1,72,Low Risk
+M8826,D003,,4,3,6,72,Low Risk
+M9309,D002,OK,6,6,2,72,Low Risk
+M11670,D003,OK,9,8,1,72,Low Risk
+M10296,D001,Reject,8,1,9,72,Low Risk
+M9754,D001,,8,3,3,72,Low Risk
+M9134,D001,reject,6,3,4,72,Low Risk
+M9565,D004,Repair,4,6,3,72,Low Risk
+M9673,D002,,8,9,1,72,Low Risk
+M7888,D003,reject,4,6,3,72,Low Risk
+M9600,D004,OK,9,8,1,72,Low Risk
+M9788,NONE,Reject,4,2,9,72,Low Risk
+M11577,NONE, ok ,9,8,1,72,Low Risk
+M8072,D002, ok ,9,2,4,72,Low Risk
+M11382,D002, ok ,8,3,3,72,Low Risk
+M9989,D001,Repair,4,3,6,72,Low Risk
+M9755,D002, ok ,6,6,2,72,Low Risk
+M10524,D004,reject,4,2,9,72,Low Risk
+M11399,D002,Reject,9,2,4,72,Low Risk
+M10114,NONE, ok ,6,3,4,72,Low Risk
+M10681,D004,OK,6,2,6,72,Low Risk
+M9185,D002,,9,1,8,72,Low Risk
+M11636,D001,Reject,4,6,3,72,Low Risk
+M11127,NONE,,9,8,1,72,Low Risk
+M10947,D004, ok ,6,6,2,72,Low Risk
+M7320,D001,reject,6,3,4,72,Low Risk
+M7706,NONE,,9,8,1,72,Low Risk
+M10822,D004,Repair,6,3,4,72,Low Risk
+M9147,D003,,8,3,3,72,Low Risk
+M10255,D002,Reject,4,3,6,72,Low Risk
+M7241,NONE,reject,4,3,6,72,Low Risk
+M9654,NONE,Reject,9,4,2,72,Low Risk
+M9408,D004,reject,4,9,2,72,Low Risk
+M8191,D002, ok ,8,3,3,72,Low Risk
+M10529,D002, ok ,9,2,4,72,Low Risk
+M8319,D004,,8,3,3,72,Low Risk
+M11141,D004,Repair,9,4,2,72,Low Risk
+M9510,D004,Reject,9,8,1,72,Low Risk
+M11892,D001,Reject,9,1,8,72,Low Risk
+M8320,D003,Repair,6,2,6,72,Low Risk
+M9348,D003, ok ,9,4,2,72,Low Risk
+M7145,D004,Repair,4,6,3,72,Low Risk
+M7433,D004,Repair,6,3,4,72,Low Risk
+M8952,D003,reject,9,2,4,72,Low Risk
+M10204,D003,Repair,6,6,2,72,Low Risk
+M7017,D004,Reject,8,1,9,72,Low Risk
+M8597,NONE,,9,4,2,72,Low Risk
+M10933,D004,,8,3,3,72,Low Risk
+M8299,D004,Repair,6,2,6,72,Low Risk
+M8372,D004,OK,4,6,3,72,Low Risk
+M7459,D004,OK,9,2,4,72,Low Risk
+M11349,D003,reject,9,8,1,72,Low Risk
+M7917,D004,,8,1,9,72,Low Risk
+M7804,D001,Repair,9,8,1,72,Low Risk
+M9628,NONE,OK,4,9,2,72,Low Risk
+M8734,D004,reject,8,3,3,72,Low Risk
+M8616,D001, ok ,4,2,9,72,Low Risk
+M7508,D003, ok ,8,9,1,72,Low Risk
+M10610,D004,,6,2,6,72,Low Risk
+M7116,NONE,OK,4,2,9,72,Low Risk
+M11130,NONE,Reject,4,2,9,72,Low Risk
+M11180,D002,,9,8,1,72,Low Risk
+M8613,D004,Reject,9,1,8,72,Low Risk
+M9664,D002,Reject,4,6,3,72,Low Risk
+M9763,D004,,9,4,2,72,Low Risk
+M11048,D001,reject,4,6,3,72,Low Risk
+M8027,D004,reject,6,4,3,72,Low Risk
+M8741,D004,Repair,6,4,3,72,Low Risk
+M10461,NONE,Repair,6,4,3,72,Low Risk
+M7157,D001,reject,8,1,9,72,Low Risk
+M7704,D001,Repair,6,6,2,72,Low Risk
+M10383,D002,,4,3,6,72,Low Risk
+M7298,D004,,9,4,2,72,Low Risk
+M9327,NONE,,4,6,3,72,Low Risk
+M8663,D003,,8,9,1,72,Low Risk
+M9038,D001,OK,6,4,3,72,Low Risk
+M10466,D002, ok ,6,2,6,72,Low Risk
+M10227,NONE, ok ,4,9,2,72,Low Risk
+M9241,NONE,reject,6,3,4,72,Low Risk
+M9013,NONE,Reject,9,1,8,72,Low Risk
+M8836,D001,reject,6,6,2,72,Low Risk
+M9442,D003,,9,4,2,72,Low Risk
+M11093,D002,OK,8,3,3,72,Low Risk
+M8913,D001,Reject,4,6,3,72,Low Risk
+M8722,D004,Reject,4,3,6,72,Low Risk
+M10735,NONE, ok ,4,3,6,72,Low Risk
+M9964,D004,OK,4,6,3,72,Low Risk
+M11480,D002,Reject,6,6,2,72,Low Risk
+M8810,D001,Repair,9,8,1,72,Low Risk
+M10026,NONE,OK,4,3,6,72,Low Risk
+M9677,D002, ok ,4,2,9,72,Low Risk
+M8339,D002,Reject,6,3,4,72,Low Risk
+M8483,D004,,9,4,2,72,Low Risk
+M9102,D001, ok ,6,3,4,72,Low Risk
+M10874,D003,reject,4,6,3,72,Low Risk
+M8547,D001, ok ,6,2,6,72,Low Risk
+M7535,D002, ok ,4,6,3,72,Low Risk
+M9655,D002,Reject,6,4,3,72,Low Risk
+M10661,D003,reject,9,8,1,72,Low Risk
+M8864,D001,reject,9,4,2,72,Low Risk
+M7866,D004,OK,4,2,9,72,Low Risk
+M10504,NONE,Repair,9,1,8,72,Low Risk
+M9464,D004,OK,4,6,3,72,Low Risk
+M7609,D001,,6,2,6,72,Low Risk
+M9233,D004,Reject,8,1,9,72,Low Risk
+M11876,D003,Reject,4,2,9,72,Low Risk
+M8855,D003,,4,3,6,72,Low Risk
+M11639,D003,Repair,8,9,1,72,Low Risk
+M8097,D003,reject,8,1,9,72,Low Risk
+M11959,D003, ok ,8,9,1,72,Low Risk
+M10851,D002,,6,2,6,72,Low Risk
+M10001,D002,reject,9,4,2,72,Low Risk
+M11284,D001, ok ,6,4,3,72,Low Risk
+M7522,D002,OK,8,9,1,72,Low Risk
+M11795,D004, ok ,6,4,3,72,Low Risk
+M10651,D001,OK,8,1,9,72,Low Risk
+M11723,D001, ok ,4,2,9,72,Low Risk
+M11049,D003,Reject,9,8,1,72,Low Risk
+M10972,D001,reject,6,6,2,72,Low Risk
+M9931,D001,Repair,8,1,9,72,Low Risk
+M11530,D003,OK,6,6,2,72,Low Risk
+M8982,NONE,OK,7,2,5,70,Low Risk
+M7519,D003,,5,2,7,70,Low Risk
+M10174,D002,reject,5,7,2,70,Low Risk
+M10940,D003,,5,2,7,70,Low Risk
+M9897,D001,reject,7,5,2,70,Low Risk
+M11115,NONE, ok ,7,5,2,70,Low Risk
+M7814,D003,reject,5,7,2,70,Low Risk
+M10127,D002,OK,7,2,5,70,Low Risk
+M9330,D001,reject,7,2,5,70,Low Risk
+M8446,NONE,OK,5,7,2,70,Low Risk
+M9664,D004,,5,7,2,70,Low Risk
+M7918,D003, ok ,5,2,7,70,Low Risk
+M8155,D004, ok ,5,2,7,70,Low Risk
+M7982,D002,Repair,7,5,2,70,Low Risk
+M8307,D004, ok ,5,7,2,70,Low Risk
+M10096,D002,,5,2,7,70,Low Risk
+M10528,D004,OK,5,2,7,70,Low Risk
+M8997,D002,reject,7,5,2,70,Low Risk
+M10054,NONE,Repair,7,5,2,70,Low Risk
+M9696,NONE,Reject,5,7,2,70,Low Risk
+M11390,D002,reject,7,5,2,70,Low Risk
+M11392,D001,OK,7,5,2,70,Low Risk
+M11849,D001, ok ,7,5,2,70,Low Risk
+M7145,D004,Reject,5,7,2,70,Low Risk
+M8538,D002,Reject,5,2,7,70,Low Risk
+M8771,NONE,reject,7,5,2,70,Low Risk
+M9477,NONE,Reject,5,7,2,70,Low Risk
+M10226,D001, ok ,7,5,2,70,Low Risk
+M7005,NONE,Reject,5,7,2,70,Low Risk
+M7315,D003, ok ,7,5,2,70,Low Risk
+M8469,NONE,reject,5,7,2,70,Low Risk
+M8746,NONE,OK,7,5,2,70,Low Risk
+M11281,D002,reject,7,2,5,70,Low Risk
+M11009,NONE,Reject,7,2,5,70,Low Risk
+M8328,D002,,5,7,2,70,Low Risk
+M7643,D002,OK,5,7,2,70,Low Risk
+M10482,D004,Reject,5,2,7,70,Low Risk
+M8551,D003,reject,5,2,7,70,Low Risk
+M8481,D001, ok ,7,5,2,70,Low Risk
+M8163,NONE, ok ,8,8,1,64,Low Risk
+M10515,D004, ok ,4,8,2,64,Low Risk
+M8132,D003, ok ,8,4,2,64,Low Risk
+M10076,NONE, ok ,4,2,8,64,Low Risk
+M8909,D001,OK,8,2,4,64,Low Risk
+M9231,D003,OK,8,4,2,64,Low Risk
+M7658,D003,,4,2,8,64,Low Risk
+M11721,D004,reject,4,8,2,64,Low Risk
+M10934,D003,,8,8,1,64,Low Risk
+M9263,D004,,8,8,1,64,Low Risk
+M9692,D004,OK,4,4,4,64,Low Risk
+M9522,D002,OK,8,4,2,64,Low Risk
+M8313,D001,Repair,8,4,2,64,Low Risk
+M11423,NONE,reject,8,2,4,64,Low Risk
+M7374,NONE,Reject,8,2,4,64,Low Risk
+M7855,D002,,8,4,2,64,Low Risk
+M8786,D003,Repair,8,2,4,64,Low Risk
+M10120,NONE,reject,8,8,1,64,Low Risk
+M8519,NONE,Repair,4,4,4,64,Low Risk
+M10000,D004,OK,8,2,4,64,Low Risk
+M8184,D001,OK,8,8,1,64,Low Risk
+M8736,D003,reject,8,4,2,64,Low Risk
+M10637,D003,Repair,4,2,8,64,Low Risk
+M10025,D003,OK,8,2,4,64,Low Risk
+M11301,D002,OK,4,2,8,64,Low Risk
+M10830,D002,,8,2,4,64,Low Risk
+M8083,D004,reject,4,2,8,64,Low Risk
+M7396,NONE,Repair,4,4,4,64,Low Risk
+M11159,D001, ok ,4,2,8,64,Low Risk
+M8042,D004,Reject,8,2,4,64,Low Risk
+M7323,D004,,8,2,4,64,Low Risk
+M11308,NONE,reject,4,4,4,64,Low Risk
+M7572,D002,Reject,8,8,1,64,Low Risk
+M10920,D002,reject,8,8,1,64,Low Risk
+M8597,D004,Repair,8,4,2,64,Low Risk
+M7366,D003, ok ,4,4,4,64,Low Risk
+M9695,D001,Reject,8,1,8,64,Low Risk
+M7247,D003,Reject,8,4,2,64,Low Risk
+M11564,D003,,8,8,1,64,Low Risk
+M8976,NONE,Repair,4,8,2,64,Low Risk
+M7103,NONE,,8,4,2,64,Low Risk
+M9812,D003,OK,8,8,1,64,Low Risk
+M8472,D004,Repair,4,2,8,64,Low Risk
+M9927,D001,Repair,4,4,4,64,Low Risk
+M7107,D002, ok ,8,8,1,64,Low Risk
+M11929,NONE,Reject,8,8,1,64,Low Risk
+M10601,D001,Reject,4,4,4,64,Low Risk
+M8105,D004, ok ,8,8,1,64,Low Risk
+M10041,NONE,,4,2,8,64,Low Risk
+M9914,D002, ok ,4,4,4,64,Low Risk
+M7891,NONE,Reject,8,8,1,64,Low Risk
+M11752,D004,Reject,4,2,8,64,Low Risk
+M9656,D001,,4,4,4,64,Low Risk
+M8975,D001,Repair,8,1,8,64,Low Risk
+M9080,D003, ok ,8,1,8,64,Low Risk
+M11432,NONE,reject,8,2,4,64,Low Risk
+M7608,D004,,8,1,8,64,Low Risk
+M7620,D004,reject,4,4,4,64,Low Risk
+M9900,D001,Reject,4,4,4,64,Low Risk
+M11288,NONE,Reject,8,2,4,64,Low Risk
+M8779,NONE,,7,1,9,63,Low Risk
+M9484,D004,reject,7,1,9,63,Low Risk
+M9445,NONE,Repair,9,7,1,63,Low Risk
+M9610,D004,OK,9,7,1,63,Low Risk
+M10557,D004,,9,7,1,63,Low Risk
+M10997,D004,OK,7,3,3,63,Low Risk
+M7595,D002,Reject,9,7,1,63,Low Risk
+M10000,NONE,Reject,7,9,1,63,Low Risk
+M8283,D003,,7,1,9,63,Low Risk
+M10404,NONE,Repair,7,9,1,63,Low Risk
+M9927,NONE,Repair,7,1,9,63,Low Risk
+M10862,D001, ok ,7,1,9,63,Low Risk
+M7549,D001,Reject,7,9,1,63,Low Risk
+M7230,NONE, ok ,9,7,1,63,Low Risk
+M11023,D003,OK,7,1,9,63,Low Risk
+M10054,D001,reject,7,3,3,63,Low Risk
+M10747,NONE,reject,7,9,1,63,Low Risk
+M8066,D002,Repair,7,1,9,63,Low Risk
+M10617,D004,reject,7,9,1,63,Low Risk
+M8598,D002,,9,1,7,63,Low Risk
+M7433,D004,reject,9,1,7,63,Low Risk
+M11735,D002,reject,9,1,7,63,Low Risk
+M9312,D004,Repair,7,1,9,63,Low Risk
+M11345,D003,Reject,9,7,1,63,Low Risk
+M11942,NONE,Reject,7,3,3,63,Low Risk
+M8793,D004,reject,9,7,1,63,Low Risk
+M7113,D002,OK,7,3,3,63,Low Risk
+M8879,NONE,Repair,9,1,7,63,Low Risk
+M7769,NONE,Repair,7,1,9,63,Low Risk
+M10141,D004, ok ,7,3,3,63,Low Risk
+M9796,D003,reject,7,1,9,63,Low Risk
+M11050,NONE,,7,1,9,63,Low Risk
+M9830,D002,,7,3,3,63,Low Risk
+M11598,D001,reject,7,1,9,63,Low Risk
+M10345,D002,OK,7,3,3,63,Low Risk
+M10769,D003,Repair,9,1,7,63,Low Risk
+M7863,D002,Repair,7,1,9,63,Low Risk
+M10151,D001,OK,7,3,3,63,Low Risk
+M8913,D002,,9,1,7,63,Low Risk
+M10729,D001, ok ,5,6,2,60,Low Risk
+M10012,D003,OK,5,6,2,60,Low Risk
+M10186,D001,Reject,6,5,2,60,Low Risk
+M9032,NONE,OK,4,5,3,60,Low Risk
+M9896,D001,Reject,5,4,3,60,Low Risk
+M7953,D003,Repair,5,4,3,60,Low Risk
+M11967,D001, ok ,5,6,2,60,Low Risk
+M7950,D002,reject,4,5,3,60,Low Risk
+M7507,NONE,reject,5,2,6,60,Low Risk
+M10807,NONE,Reject,4,5,3,60,Low Risk
+M9458,D001, ok ,6,2,5,60,Low Risk
+M7745,D004,,4,5,3,60,Low Risk
+M9007,D001,,4,5,3,60,Low Risk
+M9801,D003, ok ,5,6,2,60,Low Risk
+M7203,D001, ok ,5,3,4,60,Low Risk
+M9203,D004,Reject,6,2,5,60,Low Risk
+M10186,D003,Repair,4,3,5,60,Low Risk
+M8568,D003,,6,2,5,60,Low Risk
+M10912,D004, ok ,6,2,5,60,Low Risk
+M7688,D001,reject,5,3,4,60,Low Risk
+M11500,D002,Reject,6,5,2,60,Low Risk
+M9788,D003, ok ,5,2,6,60,Low Risk
+M9434,D003,Repair,5,6,2,60,Low Risk
+M9932,D003, ok ,6,2,5,60,Low Risk
+M10602,D001,,4,5,3,60,Low Risk
+M11889,D003,reject,4,5,3,60,Low Risk
+M7463,D004,Repair,5,6,2,60,Low Risk
+M7686,D004,OK,6,5,2,60,Low Risk
+M7294,D004, ok ,6,2,5,60,Low Risk
+M9133,D004,reject,5,2,6,60,Low Risk
+M10977,D002, ok ,6,5,2,60,Low Risk
+M9660,NONE,,5,3,4,60,Low Risk
+M10954,NONE, ok ,6,2,5,60,Low Risk
+M10048,D002,Reject,5,3,4,60,Low Risk
+M11035,D001,reject,5,6,2,60,Low Risk
+M8827,NONE,Reject,5,4,3,60,Low Risk
+M10810,NONE, ok ,6,2,5,60,Low Risk
+M11501,NONE,,5,4,3,60,Low Risk
+M9762,D002,Repair,5,6,2,60,Low Risk
+M7431,D002,,6,2,5,60,Low Risk
+M9397,D001,reject,5,6,2,60,Low Risk
+M9563,D004,,5,3,4,60,Low Risk
+M8965,D003,,4,3,5,60,Low Risk
+M11580,NONE,Repair,5,6,2,60,Low Risk
+M7778,D003,,6,2,5,60,Low Risk
+M9274,D001,OK,6,2,5,60,Low Risk
+M8549,D003,,5,6,2,60,Low Risk
+M10868,D004,Reject,4,5,3,60,Low Risk
+M7993,D002,reject,5,2,6,60,Low Risk
+M9544,D001, ok ,5,6,2,60,Low Risk
+M10954,NONE,OK,6,5,2,60,Low Risk
+M11120,NONE,OK,5,4,3,60,Low Risk
+M9839,D001,Repair,4,5,3,60,Low Risk
+M11072,D004, ok ,5,2,6,60,Low Risk
+M9226,NONE,reject,6,5,2,60,Low Risk
+M10165,D004, ok ,5,3,4,60,Low Risk
+M7728,D001,Repair,5,3,4,60,Low Risk
+M11219,D001,Repair,6,2,5,60,Low Risk
+M8088,D003,,6,5,2,60,Low Risk
+M7941,NONE,Repair,6,5,2,60,Low Risk
+M9791,NONE,reject,5,6,2,60,Low Risk
+M11198,D001, ok ,5,3,4,60,Low Risk
+M7730,D002,Repair,4,5,3,60,Low Risk
+M9065,NONE,,5,2,6,60,Low Risk
+M9159,D004,reject,5,2,6,60,Low Risk
+M9827,D003,Repair,5,4,3,60,Low Risk
+M11143,D001,reject,6,5,2,60,Low Risk
+M8746,NONE,OK,4,3,5,60,Low Risk
+M7828,D004,reject,6,2,5,60,Low Risk
+M8100,D003,OK,5,6,2,60,Low Risk
+M11377,NONE,,5,6,2,60,Low Risk
+M11332,D002,Reject,6,5,2,60,Low Risk
+M7420,D003,Reject,6,2,5,60,Low Risk
+M7228,D001,Repair,4,2,7,56,Low Risk
+M11917,D002,Reject,7,2,4,56,Low Risk
+M7248,D004,reject,7,1,8,56,Low Risk
+M10568,D003,Repair,8,7,1,56,Low Risk
+M11239,D002,OK,8,1,7,56,Low Risk
+M8001,D001,Reject,7,1,8,56,Low Risk
+M9150,NONE, ok ,8,1,7,56,Low Risk
+M8731,D003,reject,8,7,1,56,Low Risk
+M10477,D001,OK,4,2,7,56,Low Risk
+M9527,D004,,4,2,7,56,Low Risk
+M10367,D001,Reject,7,1,8,56,Low Risk
+M7197,D004, ok ,8,1,7,56,Low Risk
+M10563,D001,Repair,7,1,8,56,Low Risk
+M8854,D001,,7,8,1,56,Low Risk
+M11102,D002,reject,7,2,4,56,Low Risk
+M7550,D002,Reject,7,2,4,56,Low Risk
+M7272,D002,Reject,7,1,8,56,Low Risk
+M9170,D003,OK,8,1,7,56,Low Risk
+M11543,NONE,OK,7,1,8,56,Low Risk
+M11977,D003,Repair,7,1,8,56,Low Risk
+M8494,D004, ok ,8,7,1,56,Low Risk
+M11373,D004,OK,7,4,2,56,Low Risk
+M10054,D003, ok ,4,7,2,56,Low Risk
+M10743,NONE,OK,7,1,8,56,Low Risk
+M11374,D004, ok ,4,2,7,56,Low Risk
+M10527,D004,Repair,7,2,4,56,Low Risk
+M11399,D003,Reject,7,2,4,56,Low Risk
+M10124,NONE, ok ,7,1,8,56,Low Risk
+M11359,D004,reject,7,4,2,56,Low Risk
+M11829,D003,Repair,4,2,7,56,Low Risk
+M11162,D004,OK,7,2,4,56,Low Risk
+M10989,D004,Repair,8,7,1,56,Low Risk
+M9456,D001,OK,7,1,8,56,Low Risk
+M11719,D002, ok ,7,4,2,56,Low Risk
+M9308,NONE,Repair,7,2,4,56,Low Risk
+M8496,D001,Reject,7,4,2,56,Low Risk
+M7511,D004,,8,7,1,56,Low Risk
+M11380,D003,Repair,8,7,1,56,Low Risk
+M10461,D002,Reject,4,7,2,56,Low Risk
+M7660,D001, ok ,4,7,2,56,Low Risk
+M7623,D004, ok ,7,2,4,56,Low Risk
+M10563,D002, ok ,7,2,4,56,Low Risk
+M10303,D004,Reject,4,2,7,56,Low Risk
+M10851,D001,Reject,7,1,8,56,Low Risk
+M7066,D004,Reject,4,2,7,56,Low Risk
+M11268,D002,,8,1,7,56,Low Risk
+M10607,D001,OK,4,7,2,56,Low Risk
+M8545,D004,OK,4,7,2,56,Low Risk
+M9329,D003, ok ,7,8,1,56,Low Risk
+M11717,NONE, ok ,9,6,1,54,Low Risk
+M7132,D002, ok ,9,2,3,54,Low Risk
+M9325,D003, ok ,9,3,2,54,Low Risk
+M8533,D004,Reject,9,1,6,54,Low Risk
+M7619,D001,,9,1,6,54,Low Risk
+M7782,D004,,9,2,3,54,Low Risk
+M11722,D003, ok ,6,3,3,54,Low Risk
+M8275,D001,reject,9,6,1,54,Low Risk
+M11784,D001, ok ,9,1,6,54,Low Risk
+M8102,NONE,Reject,6,1,9,54,Low Risk
+M7799,NONE,Reject,6,1,9,54,Low Risk
+M7174,D001, ok ,9,1,6,54,Low Risk
+M11500,D001,OK,9,6,1,54,Low Risk
+M9193,D001,Repair,9,3,2,54,Low Risk
+M8431,NONE,,9,3,2,54,Low Risk
+M7909,D004,Repair,9,3,2,54,Low Risk
+M10115,D004,,9,6,1,54,Low Risk
+M9072,D003, ok ,9,1,6,54,Low Risk
+M9461,NONE,OK,9,6,1,54,Low Risk
+M11436,D004,OK,6,9,1,54,Low Risk
+M8675,NONE,,6,3,3,54,Low Risk
+M9984,D003,Reject,9,3,2,54,Low Risk
+M8433,D002, ok ,6,9,1,54,Low Risk
+M8699,D004,,9,1,6,54,Low Risk
+M8233,D002,Reject,6,3,3,54,Low Risk
+M10875,D002,OK,9,3,2,54,Low Risk
+M9009,D003,Repair,9,6,1,54,Low Risk
+M7256,D001,Reject,6,9,1,54,Low Risk
+M8172,D002,reject,9,2,3,54,Low Risk
+M10308,D004,,6,9,1,54,Low Risk
+M9454,D003,Reject,9,3,2,54,Low Risk
+M8161,D003,Repair,9,1,6,54,Low Risk
+M11484,D004,OK,9,1,6,54,Low Risk
+M10784,D003,reject,6,9,1,54,Low Risk
+M9164,D001,Reject,9,1,6,54,Low Risk
+M8285,NONE,Reject,9,2,3,54,Low Risk
+M11439,D003,Repair,6,3,3,54,Low Risk
+M8064,D004,Reject,9,2,3,54,Low Risk
+M10216,NONE,,9,6,1,54,Low Risk
+M7453,D003,Repair,9,3,2,54,Low Risk
+M9258,D003,reject,9,6,1,54,Low Risk
+M8392,D003,OK,9,2,3,54,Low Risk
+M7222,D001, ok ,9,6,1,54,Low Risk
+M8442,D003,Repair,6,1,9,54,Low Risk
+M7084,NONE,Repair,6,1,9,54,Low Risk
+M10743,D004,OK,9,6,1,54,Low Risk
+M9372,NONE,OK,9,2,3,54,Low Risk
+M10683,D003,Reject,9,2,3,54,Low Risk
+M7962,D002, ok ,6,9,1,54,Low Risk
+M11619,D003,,9,2,3,54,Low Risk
+M9008,D003,,9,6,1,54,Low Risk
+M9121,D003,OK,9,2,3,54,Low Risk
+M9343,NONE, ok ,9,2,3,54,Low Risk
+M7091,D001,Repair,9,6,1,54,Low Risk
+M10843,D001, ok ,9,6,1,54,Low Risk
+M11907,D002,Repair,6,1,9,54,Low Risk
+M8953,NONE,Reject,9,1,6,54,Low Risk
+M11408,D001,,5,5,2,50,Low Risk
+M7616,D001,,5,5,2,50,Low Risk
+M10571,NONE,Reject,5,5,2,50,Low Risk
+M9578,D003,OK,5,5,2,50,Low Risk
+M7317,D001,Reject,5,2,5,50,Low Risk
+M11447,D003,reject,5,2,5,50,Low Risk
+M9497,D003,,5,2,5,50,Low Risk
+M10629,D001, ok ,5,2,5,50,Low Risk
+M9825,D001,reject,5,5,2,50,Low Risk
+M7126,D003,Reject,5,5,2,50,Low Risk
+M8614,D004,Repair,5,2,5,50,Low Risk
+M11046,D001,Reject,5,2,5,50,Low Risk
+M7125,D002,Reject,5,2,5,50,Low Risk
+M9079,NONE,,5,5,2,50,Low Risk
+M7961,D001,Repair,5,2,5,50,Low Risk
+M10397,NONE,reject,5,5,2,50,Low Risk
+M11293,D002,OK,5,2,5,50,Low Risk
+M11290,NONE,Repair,5,2,5,50,Low Risk
+M10131,NONE,OK,7,1,7,49,Low Risk
+M9389,D004,,7,1,7,49,Low Risk
+M11527,D002,OK,7,7,1,49,Low Risk
+M8012,NONE,,7,7,1,49,Low Risk
+M9051,D003,Repair,7,1,7,49,Low Risk
+M8029,D001,Repair,7,7,1,49,Low Risk
+M8122,D003,,7,7,1,49,Low Risk
+M9794,D002,reject,7,7,1,49,Low Risk
+M10951,D001,Repair,7,1,7,49,Low Risk
+M9774,D001,reject,7,7,1,49,Low Risk
+M9575,D004,Reject,7,7,1,49,Low Risk
+M9959,NONE,Repair,7,1,7,49,Low Risk
+M8789,D001,,8,1,6,48,Low Risk
+M10339,NONE,Reject,6,1,8,48,Low Risk
+M9398,NONE,Reject,8,1,6,48,Low Risk
+M8510,D003,,8,2,3,48,Low Risk
+M8417,D003,OK,4,6,2,48,Low Risk
+M8666,D001,Reject,8,6,1,48,Low Risk
+M8194,D003, ok ,8,6,1,48,Low Risk
+M9912,D003,Repair,4,3,4,48,Low Risk
+M7580,NONE,reject,4,3,4,48,Low Risk
+M9500,D001, ok ,6,8,1,48,Low Risk
+M11246,NONE,,6,8,1,48,Low Risk
+M8609,D002,Repair,4,6,2,48,Low Risk
+M9725,D003,reject,4,6,2,48,Low Risk
+M11635,D001,OK,8,1,6,48,Low Risk
+M8690,D004,OK,8,6,1,48,Low Risk
+M9694,NONE,,4,2,6,48,Low Risk
+M9072,D004, ok ,6,2,4,48,Low Risk
+M7063,D003,,4,4,3,48,Low Risk
+M9373,D004, ok ,8,6,1,48,Low Risk
+M10248,D001,Repair,6,8,1,48,Low Risk
+M8334,D004,OK,8,6,1,48,Low Risk
+M8477,D004,reject,8,3,2,48,Low Risk
+M10783,NONE,,4,4,3,48,Low Risk
+M9289,D001,Repair,8,2,3,48,Low Risk
+M9069,D004,,4,3,4,48,Low Risk
+M9770,NONE, ok ,6,2,4,48,Low Risk
+M10017,D001,reject,6,8,1,48,Low Risk
+M7429,NONE,Reject,4,4,3,48,Low Risk
+M8882,D001,reject,4,4,3,48,Low Risk
+M7004,D003,,6,1,8,48,Low Risk
+M7602,D004,Repair,8,3,2,48,Low Risk
+M11835,D004, ok ,6,8,1,48,Low Risk
+M8535,NONE,reject,4,4,3,48,Low Risk
+M7811,D001,reject,8,3,2,48,Low Risk
+M8512,D001,Reject,6,4,2,48,Low Risk
+M7595,D004, ok ,8,6,1,48,Low Risk
+M8659,NONE, ok ,8,6,1,48,Low Risk
+M9557,D002,Repair,8,1,6,48,Low Risk
+M10392,D001, ok ,6,4,2,48,Low Risk
+M11064,D004,,6,1,8,48,Low Risk
+M8676,D002,OK,6,2,4,48,Low Risk
+M10377,D003,OK,4,4,3,48,Low Risk
+M10945,NONE,reject,6,1,8,48,Low Risk
+M11100,D003,,4,6,2,48,Low Risk
+M7434,D002,OK,8,1,6,48,Low Risk
+M10385,D001,Reject,6,8,1,48,Low Risk
+M11229,D002,reject,8,6,1,48,Low Risk
+M8569,NONE,reject,8,2,3,48,Low Risk
+M9820,D001,reject,4,4,3,48,Low Risk
+M11085,NONE,,4,3,4,48,Low Risk
+M9054,NONE,Repair,4,6,2,48,Low Risk
+M8713,D003,,6,8,1,48,Low Risk
+M8768,D003,reject,4,4,3,48,Low Risk
+M7518,NONE,Reject,6,4,2,48,Low Risk
+M11978,NONE,Repair,8,3,2,48,Low Risk
+M11390,D003,,4,2,6,48,Low Risk
+M9268,NONE,,6,1,8,48,Low Risk
+M7411,D003, ok ,6,1,8,48,Low Risk
+M8492,D004,OK,8,1,6,48,Low Risk
+M8596,NONE,Repair,8,2,3,48,Low Risk
+M11199,D001,reject,8,6,1,48,Low Risk
+M8730,NONE,OK,4,4,3,48,Low Risk
+M11472,D001, ok ,8,6,1,48,Low Risk
+M9811,D002,reject,8,6,1,48,Low Risk
+M10073,D001,Reject,4,3,4,48,Low Risk
+M11727,NONE,OK,8,1,6,48,Low Risk
+M7718,D001,,8,2,3,48,Low Risk
+M7222,D003,Repair,4,2,6,48,Low Risk
+M7093,NONE,Reject,8,3,2,48,Low Risk
+M10406,NONE, ok ,4,2,6,48,Low Risk
+M8273,NONE,OK,6,2,4,48,Low Risk
+M11639,D004,OK,8,6,1,48,Low Risk
+M11514,NONE,Repair,4,6,2,48,Low Risk
+M10435,D002,Reject,6,1,8,48,Low Risk
+M11670,NONE, ok ,4,3,4,48,Low Risk
+M8408,D003,reject,8,2,3,48,Low Risk
+M8741,D002,reject,6,8,1,48,Low Risk
+M10394,D004, ok ,4,2,6,48,Low Risk
+M10544,D001, ok ,4,6,2,48,Low Risk
+M11054,D002,Reject,4,3,4,48,Low Risk
+M8217,D003,,4,4,3,48,Low Risk
+M9668,D002,,6,2,4,48,Low Risk
+M11228,D001, ok ,8,1,6,48,Low Risk
+M7064,D003,Repair,4,6,2,48,Low Risk
+M11996,D001,Reject,4,2,6,48,Low Risk
+M10880,D004,reject,4,6,2,48,Low Risk
+M10315,D002, ok ,6,4,2,48,Low Risk
+M9945,D004,Repair,4,3,4,48,Low Risk
+M11304,D004,,4,4,3,48,Low Risk
+M11817,D001,Reject,8,1,6,48,Low Risk
+M7382,D003,,4,4,3,48,Low Risk
+M10808,D002,reject,4,3,4,48,Low Risk
+M9741,NONE,Repair,8,6,1,48,Low Risk
+M11897,D002,OK,4,4,3,48,Low Risk
+M7814,D001,,6,2,4,48,Low Risk
+M9878,D001,reject,8,3,2,48,Low Risk
+M9039,D001,Reject,6,4,2,48,Low Risk
+M8444,NONE,Repair,6,2,4,48,Low Risk
+M8697,D001,OK,8,1,6,48,Low Risk
+M10822,D003,Reject,6,1,8,48,Low Risk
+M7784,D003,Reject,4,4,3,48,Low Risk
+M11358,D004,Reject,8,3,2,48,Low Risk
+M10689,D001,OK,8,3,2,48,Low Risk
+M9076,D003,Reject,6,2,4,48,Low Risk
+M7090,D003,Repair,8,1,6,48,Low Risk
+M9621,NONE,reject,4,6,2,48,Low Risk
+M8637,D002,Reject,6,8,1,48,Low Risk
+M7780,D004,OK,5,1,9,45,Low Risk
+M7488,D001, ok ,5,3,3,45,Low Risk
+M11192,D002,,5,1,9,45,Low Risk
+M10875,D004,Repair,5,1,9,45,Low Risk
+M8510,D004,,5,9,1,45,Low Risk
+M9536,D004,,9,5,1,45,Low Risk
+M7439,D001,Repair,5,3,3,45,Low Risk
+M10350,D001,OK,9,5,1,45,Low Risk
+M10332,D001, ok ,5,1,9,45,Low Risk
+M11064,D001, ok ,9,1,5,45,Low Risk
+M9273,D001,OK,5,3,3,45,Low Risk
+M8591,D001,Repair,9,1,5,45,Low Risk
+M10938,D002, ok ,5,1,9,45,Low Risk
+M10817,NONE,,5,1,9,45,Low Risk
+M11328,D002,reject,5,1,9,45,Low Risk
+M9446,NONE,Reject,9,1,5,45,Low Risk
+M11060,D001,,5,9,1,45,Low Risk
+M8452,D003,,5,1,9,45,Low Risk
+M8612,D004,Reject,5,3,3,45,Low Risk
+M9840,D003,Reject,5,1,9,45,Low Risk
+M11545,D003,,9,5,1,45,Low Risk
+M8448,D003,Reject,5,9,1,45,Low Risk
+M11330,D001,OK,5,3,3,45,Low Risk
+M7214,NONE,reject,5,1,9,45,Low Risk
+M11669,D002,reject,9,5,1,45,Low Risk
+M8119,NONE, ok ,5,3,3,45,Low Risk
+M10691,D004,,5,1,9,45,Low Risk
+M8009,D004,reject,5,1,9,45,Low Risk
+M11924,D002,OK,9,1,5,45,Low Risk
+M7675,D001,,5,3,3,45,Low Risk
+M7289,NONE,Reject,9,1,5,45,Low Risk
+M10247,NONE,Reject,5,9,1,45,Low Risk
+M7655,D003, ok ,5,3,3,45,Low Risk
+M9321,D002,OK,5,1,9,45,Low Risk
+M9270,NONE,Reject,9,5,1,45,Low Risk
+M7734,D001, ok ,9,1,5,45,Low Risk
+M7466,D004,,5,1,9,45,Low Risk
+M10129,D004,Reject,7,2,3,42,Low Risk
+M11906,D003,OK,7,6,1,42,Low Risk
+M8538,D003,,6,1,7,42,Low Risk
+M7755,D001, ok ,7,2,3,42,Low Risk
+M11631,D001,Repair,7,6,1,42,Low Risk
+M9043,D002,reject,7,3,2,42,Low Risk
+M8934,D002,reject,6,7,1,42,Low Risk
+M9942,NONE,reject,6,7,1,42,Low Risk
+M8374,NONE,reject,6,7,1,42,Low Risk
+M11484,NONE,Reject,7,1,6,42,Low Risk
+M7843,NONE,OK,7,1,6,42,Low Risk
+M9472,D004,Repair,7,3,2,42,Low Risk
+M10128,D001,OK,7,6,1,42,Low Risk
+M10368,D004,reject,6,7,1,42,Low Risk
+M7157,D003,,7,1,6,42,Low Risk
+M11429,NONE, ok ,7,6,1,42,Low Risk
+M8247,NONE,Repair,6,7,1,42,Low Risk
+M11975,D001,Reject,7,6,1,42,Low Risk
+M10490,D002,,7,6,1,42,Low Risk
+M7775,D003,Reject,7,1,6,42,Low Risk
+M8412,D003,Repair,7,3,2,42,Low Risk
+M10978,D002,reject,6,1,7,42,Low Risk
+M10718,D003,OK,7,3,2,42,Low Risk
+M7258,D002,Repair,7,2,3,42,Low Risk
+M8947,NONE,OK,6,7,1,42,Low Risk
+M7023,D001,reject,7,1,6,42,Low Risk
+M7034,NONE, ok ,6,7,1,42,Low Risk
+M8491,D004,Repair,6,7,1,42,Low Risk
+M7713,D002,Reject,7,6,1,42,Low Risk
+M11976,D004, ok ,7,1,6,42,Low Risk
+M11019,D003, ok ,6,7,1,42,Low Risk
+M11461,D001, ok ,7,6,1,42,Low Risk
+M11950,D001,OK,7,6,1,42,Low Risk
+M8877,D003,reject,7,3,2,42,Low Risk
+M9810,NONE, ok ,7,3,2,42,Low Risk
+M10077,D003,,7,1,6,42,Low Risk
+M7373,D004,OK,7,2,3,42,Low Risk
+M8953,D003,OK,7,1,6,42,Low Risk
+M10338,D003,OK,7,2,3,42,Low Risk
+M9931,D004,Repair,7,1,6,42,Low Risk
+M10654,D001,OK,6,7,1,42,Low Risk
+M8077,D003,Reject,7,3,2,42,Low Risk
+M10163,NONE,reject,7,3,2,42,Low Risk
+M10148,D003,Repair,7,2,3,42,Low Risk
+M8520,D003,,7,6,1,42,Low Risk
+M11983,NONE,Reject,6,1,7,42,Low Risk
+M8702,D001,OK,6,7,1,42,Low Risk
+M10612,D004,Reject,6,7,1,42,Low Risk
+M10140,D002, ok ,7,6,1,42,Low Risk
+M7618,D001,OK,7,6,1,42,Low Risk
+M9907,D001,reject,6,7,1,42,Low Risk
+M11429,D002,reject,7,2,3,42,Low Risk
+M11116,D001,Repair,7,3,2,42,Low Risk
+M10240,D004,,7,6,1,42,Low Risk
+M9141,D003,reject,5,2,4,40,Low Risk
+M10109,D002,Reject,5,8,1,40,Low Risk
+M8673,D002, ok ,5,1,8,40,Low Risk
+M11875,D004,reject,5,4,2,40,Low Risk
+M8655,D001,Reject,5,2,4,40,Low Risk
+M9225,D002,reject,5,2,4,40,Low Risk
+M11430,NONE,Repair,4,2,5,40,Low Risk
+M7472,D004,,5,8,1,40,Low Risk
+M7347,D002,OK,5,8,1,40,Low Risk
+M11822,D002,Reject,5,8,1,40,Low Risk
+M9798,D003,OK,5,4,2,40,Low Risk
+M8582,D002, ok ,4,2,5,40,Low Risk
+M11556,D003,reject,5,8,1,40,Low Risk
+M7448,D003,OK,5,1,8,40,Low Risk
+M11125,D001,reject,5,1,8,40,Low Risk
+M10381,D003,,5,8,1,40,Low Risk
+M11460,D001, ok ,8,5,1,40,Low Risk
+M9922,D003,reject,4,2,5,40,Low Risk
+M11220,D001,OK,8,5,1,40,Low Risk
+M7755,NONE,Reject,5,8,1,40,Low Risk
+M10785,D002,,5,8,1,40,Low Risk
+M9455,D004,OK,4,2,5,40,Low Risk
+M9152,D002,reject,5,8,1,40,Low Risk
+M10501,D002, ok ,5,1,8,40,Low Risk
+M11698,D003,,5,1,8,40,Low Risk
+M7913,D001, ok ,8,5,1,40,Low Risk
+M8942,D002,Repair,8,1,5,40,Low Risk
+M9221,NONE, ok ,8,1,5,40,Low Risk
+M10695,D003,Reject,5,1,8,40,Low Risk
+M8279,D004,Repair,4,2,5,40,Low Risk
+M8122,D003, ok ,5,2,4,40,Low Risk
+M11222,D001, ok ,5,2,4,40,Low Risk
+M10112,NONE,Repair,5,1,8,40,Low Risk
+M8140,D003,Reject,8,5,1,40,Low Risk
+M7235,D002, ok ,4,2,5,40,Low Risk
+M8808,D001, ok ,4,2,5,40,Low Risk
+M11187,NONE,OK,4,2,5,40,Low Risk
+M9878,NONE,reject,5,8,1,40,Low Risk
+M10459,D003,reject,5,4,2,40,Low Risk
+M11576,NONE, ok ,4,2,5,40,Low Risk
+M8383,D003,Reject,5,4,2,40,Low Risk
+M8946,D004,OK,4,2,5,40,Low Risk
+M7571,D003,Reject,5,8,1,40,Low Risk
+M8545,NONE,Repair,5,8,1,40,Low Risk
+M7056,D002, ok ,8,1,5,40,Low Risk
+M7954,D001,Repair,4,2,5,40,Low Risk
+M8865,D003,,4,2,5,40,Low Risk
+M9134,D002,Reject,8,1,5,40,Low Risk
+M8514,D001,OK,5,1,8,40,Low Risk
+M10213,D003,,5,8,1,40,Low Risk
+M9608,D003,,5,1,8,40,Low Risk
+M10965,D002,OK,8,5,1,40,Low Risk
+M8727,D002, ok ,8,1,5,40,Low Risk
+M10392,D001,Repair,5,4,2,40,Low Risk
+M7426,NONE,,5,4,2,40,Low Risk
+M9540,D004,Reject,8,5,1,40,Low Risk
+M8019,D002,OK,5,8,1,40,Low Risk
+M11593,D003,,5,2,4,40,Low Risk
+M10585,D003,OK,4,2,5,40,Low Risk
+M7867,D001,reject,4,2,5,40,Low Risk
+M8413,D002,reject,4,2,5,40,Low Risk
+M8898,D001, ok ,8,5,1,40,Low Risk
+M11437,D001,,8,1,5,40,Low Risk
+M9199,D001,Reject,4,2,5,40,Low Risk
+M9909,D002,Repair,5,8,1,40,Low Risk
+M7683,D004,reject,6,3,2,36,Low Risk
+M11803,D001,reject,4,9,1,36,Low Risk
+M10298,D003,reject,4,9,1,36,Low Risk
+M8912,D001,Reject,9,4,1,36,Low Risk
+M9756,D002,Repair,9,2,2,36,Low Risk
+M9650,D003,,4,3,3,36,Low Risk
+M11010,D003,OK,4,9,1,36,Low Risk
+M10753,D003,,4,1,9,36,Low Risk
+M7546,D001,reject,9,4,1,36,Low Risk
+M10069,NONE,OK,6,6,1,36,Low Risk
+M8854,D001, ok ,9,4,1,36,Low Risk
+M8037,D001,reject,6,3,2,36,Low Risk
+M9177,NONE,,4,1,9,36,Low Risk
+M10982,D001, ok ,9,1,4,36,Low Risk
+M8742,D003, ok ,6,1,6,36,Low Risk
+M9646,D001,Repair,9,2,2,36,Low Risk
+M8305,D001, ok ,6,2,3,36,Low Risk
+M11796,D004,,6,1,6,36,Low Risk
+M11237,D001, ok ,9,4,1,36,Low Risk
+M7817,D003,,4,1,9,36,Low Risk
+M7760,NONE, ok ,4,3,3,36,Low Risk
+M7124,D002,reject,6,6,1,36,Low Risk
+M7205,D003,Reject,4,1,9,36,Low Risk
+M9822,D002,Repair,6,2,3,36,Low Risk
+M10734,D001,Repair,4,3,3,36,Low Risk
+M7044,D004,OK,6,6,1,36,Low Risk
+M8030,NONE,OK,6,3,2,36,Low Risk
+M10288,D003,reject,6,2,3,36,Low Risk
+M11405,D001,Reject,6,3,2,36,Low Risk
+M10508,NONE,OK,4,9,1,36,Low Risk
+M7996,D001,reject,4,3,3,36,Low Risk
+M7352,NONE,OK,6,6,1,36,Low Risk
+M8910,D004,,6,6,1,36,Low Risk
+M9790,D003,Repair,6,3,2,36,Low Risk
+M11270,D001,,6,1,6,36,Low Risk
+M8777,D003,Reject,6,1,6,36,Low Risk
+M7857,D002,Reject,6,1,6,36,Low Risk
+M7804,D001, ok ,9,4,1,36,Low Risk
+M11119,D002,Reject,6,6,1,36,Low Risk
+M7818,D004,,4,1,9,36,Low Risk
+M10727,D001, ok ,4,9,1,36,Low Risk
+M11456,NONE,reject,9,4,1,36,Low Risk
+M11492,D004,,9,4,1,36,Low Risk
+M9842,D001,Repair,6,1,6,36,Low Risk
+M9058,D004,Repair,6,1,6,36,Low Risk
+M7983,D002,Repair,6,3,2,36,Low Risk
+M10061,D003,Repair,9,2,2,36,Low Risk
+M10990,D004,,6,3,2,36,Low Risk
+M11146,D002,,6,3,2,36,Low Risk
+M8050,D004, ok ,9,1,4,36,Low Risk
+M10322,D004,Reject,4,3,3,36,Low Risk
+M11268,NONE,Reject,4,9,1,36,Low Risk
+M8133,D004,Reject,6,6,1,36,Low Risk
+M11248,D004, ok ,4,9,1,36,Low Risk
+M10291,D004,reject,9,2,2,36,Low Risk
+M10857,D001,Repair,4,1,9,36,Low Risk
+M11515,D001,,9,1,4,36,Low Risk
+M9760,D002,Repair,9,4,1,36,Low Risk
+M9891,D002,reject,9,4,1,36,Low Risk
+M9542,D001,Repair,4,9,1,36,Low Risk
+M9355,D003, ok ,6,2,3,36,Low Risk
+M7965,NONE,,9,4,1,36,Low Risk
+M9285,D002,Reject,6,1,6,36,Low Risk
+M7248,NONE,OK,4,1,9,36,Low Risk
+M10704,D004, ok ,4,3,3,36,Low Risk
+M10585,D002,Reject,6,2,3,36,Low Risk
+M11132,NONE,OK,4,3,3,36,Low Risk
+M7742,D002, ok ,9,1,4,36,Low Risk
+M10083,D001,Repair,9,2,2,36,Low Risk
+M10857,NONE,,9,1,4,36,Low Risk
+M10301,D002, ok ,4,3,3,36,Low Risk
+M8495,D001,Reject,6,2,3,36,Low Risk
+M7640,NONE,OK,9,2,2,36,Low Risk
+M8293,NONE, ok ,6,2,3,36,Low Risk
+M11342,D001,OK,6,1,6,36,Low Risk
+M7895,D003,Repair,6,6,1,36,Low Risk
+M9211,D001,,4,1,9,36,Low Risk
+M8171,D004,OK,5,1,7,35,Low Risk
+M10142,NONE,Reject,7,1,5,35,Low Risk
+M7730,D003,reject,7,1,5,35,Low Risk
+M11084,NONE,OK,5,1,7,35,Low Risk
+M8691,D004,Repair,5,7,1,35,Low Risk
+M8617,D004,reject,5,7,1,35,Low Risk
+M7814,D002,Repair,7,1,5,35,Low Risk
+M7301,D002,Repair,5,7,1,35,Low Risk
+M9625,D001,,5,7,1,35,Low Risk
+M9141,D002,,7,1,5,35,Low Risk
+M11887,D002,Repair,5,1,7,35,Low Risk
+M11159,D002,Reject,5,1,7,35,Low Risk
+M11919,NONE,Reject,7,5,1,35,Low Risk
+M10882,D001,OK,5,1,7,35,Low Risk
+M7890,D002,Repair,7,1,5,35,Low Risk
+M11218,NONE,reject,5,1,7,35,Low Risk
+M10346,D001,reject,7,1,5,35,Low Risk
+M11903,D001, ok ,5,1,7,35,Low Risk
+M8568,D003, ok ,7,5,1,35,Low Risk
+M10214,D002,reject,7,5,1,35,Low Risk
+M7741,D001,Reject,7,5,1,35,Low Risk
+M10872,D004,Reject,7,1,5,35,Low Risk
+M9886,D004,OK,7,5,1,35,Low Risk
+M8830,D002,,5,1,7,35,Low Risk
+M8952,D004,reject,7,5,1,35,Low Risk
+M8016,D003,Reject,7,5,1,35,Low Risk
+M9879,NONE,Reject,7,5,1,35,Low Risk
+M10531,NONE,,5,1,7,35,Low Risk
+M10503,D001,OK,7,1,5,35,Low Risk
+M10934,D001,Repair,7,5,1,35,Low Risk
+M8681,D003, ok ,5,1,7,35,Low Risk
+M10358,D004,,5,1,7,35,Low Risk
+M11097,D003,Repair,7,5,1,35,Low Risk
+M11038,NONE,,5,1,7,35,Low Risk
+M8778,D003,reject,5,1,7,35,Low Risk
+M8353,D002,Repair,5,7,1,35,Low Risk
+M11175,D002,Reject,7,5,1,35,Low Risk
+M10544,D001,OK,7,1,5,35,Low Risk
+M11226,NONE, ok ,5,1,7,35,Low Risk
+M8696,D004,,5,7,1,35,Low Risk
+M10979,D001,Repair,5,1,7,35,Low Risk
+M7502,NONE,,8,4,1,32,Low Risk
+M9860,D001,Repair,4,1,8,32,Low Risk
+M8224,NONE,Reject,4,2,4,32,Low Risk
+M9984,D004,reject,4,2,4,32,Low Risk
+M11205,D002,,4,4,2,32,Low Risk
+M11642,D001, ok ,4,8,1,32,Low Risk
+M9775,D001,Reject,8,4,1,32,Low Risk
+M8446,NONE,Reject,8,1,4,32,Low Risk
+M11487,D001, ok ,8,1,4,32,Low Risk
+M8710,D004,Reject,8,4,1,32,Low Risk
+M10028,D001,Reject,8,1,4,32,Low Risk
+M9633,NONE,Reject,4,1,8,32,Low Risk
+M9268,D004, ok ,4,8,1,32,Low Risk
+M7449,D002,Reject,4,1,8,32,Low Risk
+M9157,D002,Repair,4,1,8,32,Low Risk
+M7578,D002,,4,4,2,32,Low Risk
+M8992,D004,Repair,8,4,1,32,Low Risk
+M10585,D001,reject,8,4,1,32,Low Risk
+M7850,NONE,OK,8,4,1,32,Low Risk
+M10549,D002,Reject,8,4,1,32,Low Risk
+M11446,D004,OK,8,4,1,32,Low Risk
+M10843,D003,reject,4,2,4,32,Low Risk
+M7441,D001,,4,1,8,32,Low Risk
+M11567,D004, ok ,4,2,4,32,Low Risk
+M7872,D002,OK,8,2,2,32,Low Risk
+M11909,D002,reject,8,4,1,32,Low Risk
+M11625,NONE, ok ,4,4,2,32,Low Risk
+M10756,D001,Reject,8,2,2,32,Low Risk
+M10795,NONE,reject,8,4,1,32,Low Risk
+M9568,NONE,Reject,8,1,4,32,Low Risk
+M7696,D003,Reject,8,2,2,32,Low Risk
+M9285,D002,,4,2,4,32,Low Risk
+M9921,D003,,4,8,1,32,Low Risk
+M8560,NONE,,8,1,4,32,Low Risk
+M10950,D003,OK,4,1,8,32,Low Risk
+M7105,D003,,8,2,2,32,Low Risk
+M8938,D001,Reject,4,2,4,32,Low Risk
+M8068,D004, ok ,8,2,2,32,Low Risk
+M10990,D004,reject,8,2,2,32,Low Risk
+M8726,D004,Reject,4,4,2,32,Low Risk
+M7920,NONE,Repair,8,1,4,32,Low Risk
+M10962,NONE,Reject,4,4,2,32,Low Risk
+M7566,D002,OK,4,8,1,32,Low Risk
+M11779,D002, ok ,4,1,8,32,Low Risk
+M9267,D002,Reject,4,8,1,32,Low Risk
+M9181,D001,reject,8,4,1,32,Low Risk
+M10579,NONE,Reject,8,2,2,32,Low Risk
+M8610,D004, ok ,4,8,1,32,Low Risk
+M10291,D002,OK,4,8,1,32,Low Risk
+M10193,D003,,4,8,1,32,Low Risk
+M10271,D001,OK,4,1,8,32,Low Risk
+M8520,D001,Repair,4,4,2,32,Low Risk
+M9451,D003,Repair,8,1,4,32,Low Risk
+M9385,D003,OK,4,2,4,32,Low Risk
+M11896,D002,Reject,4,1,8,32,Low Risk
+M8883,D002,OK,4,8,1,32,Low Risk
+M8320,D002,OK,8,2,2,32,Low Risk
+M7254,D004, ok ,8,2,2,32,Low Risk
+M7302,NONE, ok ,8,2,2,32,Low Risk
+M10520,D002,,4,1,8,32,Low Risk
+M7191,D003,OK,8,4,1,32,Low Risk
+M7367,D004,Repair,8,4,1,32,Low Risk
+M9175,D001,Reject,8,2,2,32,Low Risk
+M8194,NONE,Reject,8,1,4,32,Low Risk
+M8151,D004,Reject,5,3,2,30,Low Risk
+M8354,D002,Repair,6,1,5,30,Low Risk
+M7472,D002,reject,5,6,1,30,Low Risk
+M8855,D004,Repair,6,1,5,30,Low Risk
+M10638,D004, ok ,5,3,2,30,Low Risk
+M8346,NONE,,5,6,1,30,Low Risk
+M9185,NONE,Repair,5,6,1,30,Low Risk
+M10079,D004,OK,6,1,5,30,Low Risk
+M8115,NONE,OK,5,6,1,30,Low Risk
+M9446,D003,reject,5,2,3,30,Low Risk
+M7830,D003, ok ,6,1,5,30,Low Risk
+M7093,D004,Repair,6,1,5,30,Low Risk
+M9831,D004, ok ,6,1,5,30,Low Risk
+M8371,D003, ok ,6,1,5,30,Low Risk
+M7073,D001,OK,5,6,1,30,Low Risk
+M9793,D003,Repair,5,3,2,30,Low Risk
+M8178,D004,,6,5,1,30,Low Risk
+M7315,NONE,OK,5,3,2,30,Low Risk
+M8930,D001,OK,5,1,6,30,Low Risk
+M9783,D004,OK,5,2,3,30,Low Risk
+M11427,D003, ok ,5,1,6,30,Low Risk
+M7461,D002,OK,6,1,5,30,Low Risk
+M8151,D003,Repair,6,1,5,30,Low Risk
+M7780,D001,Repair,5,6,1,30,Low Risk
+M11396,D002,OK,6,1,5,30,Low Risk
+M10425,D001,reject,6,5,1,30,Low Risk
+M7511,D003,Repair,5,3,2,30,Low Risk
+M10615,NONE, ok ,5,1,6,30,Low Risk
+M10261,D002,reject,6,1,5,30,Low Risk
+M10519,NONE,,5,3,2,30,Low Risk
+M9341,D001,,5,6,1,30,Low Risk
+M11177,D001,Reject,6,1,5,30,Low Risk
+M7439,D004,Reject,5,1,6,30,Low Risk
+M9707,NONE,OK,5,6,1,30,Low Risk
+M7557,NONE,reject,5,3,2,30,Low Risk
+M11277,D004,reject,5,6,1,30,Low Risk
+M9651,NONE,Repair,5,6,1,30,Low Risk
+M8836,D001,reject,6,1,5,30,Low Risk
+M11387,D004,reject,5,1,6,30,Low Risk
+M10040,D003,Repair,6,1,5,30,Low Risk
+M9388,D001, ok ,5,1,6,30,Low Risk
+M10607,D001,,5,2,3,30,Low Risk
+M7171,D004,OK,6,1,5,30,Low Risk
+M11222,D001,,5,3,2,30,Low Risk
+M10034,D003,Reject,4,7,1,28,Low Risk
+M10453,D002,OK,7,1,4,28,Low Risk
+M9254,D002,reject,4,7,1,28,Low Risk
+M7864,D002,,4,7,1,28,Low Risk
+M10101,NONE,reject,7,4,1,28,Low Risk
+M11453,D001,Reject,7,1,4,28,Low Risk
+M11149,NONE, ok ,7,2,2,28,Low Risk
+M8208,D002, ok ,4,1,7,28,Low Risk
+M11315,D003,reject,7,2,2,28,Low Risk
+M7264,D001,,4,7,1,28,Low Risk
+M11244,D004,,4,7,1,28,Low Risk
+M10684,D002, ok ,7,2,2,28,Low Risk
+M11358,D003,reject,7,2,2,28,Low Risk
+M11244,D001,,4,1,7,28,Low Risk
+M10731,D004,,4,7,1,28,Low Risk
+M9613,D003,OK,7,2,2,28,Low Risk
+M10550,D003,Repair,7,1,4,28,Low Risk
+M8129,NONE,reject,7,2,2,28,Low Risk
+M7796,NONE,reject,4,7,1,28,Low Risk
+M9122,D004,Repair,7,1,4,28,Low Risk
+M7998,NONE, ok ,7,4,1,28,Low Risk
+M8219,D004,Reject,7,2,2,28,Low Risk
+M10261,D003,,4,1,7,28,Low Risk
+M9733,D003,OK,4,7,1,28,Low Risk
+M10985,NONE,OK,7,1,4,28,Low Risk
+M11284,D003,,7,2,2,28,Low Risk
+M10407,D001,Repair,4,7,1,28,Low Risk
+M9012,NONE,reject,7,1,4,28,Low Risk
+M10891,D001,Reject,7,2,2,28,Low Risk
+M11542,D004,Reject,4,7,1,28,Low Risk
+M8460,D001,Reject,4,1,7,28,Low Risk
+M11394,NONE,reject,4,1,7,28,Low Risk
+M10288,NONE,,4,1,7,28,Low Risk
+M10508,D002,Repair,7,4,1,28,Low Risk
+M7084,NONE,reject,7,2,2,28,Low Risk
+M8727,D003,Reject,7,1,4,28,Low Risk
+M9642,D004,,4,1,7,28,Low Risk
+M9653,D004,Reject,7,4,1,28,Low Risk
+M7533,D002,,4,1,7,28,Low Risk
+M10756,D004,Repair,7,4,1,28,Low Risk
+M9072,D004,Reject,4,7,1,28,Low Risk
+M11772,NONE,reject,7,2,2,28,Low Risk
+M11458,D003,,4,1,7,28,Low Risk
+M9105,D004,Reject,7,1,4,28,Low Risk
+M7834,D001,OK,4,1,7,28,Low Risk
+M11674,D003, ok ,7,4,1,28,Low Risk
+M10680,D001,Reject,4,7,1,28,Low Risk
+M10210,D004,reject,7,2,2,28,Low Risk
+M9508,D004, ok ,9,3,1,27,Low Risk
+M8633,D002,Reject,9,1,3,27,Low Risk
+M9259,D004, ok ,9,1,3,27,Low Risk
+M8362,D002,OK,9,1,3,27,Low Risk
+M11852,D004,OK,9,1,3,27,Low Risk
+M10517,NONE,Reject,9,1,3,27,Low Risk
+M11718,NONE,Repair,9,3,1,27,Low Risk
+M8331,D001,OK,9,3,1,27,Low Risk
+M8955,D002,,9,1,3,27,Low Risk
+M11803,D001, ok ,5,5,1,25,Low Risk
+M11754,D001,,5,1,5,25,Low Risk
+M7278,D002,reject,5,5,1,25,Low Risk
+M9460,D002,reject,5,1,5,25,Low Risk
+M8270,NONE, ok ,5,1,5,25,Low Risk
+M11164,D002,reject,5,5,1,25,Low Risk
+M7223,D004,reject,5,1,5,25,Low Risk
+M10292,D004,Repair,5,1,5,25,Low Risk
+M7937,D003,Repair,5,1,5,25,Low Risk
+M9266,D001,,5,5,1,25,Low Risk
+M7034,NONE,reject,5,5,1,25,Low Risk
+M11278,NONE, ok ,5,1,5,25,Low Risk
+M7047,D001,,5,5,1,25,Low Risk
+M7837,D003,reject,5,1,5,25,Low Risk
+M7940,D004,Repair,5,5,1,25,Low Risk
+M7017,NONE,Reject,5,5,1,25,Low Risk
+M7495,D002,OK,5,5,1,25,Low Risk
+M8749,D003,reject,5,1,5,25,Low Risk
+M11256,D004,Reject,5,5,1,25,Low Risk
+M9702,D002,OK,8,3,1,24,Low Risk
+M11533,D003,OK,8,3,1,24,Low Risk
+M11378,D001,Reject,4,6,1,24,Low Risk
+M8615,NONE, ok ,6,1,4,24,Low Risk
+M11127,D003,OK,8,1,3,24,Low Risk
+M7808,D004,,6,2,2,24,Low Risk
+M7486,NONE,OK,4,3,2,24,Low Risk
+M10697,D002,Repair,6,2,2,24,Low Risk
+M11301,D002,Repair,4,3,2,24,Low Risk
+M8682,D004,reject,4,6,1,24,Low Risk
+M9686,D004,OK,4,6,1,24,Low Risk
+M11954,D003,,4,6,1,24,Low Risk
+M9236,D002,OK,6,2,2,24,Low Risk
+M11369,D002,Repair,4,2,3,24,Low Risk
+M11808,D002, ok ,6,1,4,24,Low Risk
+M9776,D004,reject,4,3,2,24,Low Risk
+M10702,D002,,4,6,1,24,Low Risk
+M9408,D004,reject,4,2,3,24,Low Risk
+M9880,D004,OK,4,1,6,24,Low Risk
+M7550,D002,Reject,8,1,3,24,Low Risk
+M10010,D004,,4,3,2,24,Low Risk
+M10126,D002,OK,6,2,2,24,Low Risk
+M7648,D003,OK,4,6,1,24,Low Risk
+M11016,D002, ok ,8,1,3,24,Low Risk
+M9565,D004,Repair,6,1,4,24,Low Risk
+M8469,D004,OK,6,4,1,24,Low Risk
+M10920,D002,Reject,6,2,2,24,Low Risk
+M11753,D002,,6,1,4,24,Low Risk
+M11516,D002,OK,4,1,6,24,Low Risk
+M9945,D001,reject,8,3,1,24,Low Risk
+M11143,D003,Reject,4,1,6,24,Low Risk
+M9743,NONE,reject,4,2,3,24,Low Risk
+M10128,D003,,6,4,1,24,Low Risk
+M11808,NONE,Repair,8,1,3,24,Low Risk
+M9426,NONE,Reject,8,1,3,24,Low Risk
+M8232,D002,Reject,4,2,3,24,Low Risk
+M8534,D001,reject,8,1,3,24,Low Risk
+M8196,D004, ok ,4,3,2,24,Low Risk
+M7588,D004, ok ,4,1,6,24,Low Risk
+M7028,D004,Repair,4,2,3,24,Low Risk
+M9838,D003, ok ,4,2,3,24,Low Risk
+M11827,D002, ok ,4,3,2,24,Low Risk
+M8113,D002,reject,6,1,4,24,Low Risk
+M9179,D003,Repair,8,3,1,24,Low Risk
+M11014,D004,OK,4,2,3,24,Low Risk
+M8185,D004, ok ,4,6,1,24,Low Risk
+M10626,D002,Reject,4,1,6,24,Low Risk
+M10326,NONE,OK,8,1,3,24,Low Risk
+M9837,NONE,Repair,6,1,4,24,Low Risk
+M11062,D003,reject,6,2,2,24,Low Risk
+M11975,NONE,Repair,8,1,3,24,Low Risk
+M11417,D004,Repair,6,1,4,24,Low Risk
+M8073,D002,reject,6,4,1,24,Low Risk
+M9623,D001,Repair,8,1,3,24,Low Risk
+M11457,NONE,reject,8,1,3,24,Low Risk
+M8302,NONE,Repair,4,2,3,24,Low Risk
+M9748,NONE,Reject,6,4,1,24,Low Risk
+M10231,D003, ok ,4,1,6,24,Low Risk
+M7558,D002,Reject,4,3,2,24,Low Risk
+M11697,D003,Repair,4,3,2,24,Low Risk
+M7121,D001, ok ,6,1,4,24,Low Risk
+M7710,D002, ok ,6,4,1,24,Low Risk
+M7518,D001,Reject,8,3,1,24,Low Risk
+M9740,D004, ok ,6,2,2,24,Low Risk
+M7711,D004,,4,6,1,24,Low Risk
+M9880,NONE,OK,6,1,4,24,Low Risk
+M8007,D003,OK,4,3,2,24,Low Risk
+M10563,D002,Repair,4,3,2,24,Low Risk
+M11394,D004,OK,8,3,1,24,Low Risk
+M11290,NONE,,4,6,1,24,Low Risk
+M11681,D002,Repair,4,6,1,24,Low Risk
+M10589,D003,reject,8,3,1,24,Low Risk
+M8981,NONE,reject,8,3,1,24,Low Risk
+M7214,D002,reject,4,6,1,24,Low Risk
+M11371,D001,Reject,8,1,3,24,Low Risk
+M7451,NONE,OK,4,6,1,24,Low Risk
+M7473,D002, ok ,4,3,2,24,Low Risk
+M11727,NONE,reject,4,6,1,24,Low Risk
+M11539,D002,Reject,4,2,3,24,Low Risk
+M7320,D004,Repair,4,3,2,24,Low Risk
+M9505,D003, ok ,8,1,3,24,Low Risk
+M7416,NONE,Repair,4,2,3,24,Low Risk
+M10467,NONE,OK,6,1,4,24,Low Risk
+M10149,D003,Reject,6,1,4,24,Low Risk
+M7990,D004,Repair,6,2,2,24,Low Risk
+M7852,D004,,6,1,4,24,Low Risk
+M8753,D001,,4,6,1,24,Low Risk
+M8156,D004, ok ,6,1,4,24,Low Risk
+M11280,D004,OK,4,6,1,24,Low Risk
+M11987,D001,,4,3,2,24,Low Risk
+M10376,D004,Reject,4,1,6,24,Low Risk
+M8485,D003,reject,6,4,1,24,Low Risk
+M10496,D004,Repair,4,3,2,24,Low Risk
+M7823,D002,Reject,4,2,3,24,Low Risk
+M11537,D004, ok ,6,4,1,24,Low Risk
+M9499,D002,reject,4,2,3,24,Low Risk
+M9934,D003,OK,7,1,3,21,Low Risk
+M7332,D002,Reject,7,1,3,21,Low Risk
+M9728,NONE,reject,7,3,1,21,Low Risk
+M8291,NONE,Reject,7,3,1,21,Low Risk
+M9432,D003, ok ,7,1,3,21,Low Risk
+M9485,D004,Repair,7,1,3,21,Low Risk
+M10877,D003,,7,3,1,21,Low Risk
+M10595,D004,reject,7,3,1,21,Low Risk
+M10770,D001,,7,3,1,21,Low Risk
+M8229,D004,OK,7,1,3,21,Low Risk
+M9988,D001, ok ,7,1,3,21,Low Risk
+M8983,D002,OK,4,1,5,20,Low Risk
+M11854,D001,OK,4,1,5,20,Low Risk
+M11458,NONE,reject,5,1,4,20,Low Risk
+M9088,D001,reject,5,1,4,20,Low Risk
+M10549,D001,OK,5,1,4,20,Low Risk
+M8527,NONE,Reject,5,1,4,20,Low Risk
+M9006,NONE, ok ,4,5,1,20,Low Risk
+M8755,D001,Repair,4,5,1,20,Low Risk
+M8548,D003, ok ,4,1,5,20,Low Risk
+M11405,D004,Repair,4,5,1,20,Low Risk
+M9990,NONE,reject,4,1,5,20,Low Risk
+M7615,D003,Repair,5,1,4,20,Low Risk
+M7735,NONE,,4,1,5,20,Low Risk
+M11237,D002,reject,5,2,2,20,Low Risk
+M7253,D001, ok ,4,1,5,20,Low Risk
+M9610,D003, ok ,5,4,1,20,Low Risk
+M8234,D002,OK,4,5,1,20,Low Risk
+M9864,D002, ok ,5,1,4,20,Low Risk
+M9556,D004,Reject,5,2,2,20,Low Risk
+M8088,D004,reject,4,5,1,20,Low Risk
+M11119,NONE,,5,4,1,20,Low Risk
+M9163,D002,,5,1,4,20,Low Risk
+M10325,D002,,5,4,1,20,Low Risk
+M11173,D004,Reject,5,1,4,20,Low Risk
+M9378,D003,reject,5,1,4,20,Low Risk
+M8325,D004,Reject,5,2,2,20,Low Risk
+M8998,D003,reject,5,4,1,20,Low Risk
+M7272,D003, ok ,5,1,4,20,Low Risk
+M7033,NONE,Repair,4,5,1,20,Low Risk
+M10720,NONE,Reject,5,1,4,20,Low Risk
+M9371,NONE, ok ,5,1,4,20,Low Risk
+M8997,D003,,4,5,1,20,Low Risk
+M10007,D001, ok ,5,4,1,20,Low Risk
+M10593,NONE,Reject,4,5,1,20,Low Risk
+M11240,NONE,,4,5,1,20,Low Risk
+M10580,D004,OK,4,5,1,20,Low Risk
+M9545,D003, ok ,5,4,1,20,Low Risk
+M11955,NONE,reject,5,4,1,20,Low Risk
+M10463,D004,reject,5,4,1,20,Low Risk
+M10212,D002,Repair,9,2,1,18,Low Risk
+M8431,D004, ok ,6,3,1,18,Low Risk
+M11623,NONE,OK,6,1,3,18,Low Risk
+M11059,D003,Repair,6,3,1,18,Low Risk
+M8419,D001,,6,3,1,18,Low Risk
+M11954,NONE,reject,6,3,1,18,Low Risk
+M9142,D002,Reject,9,1,2,18,Low Risk
+M10729,D004, ok ,9,2,1,18,Low Risk
+M11546,NONE,Reject,9,1,2,18,Low Risk
+M11422,D002,,9,2,1,18,Low Risk
+M7881,D002,Repair,9,2,1,18,Low Risk
+M9178,D002,,6,3,1,18,Low Risk
+M10110,D004,OK,6,1,3,18,Low Risk
+M10323,NONE,,9,2,1,18,Low Risk
+M7363,NONE, ok ,6,3,1,18,Low Risk
+M8610,D001,Repair,9,2,1,18,Low Risk
+M10398,NONE,,9,1,2,18,Low Risk
+M9922,D001, ok ,9,1,2,18,Low Risk
+M10814,D004,Repair,6,3,1,18,Low Risk
+M7179,D002,reject,6,1,3,18,Low Risk
+M11635,D004,OK,6,3,1,18,Low Risk
+M11160,D002,reject,6,3,1,18,Low Risk
+M7388,D003, ok ,6,3,1,18,Low Risk
+M10588,D001,reject,6,3,1,18,Low Risk
+M9993,D004,,9,1,2,18,Low Risk
+M9629,D004,Repair,6,3,1,18,Low Risk
+M9519,NONE,,9,1,2,18,Low Risk
+M11594,D002,Reject,9,2,1,18,Low Risk
+M9412,D002,reject,6,1,3,18,Low Risk
+M9136,D003,reject,6,3,1,18,Low Risk
+M8091,NONE,,4,1,4,16,Low Risk
+M11251,NONE,,4,4,1,16,Low Risk
+M10311,D001,,4,4,1,16,Low Risk
+M11141,D004,reject,4,4,1,16,Low Risk
+M9052,D003,,4,2,2,16,Low Risk
+M8642,NONE,reject,8,2,1,16,Low Risk
+M10351,D001,Reject,4,1,4,16,Low Risk
+M8551,NONE,OK,4,2,2,16,Low Risk
+M10711,D002,,4,1,4,16,Low Risk
+M9019,D002,OK,4,4,1,16,Low Risk
+M11096,D003,Reject,4,1,4,16,Low Risk
+M10298,D004,OK,8,2,1,16,Low Risk
+M8768,D001,Repair,8,1,2,16,Low Risk
+M7176,D001,,8,1,2,16,Low Risk
+M11203,D004, ok ,4,4,1,16,Low Risk
+M11014,NONE, ok ,4,2,2,16,Low Risk
+M9069,D001,Reject,8,1,2,16,Low Risk
+M10480,D002,Reject,4,4,1,16,Low Risk
+M10656,NONE, ok ,4,4,1,16,Low Risk
+M10125,D003,OK,4,2,2,16,Low Risk
+M7349,D001,reject,4,2,2,16,Low Risk
+M8891,D002,,4,1,4,16,Low Risk
+M8916,D004,reject,8,1,2,16,Low Risk
+M9846,D002,Repair,8,2,1,16,Low Risk
+M9093,D003, ok ,4,2,2,16,Low Risk
+M7584,D002,Repair,8,2,1,16,Low Risk
+M9918,D001,reject,4,2,2,16,Low Risk
+M7204,NONE,Reject,8,2,1,16,Low Risk
+M7947,D004, ok ,8,1,2,16,Low Risk
+M7783,NONE, ok ,8,2,1,16,Low Risk
+M10655,D001,OK,4,4,1,16,Low Risk
+M9311,NONE,OK,8,2,1,16,Low Risk
+M8445,NONE,Repair,4,1,4,16,Low Risk
+M7657,D001,OK,4,1,4,16,Low Risk
+M7933,NONE,OK,8,2,1,16,Low Risk
+M10355,D003,Repair,8,1,2,16,Low Risk
+M11627,NONE,OK,4,2,2,16,Low Risk
+M8930,NONE,,4,4,1,16,Low Risk
+M8159,D002,reject,4,1,4,16,Low Risk
+M7578,D002,Repair,8,2,1,16,Low Risk
+M11589,D003,Repair,8,2,1,16,Low Risk
+M8523,D001,,5,3,1,15,Low Risk
+M7434,NONE,Repair,5,3,1,15,Low Risk
+M11708,D004,OK,5,3,1,15,Low Risk
+M11060,D003, ok ,5,3,1,15,Low Risk
+M11861,D001,reject,5,3,1,15,Low Risk
+M8246,NONE,Reject,5,1,3,15,Low Risk
+M7980,D004, ok ,5,1,3,15,Low Risk
+M8375,NONE,Reject,5,1,3,15,Low Risk
+M8929,D002,reject,5,3,1,15,Low Risk
+M11161,NONE,,5,3,1,15,Low Risk
+M8280,D004,Reject,5,1,3,15,Low Risk
+M8412,NONE,reject,5,1,3,15,Low Risk
+M9786,D002,Repair,5,3,1,15,Low Risk
+M7383,D004,Reject,5,1,3,15,Low Risk
+M11786,D001,Reject,5,1,3,15,Low Risk
+M7685,D003,reject,5,3,1,15,Low Risk
+M7104,D004,,5,1,3,15,Low Risk
+M10839,D003, ok ,5,3,1,15,Low Risk
+M10892,D004,Reject,5,1,3,15,Low Risk
+M11459,D003,Repair,5,3,1,15,Low Risk
+M9141,D001, ok ,7,2,1,14,Low Risk
+M10109,D003,reject,7,1,2,14,Low Risk
+M11347,NONE,Reject,7,2,1,14,Low Risk
+M9213,NONE,Repair,7,2,1,14,Low Risk
+M10570,D003, ok ,7,2,1,14,Low Risk
+M11880,D002,,7,1,2,14,Low Risk
+M11199,NONE,,7,1,2,14,Low Risk
+M7191,D002,OK,7,2,1,14,Low Risk
+M7993,D004,OK,7,2,1,14,Low Risk
+M9171,D002,Reject,7,1,2,14,Low Risk
+M7265,D004,Repair,7,1,2,14,Low Risk
+M9861,D003,Reject,7,1,2,14,Low Risk
+M10072,D002,reject,7,1,2,14,Low Risk
+M11389,NONE,reject,7,1,2,14,Low Risk
+M7137,NONE,reject,7,1,2,14,Low Risk
+M8701,D001,Reject,7,1,2,14,Low Risk
+M9902,D003,Repair,7,2,1,14,Low Risk
+M8821,D004,Reject,7,1,2,14,Low Risk
+M8251,D001, ok ,7,2,1,14,Low Risk
+M10299,NONE,reject,7,2,1,14,Low Risk
+M8143,D002,OK,7,2,1,14,Low Risk
+M10684,D002,Reject,4,1,3,12,Low Risk
+M7633,D001, ok ,4,1,3,12,Low Risk
+M8212,D001,reject,6,2,1,12,Low Risk
+M10514,D001,Repair,6,2,1,12,Low Risk
+M9270,NONE, ok ,4,1,3,12,Low Risk
+M9722,D004,reject,6,2,1,12,Low Risk
+M7639,D003, ok ,4,3,1,12,Low Risk
+M8838,NONE,reject,4,3,1,12,Low Risk
+M11496,NONE, ok ,4,1,3,12,Low Risk
+M9806,D004,OK,6,2,1,12,Low Risk
+M11162,NONE,Reject,6,2,1,12,Low Risk
+M10941,D001,,6,1,2,12,Low Risk
+M10017,D002,OK,4,3,1,12,Low Risk
+M8304,D001,Reject,6,1,2,12,Low Risk
+M7363,D003,reject,6,1,2,12,Low Risk
+M8137,D002,reject,4,1,3,12,Low Risk
+M9343,D002, ok ,4,1,3,12,Low Risk
+M9805,D002,OK,6,2,1,12,Low Risk
+M11152,D004,Repair,4,1,3,12,Low Risk
+M7742,D003,Reject,4,3,1,12,Low Risk
+M8426,D002,Repair,6,1,2,12,Low Risk
+M7276,NONE,,6,2,1,12,Low Risk
+M8383,D001,Repair,4,1,3,12,Low Risk
+M8317,D003, ok ,4,3,1,12,Low Risk
+M10836,D003, ok ,4,1,3,12,Low Risk
+M11833,D001,,6,2,1,12,Low Risk
+M7034,D002,OK,6,2,1,12,Low Risk
+M8462,D003,OK,6,2,1,12,Low Risk
+M9474,NONE, ok ,4,1,3,12,Low Risk
+M8214,NONE,,4,3,1,12,Low Risk
+M8284,D002,OK,4,3,1,12,Low Risk
+M8602,D004,Repair,5,2,1,10,Low Risk
+M7095,D003, ok ,5,1,2,10,Low Risk
+M10650,D004,Reject,5,2,1,10,Low Risk
+M8897,D001,OK,5,2,1,10,Low Risk
+M10491,D002,,5,2,1,10,Low Risk
+M8704,D002,Reject,5,1,2,10,Low Risk
+M11236,D002,reject,5,2,1,10,Low Risk
+M7557,NONE,reject,5,1,2,10,Low Risk
+M7178,D003,,5,1,2,10,Low Risk
+M9194,D004,OK,5,2,1,10,Low Risk
+M8547,D001, ok ,5,2,1,10,Low Risk
+M7093,D001,,5,1,2,10,Low Risk
+M11292,NONE,OK,5,2,1,10,Low Risk
+M8456,D003, ok ,5,2,1,10,Low Risk
+M7239,D002,,5,2,1,10,Low Risk
+M8338,NONE,OK,9,1,1,9,Low Risk
+M7108,D003,Reject,9,1,1,9,Low Risk
+M8791,D001,reject,9,1,1,9,Low Risk
+M7145,D003, ok ,9,1,1,9,Low Risk
+M8719,D003,OK,9,1,1,9,Low Risk
+M8078,D003,reject,9,1,1,9,Low Risk
+M8360,D001,OK,9,1,1,9,Low Risk
+M9667,NONE,Repair,8,1,1,8,Low Risk
+M11569,NONE,Reject,8,1,1,8,Low Risk
+M8609,D001,Reject,4,2,1,8,Low Risk
+M11352,NONE,,4,2,1,8,Low Risk
+M11451,D003,Repair,4,2,1,8,Low Risk
+M10000,D003,,8,1,1,8,Low Risk
+M11688,D001,Reject,8,1,1,8,Low Risk
+M11510,D001,Repair,8,1,1,8,Low Risk
+M9258,D003, ok ,4,2,1,8,Low Risk
+M11810,D002,Reject,4,1,2,8,Low Risk
+M8633,D003, ok ,4,2,1,8,Low Risk
+M10816,D003,reject,4,2,1,8,Low Risk
+M9747,D002,,8,1,1,8,Low Risk
+M7399,D002, ok ,8,1,1,8,Low Risk
+M7204,D001, ok ,4,1,2,8,Low Risk
+M9669,NONE,OK,8,1,1,8,Low Risk
+M9344,D004,reject,8,1,1,8,Low Risk
+M10235,D003,Repair,8,1,1,8,Low Risk
+M11604,D004, ok ,4,2,1,8,Low Risk
+M11228,D002,Repair,8,1,1,8,Low Risk
+M9473,D002,Reject,8,1,1,8,Low Risk
+M7487,D001,,8,1,1,8,Low Risk
+M11344,D004, ok ,4,1,2,8,Low Risk
+M7640,D002,Reject,7,1,1,7,Low Risk
+M7445,NONE,reject,7,1,1,7,Low Risk
+M10570,D002,Repair,7,1,1,7,Low Risk
+M7786,D002, ok ,7,1,1,7,Low Risk
+M11983,D002,reject,7,1,1,7,Low Risk
+M11561,D003,OK,7,1,1,7,Low Risk
+M11163,NONE,OK,7,1,1,7,Low Risk
+M9726,D004,OK,7,1,1,7,Low Risk
+M11231,D001,OK,7,1,1,7,Low Risk
+M11823,NONE, ok ,7,1,1,7,Low Risk
+M7836,D004,reject,7,1,1,7,Low Risk
+M7465,NONE,,7,1,1,7,Low Risk
+M10024,D004, ok ,6,1,1,6,Low Risk
+M8014,D002, ok ,6,1,1,6,Low Risk
+M11620,D001,Repair,6,1,1,6,Low Risk
+M11229,D002,Repair,6,1,1,6,Low Risk
+M10069,D002, ok ,6,1,1,6,Low Risk
+M10391,NONE,reject,6,1,1,6,Low Risk
+M8498,D001,OK,6,1,1,6,Low Risk
+M10470,NONE, ok ,6,1,1,6,Low Risk
+M9504,D004,Repair,6,1,1,6,Low Risk
+M11307,D002,,6,1,1,6,Low Risk
+M11278,D003, ok ,5,1,1,5,Low Risk
+M11261,D002,OK,5,1,1,5,Low Risk
+M11976,D002,Reject,5,1,1,5,Low Risk
+M9405,D004,Reject,5,1,1,5,Low Risk
+M11851,NONE, ok ,4,1,1,4,Low Risk
+M7380,D003,Repair,4,1,1,4,Low Risk
+M9328,NONE,,4,1,1,4,Low Risk
+M10699,D002,OK,4,1,1,4,Low Risk
