@@ -1,0 +1,8 @@
+Station,Total_Alerts,Avg_Response_Time_Minutes,Min_Response_Time,Max_Response_Time
+ stn-05 ,728,4.39,1.0,8.0
+STN-01,700,4.51,1.0,8.0
+STN-02,705,4.41,1.0,8.0
+STN-03,754,4.52,1.0,8.0
+STN-04,770,4.39,1.0,8.0
+STN-05,668,4.6,1.0,8.0
+Stn-03,725,4.49,1.0,8.0
